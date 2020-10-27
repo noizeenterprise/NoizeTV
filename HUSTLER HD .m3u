@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:0,HUSTLER HD 
-http://188.35.9.26:2030/udp/047c
+http://188.35.9.26:2030/udp/047c tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.logotypes101.com%2Flogos%2F932%2FD3B9AE016787559BA27E8AC480D6C510%2Fhustlertv.png&f=1&nofb=1"
 #EXTINF:1980,Black playboy 
 http://188.35.9.12:21101/udp/127h
 #EXTINF:-1,ADULT XXX
