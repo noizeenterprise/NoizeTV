@@ -1,13 +1,11 @@
 ﻿#EXTM3U
 #EXTINF:0,tvg-name="HUSTLER HD" tvg-logo="http://www.logotypes101.com/logos/932/D3B9AE016787559BA27E8AC480D6C510/hustlertv.png"
 http://188.35.9.26:2030/udp/047c
-#EXTINF:1980,Black playboy 
-http://188.35.9.12:21101/udp/127h
 #EXTINF:-1,ADULT XXX
 http://v2.14mp4.com:80/av-hls/20160713/m146/index.m3u8
-#EXTINF:-1,tvg-name="Erotica X" tvg-logo="https://thumb-v-cl.xhcdn.com/site/000/003/775/logo.jpg.v1541000895"
+#EXTINF:-1,tvg-name="Erotica X" tvg-logo="https://thumb-v-cl.xhcdn.com/site/000/003/775/logo.jpg"
 http://v2.14mp4.com:80/av-hls/20160713/m147/index.m3u8
-#EXTINF:-1,tvg-name="Tushy" tvg-logo="https://www.iafd.com/graphics/headshots/tushycom_logo.jpg"
+#EXTINF:-1,tvg-name="Tushy.com" tvg-logo="https://www.iafd.com/graphics/headshots/tushycom_logo.jpg"
 http://v2.14mp4.com:80/av-hls/20160713/m49/index.m3u8
 #EXTINF:-1,ADULT XXX
 http://v2.14mp4.com:80/av-hls/20160713/m50/index.m3u8
