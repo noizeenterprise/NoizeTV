@@ -1,0 +1,102 @@
+#EXTINF
+#EXTINF:-1 group-title="US TV",ADULT SWIM
+http://stream.noizetv.ml:25461/903310/034806/22043
+#EXTINF:-1 group-title="US TV",Comedy Central
+http://stream.noizetv.ml:25461/903310/034806/22065
+#EXTINF:-1 group-title="US TV",Syfy East
+http://stream.noizetv.ml:25461/903310/034806/22947
+#EXTINF:-1 group-title="US TV",Syfy West
+http://stream.noizetv.ml:25461/903310/034806/22948
+
+#EXTINF:-1 group-title="-BET",BET
+http://stream.noizetv.ml:25461/903310/034806/22052
+#EXTINF:-1 group-title="-BET",BET HER
+http://stream.noizetv.ml:25461/903310/034806/22053
+#EXTINF:-1 group-title="-BET",BET Jams
+http://stream.noizetv.ml:25461/903310/034806/22054
+#EXTINF:-1 group-title="-BET",BET SOUL
+http://stream.noizetv.ml:25461/903310/034806/22055
+#EXTINF:-1 group-title="-BET",BET West
+http://stream.noizetv.ml:25461/903310/034806/22057
+
+#EXTINF:-1 group-title="-CINEMAX",CINEMAX 5 STARMAX 
+http://stream.noizetv.ml:25461/903310/034806/22878
+#EXTINF:-1 group-title="-CINEMAX",CINEMAX East 
+http://stream.noizetv.ml:25461/903310/034806/22879
+#EXTINF:-1 group-title="-CINEMAX",CINEMAX West 
+http://stream.noizetv.ml:25461/903310/034806/22880
+#EXTINF:-1 group-title="-CINEMAX",CINEMAX ACTIONMAX 
+http://stream.noizetv.ml:25461/903310/034806/22881
+#EXTINF:-1 group-title="-CINEMAX",CINEMAX MORE MAX 
+http://stream.noizetv.ml:25461/903310/034806/22882
+#EXTINF:-1 group-title="-CINEMAX",CINEMAX MOVIE MAX 
+http://stream.noizetv.ml:25461/903310/034806/22883
+#EXTINF:-1 group-title="-CINEMAX",CINEMAX OUTER MAX 
+http://stream.noizetv.ml:25461/903310/034806/22884
+#EXTINF:-1 group-title="-CINEMAX",CINEMAX THRILLER MAX 
+http://stream.noizetv.ml:25461/903310/034806/22885
+
+#EXTINF:-1 group-title="-DISCOVERY",Animal Planet East 
+http://stream.noizetv.ml:25461/903310/034806/22045
+#EXTINF:-1 group-title="-DISCOVERY",Animal Planet West 
+http://stream.noizetv.ml:25461/903310/034806/22046
+#EXTINF:-1 group-title="-DISCOVERY",Discovery Channel 
+http://stream.noizetv.ml:25461/903310/034806/22074
+#EXTINF:-1 group-title="-DISCOVERY",Discovery Life 
+http://stream.noizetv.ml:25461/903310/034806/22075
+#EXTINF:-1 group-title="-DISCOVERY",Discovery Family
+http://stream.noizetv.ml:25461/903310/034806/22076
+#EXTINF:-1 group-title="-DISCOVERY",Discovery Science
+http://stream.noizetv.ml:25461/903310/034806/22077
+#EXTINF:-1 group-title="-DISCOVERY",Discovery Velocity
+http://stream.noizetv.ml:25461/903310/034806/22078
+#EXTINF:-1 group-title="-DISCOVERY",Nat Geo WILD 
+http://stream.noizetv.ml:25461/903310/034806/22122
+
+#EXTINF:-1 group-title="-ENTERTAINMENT",Bravo East 
+http://stream.noizetv.ml:25461/903310/034806/22059
+#EXTINF:-1 group-title="-ENTERTAINMENT",Bravo West 
+http://stream.noizetv.ml:25461/903310/034806/22060
+#EXTINF:-1 group-title="-ENTERTAINMENT",Food Network West 
+http://stream.noizetv.ml:25461/903310/034806/22085
+#EXTINF:-1 group-title="-ENTERTAINMENT",MTV 
+http://stream.noizetv.ml:25461/903310/034806/22120
+#EXTINF:-1 group-title="-ENTERTAINMENT",UFC Network
+http://stream.noizetv.ml:25461/903310/034806/22177
+#EXTINF:-1 group-title="-ENTERTAINMENT",Paramount East 
+http://stream.noizetv.ml:25461/903310/034806/22906
+
+#EXTINF:-1 group-title="-HBO",HBO East 
+http://stream.noizetv.ml:25461/903310/034806/22894
+#EXTINF:-1 group-title="-HBO",HBO West 
+http://stream.noizetv.ml:25461/903310/034806/22895
+#EXTINF:-1 group-title="-HBO",HBO Comedy 
+http://stream.noizetv.ml:25461/903310/034806/22897
+#EXTINF:-1 group-title="-HBO",HBO Family 
+http://stream.noizetv.ml:25461/903310/034806/22898
+#EXTINF:-1 group-title="-HBO",HBO Signature 
+http://stream.noizetv.ml:25461/903310/034806/22900
+#EXTINF:-1 group-title="-HBO",HBO Zone 
+http://stream.noizetv.ml:25461/903310/034806/22901
+
+#EXTINF:-1 group-title="-SHOWTIME",Showtime East 
+http://stream.noizetv.ml:25461/903310/034806/22908
+#EXTINF:-1 group-title="-SHOWTIME",Showtime West 
+http://stream.noizetv.ml:25461/903310/034806/22909
+#EXTINF:-1 group-title="-SHOWTIME",Showtime 2 
+http://stream.noizetv.ml:25461/903310/034806/22910
+
+#EXTINF:-1 group-title="RADIO SR",Sky Radio Suriname
+http://radio.noizetv.ml:8000/radio1-0
+#EXTINF:-1 group-title="RADIO SR",ACME Suriname
+http://radio.noizetv.ml:8000/radio1-1
+#EXTINF:-1 group-title="RADIO SR",Radio 10
+http://radio.noizetv.ml:8000/radio1-2
+#EXTINF:-1 group-title="RADIO SR",Rapar Suriname
+http://radio.noizetv.ml:8000/radio1-3
+#EXTINF:-1 group-title="RADIO SR",SRS Suriname
+http://radio.noizetv.ml:8000/radio2-0
+#EXTINF:-1 group-title="RADIO SR",Boskopu Suriname
+http://radio.noizetv.ml:8000/radio2-1
+#EXTINF:-1 group-title="RADIO SR",Noer Suriname
+http://radio.noizetv.ml:8000/radio2-2
