@@ -117,18 +117,18 @@ http://80.94.54.42/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Lifetv.sk" tvg-name="Life.tv" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Rvy8Wdu.png" tvg-url="" group-title="Slovakia",Life.tv (720p)
 http://86.110.233.68:1935/lifetv/lifetv.stream_360p/playlist.m3u8
 
-#EXTINF:-1 group-title="RADIO SR",Sky Radio
+#EXTINF:-1 group-title="RADIO SR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdlprizi2qtumd.cloudfront.net%2Fimages%2Fstations%2Fsky-suriname-thumb.png&f=1&nofb=1",Sky Radio
 http://radio.noizetv.ml:8000/radio1-0
-#EXTINF:-1 group-title="RADIO SR",ACME
+#EXTINF:-1 group-title="RADIO SR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn-profiles.tunein.com%2Fs100650%2Fimages%2Flogog.jpg%3Ft%3D153876&f=1&nofb=1",ACME
 http://radio.noizetv.ml:8000/radio1-1
-#EXTINF:-1 group-title="RADIO SR",Radio 10
+#EXTINF:-1 group-title="RADIO SR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-radiotime-logos.tunein.com%2Fs85876d.png&f=1&nofb=1",Radio 10
 http://radio.noizetv.ml:8000/radio1-2
-#EXTINF:-1 group-title="RADIO SR",Rapar
+#EXTINF:-1 group-title="RADIO SR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fhindoestaanseradio.com%2Fwordpress%2Fwp-content%2Fuploads%2F2015%2F10%2FRapar.jpg&f=1&nofb=1",Rapar
 http://radio.noizetv.ml:8000/radio1-3
-#EXTINF:-1 group-title="RADIO SR",SRS
+#EXTINF:-1 group-title="RADIO SR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-radiotime-logos.tunein.com%2Fs98690d.png&f=1&nofb=1",SRS
 http://radio.noizetv.ml:8000/radio2-0
-#EXTINF:-1 group-title="RADIO SR",Boskopu
+#EXTINF:-1 group-title="RADIO SR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmytuner.global.ssl.fastly.net%2Fmedia%2Ftvos_radios%2F28bxkraxgjaz.jpg&f=1&nofb=1",Boskopu
 http://radio.noizetv.ml:8000/radio2-1
-#EXTINF:-1 group-title="RADIO SR",Noer
+#EXTINF:-1 group-title="RADIO SR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsurinameradio.com%2Fimages%2Fradio%2FNoer.png&f=1&nofb=1",Noer
 http://radio.noizetv.ml:8000/radio2-2
 
