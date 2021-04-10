@@ -7,14 +7,6 @@ http://supersonictv.live:25461/903310/034806/22065
 http://supersonictv.live:25461/903310/034806/22947
 #EXTINF:-1 group-title="US TV",Syfy West
 http://supersonictv.live:25461/903310/034806/22948
-#EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/09092020/baywatch_circle_190x190.png" tvg-url="" group-title="US TV",Baywatch
-http://d3mxmx98etcevi.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d815eb889bca2ce7b746fdd/colorLogoPNG.png" tvg-url="" group-title="US TV",Baywatch
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png" tvg-url="" group-title="US TV",Comedy Central
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="ComedyCentralStandUp.us" tvg-name="Comedy Central Stand-Up" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca675d6593a5d78f0e85c2e/colorLogoPNG.png" tvg-url="" group-title="US TV",Comedy Central Stand-Up
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca675d6593a5d78f0e85c2e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 group-title="-BET",BET
 http://supersonictv.live:25461/903310/034806/22052
@@ -87,6 +79,15 @@ http://supersonictv.live:25461/903310/034806/22900
 #EXTINF:-1 group-title="-HBO",HBO Zone 
 http://supersonictv.live:25461/903310/034806/22901
 
+#EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/09092020/baywatch_circle_190x190.png" tvg-url="" group-title="-Pluto TV",Baywatch
+http://d3mxmx98etcevi.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d815eb889bca2ce7b746fdd/colorLogoPNG.png" tvg-url="" group-title="-Pluto TV",Baywatch
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png" tvg-url="" group-title="-Pluto TV",Comedy Central
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="ComedyCentralStandUp.us" tvg-name="Comedy Central Stand-Up" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ca675d6593a5d78f0e85c2e/colorLogoPNG.png" tvg-url="" group-title="-Pluto TV",Comedy Central Stand-Up
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca675d6593a5d78f0e85c2e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 group-title="-SHOWTIME",Showtime East 
 http://supersonictv.live:25461/903310/034806/22908
 #EXTINF:-1 group-title="-SHOWTIME",Showtime West 
@@ -109,7 +110,6 @@ https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Lifetv.sk" tvg-name="Life.tv" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Rvy8Wdu.png" tvg-url="" group-title="Slovakia",Life.tv (720p)
 http://86.110.233.68:1935/lifetv/lifetv.stream_360p/playlist.m3u8
-
 
 #EXTINF:-1 group-title="RADIO SR",Sky Radio
 http://radio.noizetv.ml:8000/radio1-0
