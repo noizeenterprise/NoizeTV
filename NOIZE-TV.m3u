@@ -60,8 +60,7 @@ http://supersonictv.live:25461/903310/034806/22060
 #EXTINF:-1 group-title="-ENTERTAINMENT",Food Network West 
 http://supersonictv.live:25461/903310/034806/22085
 #EXTINF:-1 group-title="-ENTERTAINMENT",MTV 
-
-http://supersonictv.live:25461/903310/034806/22177
+http://supersonictv.live:25461/903310/034806/22120
 #EXTINF:-1 group-title="-ENTERTAINMENT",Paramount East 
 http://supersonictv.live:25461/903310/034806/22906
 
@@ -98,8 +97,9 @@ http://supersonictv.live:25461/903310/034806/22910
 http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="-SPORTS",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-http://supersonictv.live:25461/903310/034806/22120
 #EXTINF:-1 group-title="-SPORTS",UFC Network
+http://supersonictv.live:25461/903310/034806/22177
+
 
 #EXTINF:-1 tvg-id="OutsideTV.ca" tvg-name="Outside TV" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/snuV96y.png" tvg-url="" group-title="CANADA",Outside TV
 https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
