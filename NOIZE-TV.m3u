@@ -19,21 +19,21 @@ http://supersonictv.live:25461/903310/034806/22055
 #EXTINF:-1 group-title="-BET",BET West
 http://supersonictv.live:25461/903310/034806/22057
 
-#EXTINF:-1 group-title="-CINEMAX",CINEMAX 5 STARMAX 
+#EXTINF:-1 group-title="-CINEMAX" tvg-logo="http://noizetv.ml/NoizeTV.jpg",CINEMAX 5 STARMAX 
 http://supersonictv.live:25461/903310/034806/22878
-#EXTINF:-1 group-title="-CINEMAX",CINEMAX East 
+#EXTINF:-1 group-title="-CINEMAX" tvg-logo="http://noizetv.ml/NoizeTV.jpg",CINEMAX East 
 http://supersonictv.live:25461/903310/034806/22879
-#EXTINF:-1 group-title="-CINEMAX",CINEMAX West 
+#EXTINF:-1 group-title="-CINEMAX" tvg-logo="http://noizetv.ml/NoizeTV.jpg",CINEMAX West 
 http://supersonictv.live:25461/903310/034806/22880
-#EXTINF:-1 group-title="-CINEMAX",CINEMAX ACTIONMAX 
+#EXTINF:-1 group-title="-CINEMAX" tvg-logo="http://noizetv.ml/NoizeTV.jpg",CINEMAX ACTIONMAX 
 http://supersonictv.live:25461/903310/034806/22881
-#EXTINF:-1 group-title="-CINEMAX",CINEMAX MORE MAX 
+#EXTINF:-1 group-title="-CINEMAX" tvg-logo="http://noizetv.ml/NoizeTV.jpg",CINEMAX MORE MAX 
 http://supersonictv.live:25461/903310/034806/22882
-#EXTINF:-1 group-title="-CINEMAX",CINEMAX MOVIE MAX 
+#EXTINF:-1 group-title="-CINEMAX" tvg-logo="http://noizetv.ml/NoizeTV.jpg",CINEMAX MOVIE MAX 
 http://supersonictv.live:25461/903310/034806/22883
-#EXTINF:-1 group-title="-CINEMAX",CINEMAX OUTER MAX 
+#EXTINF:-1 group-title="-CINEMAX" tvg-logo="http://noizetv.ml/NoizeTV.jpg",CINEMAX OUTER MAX 
 http://supersonictv.live:25461/903310/034806/22884
-#EXTINF:-1 group-title="-CINEMAX",CINEMAX THRILLER MAX 
+#EXTINF:-1 group-title="-CINEMAX" tvg-logo="http://noizetv.ml/NoizeTV.jpg",CINEMAX THRILLER MAX 
 http://supersonictv.live:25461/903310/034806/22885
 
 #EXTINF:-1 group-title="-DISCOVERY",Animal Planet East 
