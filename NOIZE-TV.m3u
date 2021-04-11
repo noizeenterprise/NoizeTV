@@ -5,24 +5,52 @@ http://smartersplus.com:8880/FLAF122155/576DYQQ52/3167
 http://supersonictv.live:25461/903310/034806/22043
 #EXTINF:-1 group-title="US TV",AMC
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3162
+#EXTINF:-1 group-title="US TV",Bravo East 
+http://supersonictv.live:25461/903310/034806/22059
+#EXTINF:-1 group-title="US TV",Bravo West 
+http://supersonictv.live:25461/903310/034806/22060
+#EXTINF:-1 group-title="US TV",Cartoon Network
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3152
 #EXTINF:-1 group-title="US TV",Comedy Central
 http://supersonictv.live:25461/903310/034806/22065
+#EXTINF:-1 group-title="US TV",CNBC
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3148
+#EXTINF:-1 group-title="US TV",CW
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3145
+#EXTINF:-1 group-title="US TV",E!
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3138
+#EXTINF:-1 group-title="US TV",Food Network
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3133
+#EXTINF:-1 group-title="US TV",FX
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3127
+#EXTINF:-1 group-title="US TV",FXX
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3126
+#EXTINF:-1 group-title="US TV",Lifetime
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3115
+#EXTINF:-1 group-title="US TV",MTV 
+http://supersonictv.live:25461/903310/034806/22120
+#EXTINF:-1 group-title="US TV",Nickelodeon
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/30049
+#EXTINF:-1 group-title="US TV",Paramount East 
+http://supersonictv.live:25461/903310/034806/22906
+#EXTINF:-1 group-title="US TV",SyFy
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3096
 #EXTINF:-1 group-title="US TV",Syfy East
 http://supersonictv.live:25461/903310/034806/22947
 #EXTINF:-1 group-title="US TV",Syfy West
 http://supersonictv.live:25461/903310/034806/22948
 #EXTINF:-1 group-title="US TV",SPIKE
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3097
-#EXTINF:-1 group-title="US TV",SyFy
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3096
 #EXTINF:-1 group-title="US TV",TBS
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3095
 #EXTINF:-1 group-title="US TV",TLC
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3093
 #EXTINF:-1 group-title="US TV",TNT
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3092
-#EXTINF:-1 group-title="US TV",Nickelodeon
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/30049
+#EXTINF:-1 group-title="US TV",Travel channel
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3091
+#EXTINF:-1 group-title="US TV",VH1
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3087
 
 #EXTINF:-1 group-title="-BET",BET
 http://supersonictv.live:25461/903310/034806/22052
@@ -73,35 +101,6 @@ http://smartersplus.com:8880/FLAF122155/576DYQQ52/30060
 #EXTINF:-1 group-title="-DISCOVERY",NAT GEO
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3109
 
-#EXTINF:-1 group-title="-ENTERTAINMENT",Cartoon Network
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3152
-#EXTINF:-1 group-title="-ENTERTAINMENT",Bravo East 
-http://supersonictv.live:25461/903310/034806/22059
-#EXTINF:-1 group-title="-ENTERTAINMENT",Bravo West 
-http://supersonictv.live:25461/903310/034806/22060
-#EXTINF:-1 group-title="-ENTERTAINMENT",CNBC
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3148
-#EXTINF:-1 group-title="-ENTERTAINMENT",CW
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3145
-#EXTINF:-1 group-title="-ENTERTAINMENT",E!
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3138
-#EXTINF:-1 group-title="-ENTERTAINMENT",Food Network
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3133
-#EXTINF:-1 group-title="-ENTERTAINMENT",FX
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3127
-#EXTINF:-1 group-title="-ENTERTAINMENT",FXX
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3126
-#EXTINF:-1 group-title="-ENTERTAINMENT",Lifetime
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3115
-#EXTINF:-1 group-title="-ENTERTAINMENT",MTV 
-http://supersonictv.live:25461/903310/034806/22120
-#EXTINF:-1 group-title="-ENTERTAINMENT",Paramount East 
-http://supersonictv.live:25461/903310/034806/22906
-#EXTINF:-1 group-title="-ENTERTAINMENT",Travel channel
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3091
-#EXTINF:-1 group-title="-ENTERTAINMENT",VH1
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3087
-
 #EXTINF:-1 group-title="-HBO",HBO East 
 http://supersonictv.live:25461/903310/034806/22894
 #EXTINF:-1 group-title="-HBO",HBO West 
@@ -151,9 +150,9 @@ https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.ca" tvg-name="World Poker Tour" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/ZqB9etQ.png" tvg-url="" group-title="CANADA",World Poker Tour
 https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FashionTVCzechSlovak.fr" tvg-name="FashionTV Czech&Slovak" tvg-country="CZ;SK" tvg-language="English" tvg-logo="" tvg-url="" group-title="Slovakia",FashionTV
+#EXTINF:-1 tvg-id="FashionTVCzechSlovak.fr" tvg-name="FashionTV Czech&Slovak" tvg-country="CZ;SK" tvg-language="English" tvg-logo="" tvg-url="" group-title="SLOVAKIA",FashionTV
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Lifetv.sk" tvg-name="Life.tv" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Rvy8Wdu.png" tvg-url="" group-title="Slovakia",Life.tv
+#EXTINF:-1 tvg-id="Lifetv.sk" tvg-name="Life.tv" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Rvy8Wdu.png" tvg-url="" group-title="SLOVAKIA",Life.tv
 http://86.110.233.68:1935/lifetv/lifetv.stream_360p/playlist.m3u8
 
 #EXTINF:-1 group-title="RADIO SR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdlprizi2qtumd.cloudfront.net%2Fimages%2Fstations%2Fsky-suriname-thumb.png&f=1&nofb=1",Sky Radio
