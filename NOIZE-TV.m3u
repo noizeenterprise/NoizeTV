@@ -54,7 +54,7 @@ http://supersonictv.live:25461/903310/034806/22884
 #EXTINF:-1 group-title="-CINEMAX" tvg-logo="http://noizetv.ml/NoizeTV.jpg",CINEMAX THRILLER MAX 
 http://supersonictv.live:25461/903310/034806/22885
 
-#EXTINF:-1 group-title="DISCOVERY",Animal Planet
+#EXTINF:-1 group-title="-DISCOVERY",Animal Planet
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3161
 #EXTINF:-1 group-title="-DISCOVERY",Discovery Channel 
 http://supersonictv.live:25461/903310/034806/22074
@@ -66,42 +66,42 @@ http://supersonictv.live:25461/903310/034806/22076
 http://supersonictv.live:25461/903310/034806/22077
 #EXTINF:-1 group-title="-DISCOVERY",Discovery Velocity
 http://supersonictv.live:25461/903310/034806/22078
-#EXTINF:-1 group-title="DISCOVERY",History
+#EXTINF:-1 group-title="-DISCOVERY",History
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3118
 #EXTINF:-1 group-title="-DISCOVERY",Nat Geo WILD 
 http://supersonictv.live:25461/903310/034806/22122
-#EXTINF:-1 group-title="DISCOVERY",NAT GEO WILD
+#EXTINF:-1 group-title="-DISCOVERY",NAT GEO WILD
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/30060
-#EXTINF:-1 group-title="DISCOVERY",NAT GEO
+#EXTINF:-1 group-title="-DISCOVERY",NAT GEO
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3109
 
-#EXTINF:-1 group-title="ENTERTAINMENT",Cartoon Network
+#EXTINF:-1 group-title="-ENTERTAINMENT",Cartoon Network
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3152
 #EXTINF:-1 group-title="-ENTERTAINMENT",Bravo East 
 http://supersonictv.live:25461/903310/034806/22059
 #EXTINF:-1 group-title="-ENTERTAINMENT",Bravo West 
 http://supersonictv.live:25461/903310/034806/22060
-#EXTINF:-1 group-title="ENTERTAINMENT",CNBC
+#EXTINF:-1 group-title="-ENTERTAINMENT",CNBC
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3148
-#EXTINF:-1 group-title="ENTERTAINMENT",CW
+#EXTINF:-1 group-title="-ENTERTAINMENT",CW
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3145
-#EXTINF:-1 group-title="ENTERTAINMENT",E!
+#EXTINF:-1 group-title="-ENTERTAINMENT",E!
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3138
-#EXTINF:-1 group-title="ENTERTAINMENT",Food Network
+#EXTINF:-1 group-title="-ENTERTAINMENT",Food Network
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3133
-#EXTINF:-1 group-title="ENTERTAINMENT",FX
+#EXTINF:-1 group-title="-ENTERTAINMENT",FX
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3127
-#EXTINF:-1 group-title="ENTERTAINMENT",FXX
+#EXTINF:-1 group-title="-ENTERTAINMENT",FXX
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3126
-#EXTINF:-1 group-title="ENTERTAINMENT",Lifetime
+#EXTINF:-1 group-title="-ENTERTAINMENT",Lifetime
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3115
 #EXTINF:-1 group-title="-ENTERTAINMENT",MTV 
 http://supersonictv.live:25461/903310/034806/22120
 #EXTINF:-1 group-title="-ENTERTAINMENT",Paramount East 
 http://supersonictv.live:25461/903310/034806/22906
-#EXTINF:-1 group-title="ENTERTAINMENT",Travel channel
+#EXTINF:-1 group-title="-ENTERTAINMENT",Travel channel
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3091
-#EXTINF:-1 group-title="ENTERTAINMENT",VH1
+#EXTINF:-1 group-title="-ENTERTAINMENT",VH1
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3087
 
 #EXTINF:-1 group-title="-HBO",HBO East 
@@ -132,7 +132,7 @@ http://supersonictv.live:25461/903310/034806/22908
 http://supersonictv.live:25461/903310/034806/22909
 #EXTINF:-1 group-title="-SHOWTIME",Showtime 2 
 http://supersonictv.live:25461/903310/034806/22910
-#EXTINF:-1 group-title="SHOWTIME",SHOWTIME 2
+#EXTINF:-1 group-title="-SHOWTIME",SHOWTIME 2
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3098
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9lYz3No.png" group-title="-SPORTS",MMA Junkie
