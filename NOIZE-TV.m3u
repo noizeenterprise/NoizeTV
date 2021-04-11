@@ -23,15 +23,13 @@ http://smartersplus.com:8880/FLAF122155/576DYQQ52/3093
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3092
 #EXTINF:-1 group-title="US TV",Nickelodeon
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/30049
-#EXTINF:-1 group-title="US TV",BET JAMS
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/29955
 
 #EXTINF:-1 group-title="-BET",BET
 http://supersonictv.live:25461/903310/034806/22052
 #EXTINF:-1 group-title="-BET",BET HER
 http://supersonictv.live:25461/903310/034806/22053
-#EXTINF:-1 group-title="-BET",BET Jams
-http://supersonictv.live:25461/903310/034806/22054
+#EXTINF:-1 group-title="-BET",BET JAMS
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/29955
 #EXTINF:-1 group-title="-BET",BET SOUL
 http://supersonictv.live:25461/903310/034806/22055
 #EXTINF:-1 group-title="-BET",BET West
