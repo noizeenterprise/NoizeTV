@@ -131,19 +131,19 @@ http://supersonictv.live:25461/903310/034806/22910
 #EXTINF:-1 group-title="-SHOWTIME",SHOWTIME 2
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3098
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9lYz3No.png" group-title="-SPORTS",MMA Junkie
+#EXTINF:-1 tvg-logo="https://www.worldmmaawards.com/wp-content/uploads/2019/03/MMAJunkie.jpg" group-title="-SPORTS",MMA Junkie
 http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="-SPORTS",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 group-title="-SPORTS",UFC Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="-SPORTS",UFC Network
 http://supersonictv.live:25461/903310/034806/22177
-#EXTINF:-1 group-title="-SPORTS",ESPN U
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/6/62/2000px-ESPN_U.svg.png/revision/latest?cb=20121029061856" group-title="-SPORTS",ESPN U
 http://tvmedia2.com:8080/andrea/andrea/167856.m3u8
-#EXTINF:-1 group-title="-SPORTS",ESPN FHD 1080
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b3/69/c7/b369c7454adc03bfea8c6b2f4268be5a.png" group-title="-SPORTS",ESPN
 http://tvmedia2.com:8080/andrea/andrea/167857.m3u8
-#EXTINF:-1 group-title="-SPORTS",ESPN 2 FHD 1080
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" group-title="-SPORTS",ESPN 2
 http://tvmedia2.com:8080/andrea/andrea/167858.m3u8
-#EXTINF:-1 group-title="-SPORTS",ESPN NEWS FHD 1080
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1395/brand.gif?itok=RuqjxdQu" group-title="-SPORTS",ESPN NEWS
 http://tvmedia2.com:8080/andrea/andrea/167859.m3u8
 
 #EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT",ZIGGO SPORT SELECT
@@ -152,7 +152,7 @@ http://tvmedia2.com:8080/andrea/andrea/167864.m3u8
 http://tvmedia2.com:8080/andrea/andrea/167865.m3u8
 #EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT",Ziggo Sport Voetbal
 http://tvmedia2.com:8080/andrea/andrea/167866.m3u8
-#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT",Ziggo Sport Select HD
+#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT",Ziggo Sport Select
 http://tvmedia2.com:8080/andrea/andrea/167867.m3u8
 
 #EXTINF:-1 tvg-id="OutsideTV.ca" tvg-name="Outside TV" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/snuV96y.png"  group-title="CANADA",Outside TV
