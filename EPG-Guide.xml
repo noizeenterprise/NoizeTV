@@ -143,8 +143,8 @@
 <display-name>Life.tv</display-name>
 </channel>
 <channel id="MoreMAX.us(m3u4u)">
-<display-name>#EXTINF:-1 tvg-country="US" group-title="TV Media US"CINEMAXX MORE MAXX</display-name>
 <display-name>CINEMAX MOREMAX</display-name>
+<display-name>CINEMAXX MORE MAXX</display-name>
 </channel>
 <channel id="MovieMax.us(m3u4u)">
 <display-name>CINEMAX MOVIEMAX</display-name>
