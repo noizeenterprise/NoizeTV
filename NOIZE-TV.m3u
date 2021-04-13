@@ -137,21 +137,38 @@ http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 group-title="-SPORTS",UFC Network
 http://supersonictv.live:25461/903310/034806/22177
+#EXTINF:-1 group-title="-SPORTS",ESPN U
+http://tvmedia2.com:8080/andrea/andrea/167856.m3u8
+#EXTINF:-1 group-title="-SPORTS",ESPN FHD 1080
+http://tvmedia2.com:8080/andrea/andrea/167857.m3u8
+#EXTINF:-1 group-title="-SPORTS",ESPN 2 FHD 1080
+http://tvmedia2.com:8080/andrea/andrea/167858.m3u8
+#EXTINF:-1 group-title="-SPORTS",ESPN NEWS FHD 1080
+http://tvmedia2.com:8080/andrea/andrea/167859.m3u8
 
-#EXTINF:-1 tvg-id="OutsideTV.ca" tvg-name="Outside TV" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/snuV96y.png" tvg-url="" group-title="CANADA",Outside TV
+#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT",ZIGGO SPORT SELECT
+http://tvmedia2.com:8080/andrea/andrea/167864.m3u8
+#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT",ZIGGO SPORT RACING
+http://tvmedia2.com:8080/andrea/andrea/167865.m3u8
+#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT",Ziggo Sport Voetbal
+http://tvmedia2.com:8080/andrea/andrea/167866.m3u8
+#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT",Ziggo Sport Select HD
+http://tvmedia2.com:8080/andrea/andrea/167867.m3u8
+
+#EXTINF:-1 tvg-id="OutsideTV.ca" tvg-name="Outside TV" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/snuV96y.png"  group-title="CANADA",Outside TV
 https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="PlayersTV.ca" tvg-name="Players TV" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/d3EaS41.png" tvg-url="" group-title="CANADA",Players TV
+#EXTINF:-1 tvg-id="PlayersTV.ca" tvg-name="Players TV" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/d3EaS41.png" group-title="CANADA",Players TV
 https://playerstv-samsungca.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Tastemade.ca" tvg-name="Tastemade" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/yuRa9lM.png" tvg-url="" group-title="CANADA",Tastemade
+#EXTINF:-1 tvg-id="Tastemade.ca" tvg-name="Tastemade" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="CANADA",Tastemade
 https://ti-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="TheDesignNetwork.ca" tvg-name="The Design Network" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/wCq3E0M.png" tvg-url="" group-title="CANADA",The Design Network
+#EXTINF:-1 tvg-id="TheDesignNetwork.ca" tvg-name="The Design Network" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/wCq3E0M.png" group-title="CANADA",The Design Network
 https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldPokerTour.ca" tvg-name="World Poker Tour" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/ZqB9etQ.png" tvg-url="" group-title="CANADA",World Poker Tour
+#EXTINF:-1 tvg-id="WorldPokerTour.ca" tvg-name="World Poker Tour" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/ZqB9etQ.png" group-title="CANADA",World Poker Tour
 https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FashionTVCzechSlovak.fr" tvg-name="FashionTV Czech&Slovak" tvg-country="CZ;SK" tvg-language="English" tvg-logo="" tvg-url="" group-title="SLOVAKIA",FashionTV
+#EXTINF:-1 tvg-id="FashionTVCzechSlovak.fr" tvg-name="FashionTV Czech & Slovak" tvg-country="CZ;SK" tvg-language="English" group-title="SLOVAKIA",FashionTV
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Lifetv.sk" tvg-name="Life.tv" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Rvy8Wdu.png" tvg-url="" group-title="SLOVAKIA",Life.tv
+#EXTINF:-1 tvg-id="Lifetv.sk" tvg-name="Life.tv" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Rvy8Wdu.png" group-title="SLOVAKIA",Life.tv
 http://86.110.233.68:1935/lifetv/lifetv.stream_360p/playlist.m3u8
 
 #EXTINF:-1 group-title="RADIO SR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdlprizi2qtumd.cloudfront.net%2Fimages%2Fstations%2Fsky-suriname-thumb.png&f=1&nofb=1",Sky Radio
