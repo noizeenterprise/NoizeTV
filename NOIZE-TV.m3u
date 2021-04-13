@@ -43,9 +43,9 @@ http://smartersplus.com:8880/FLAF122155/576DYQQ52/30049
 http://supersonictv.live:25461/903310/034806/22906
 #EXTINF:-1 group-title="US TV",SyFy
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3096
-#EXTINF:-1 group-title="US TV",Syfy East
+#EXTINF:-1 group-title="US TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Syfy_logo.svg/revision/latest/scale-to-width-down/340?cb=20160810120339",Syfy East
 http://supersonictv.live:25461/903310/034806/22947
-#EXTINF:-1 group-title="US TV",Syfy West
+#EXTINF:-1 group-title="US TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Syfy_logo.svg/revision/latest/scale-to-width-down/340?cb=20160810120339",Syfy West
 http://supersonictv.live:25461/903310/034806/22948
 #EXTINF:-1 group-title="US TV",SPIKE
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3097
