@@ -146,15 +146,6 @@ http://tvmedia2.com:8080/andrea/andrea/167858.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1395/brand.gif?itok=RuqjxdQu" group-title="-SPORTS",ESPN NEWS
 http://tvmedia2.com:8080/andrea/andrea/167859.m3u8
 
-#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT",ZIGGO SPORT SELECT
-http://tvmedia2.com:8080/andrea/andrea/167864.m3u8
-#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT",ZIGGO SPORT RACING
-http://tvmedia2.com:8080/andrea/andrea/167865.m3u8
-#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT",Ziggo Sport Voetbal
-http://tvmedia2.com:8080/andrea/andrea/167866.m3u8
-#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT",Ziggo Sport Select
-http://tvmedia2.com:8080/andrea/andrea/167867.m3u8
-
 #EXTINF:-1 tvg-id="OutsideTV.ca" tvg-name="Outside TV" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/snuV96y.png"  group-title="CANADA",Outside TV
 https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="PlayersTV.ca" tvg-name="Players TV" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/d3EaS41.png" group-title="CANADA",Players TV
@@ -165,6 +156,149 @@ https://ti-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.ca" tvg-name="World Poker Tour" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/ZqB9etQ.png" group-title="CANADA",World Poker Tour
 https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT",ZIGGO SPORT SELECT
+http://tvmedia2.com:8080/andrea/andrea/167864.m3u8
+#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT",ZIGGO SPORT RACING
+http://tvmedia2.com:8080/andrea/andrea/167865.m3u8
+#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT",Ziggo Sport Voetbal
+http://tvmedia2.com:8080/andrea/andrea/167866.m3u8
+#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT",Ziggo Sport Select
+http://tvmedia2.com:8080/andrea/andrea/167867.m3u8
+
+#EXTINF:-1 tvg-country="BR" group-title="BRAZIL",TV Brasil
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148422
+#EXTINF:-1 tvg-country="BR" group-title="BRAZIL",TV Caruaru Pe
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148415
+#EXTINF:-1 tvg-country="BR" group-title="BRAZIL",TV Cidade Canal 9
+http://skylogic.site:8080/esterichannel50con/36cb6c13/201936
+#EXTINF:-1 tvg-country="BR" group-title="BRAZIL",TV Cidade Verde
+http://skylogic.site:8080/esterichannel50con/36cb6c13/198238
+#EXTINF:-1 tvg-country="BR" group-title="BRAZIL",TV CULTURA 
+http://skylogic.site:8080/esterichannel50con/36cb6c13/23827
+#EXTINF:-1 tvg-country="BR" group-title="BRAZIL",TV DIARIO 
+http://skylogic.site:8080/esterichannel50con/36cb6c13/22361
+#EXTINF:-1 tvg-country="BR" group-title="BRAZIL",TV GAZETA 
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7391
+#EXTINF:-1 tvg-country="BR" group-title="BRAZIL",TV Geral
+http://skylogic.site:8080/esterichannel50con/36cb6c13/266698
+
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO AMAZONAS
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14593
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",Globo Amazônica
+http://skylogic.site:8080/esterichannel50con/36cb6c13/36855
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO Brasilia
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24556
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO CUIABA
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24555
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO EPTV CAMPINAS
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24554
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO EPTV RIBEIR
+http://skylogic.site:8080/esterichannel50con/36cb6c13/81154
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO EPTV Sao Carlos
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14594
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",Globo Fortaleza
+http://skylogic.site:8080/esterichannel50con/36cb6c13/36851
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",Globo Goiânia
+http://skylogic.site:8080/esterichannel50con/36cb6c13/36852
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",Globo
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14514
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO INTER TV Cabugi
+http://skylogic.site:8080/esterichannel50con/36cb6c13/147279
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO INTERNACIONAL
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24553
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",Globo Manaus
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148427
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO Minas
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24552
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO Nordeste
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24551
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",Globo NSC TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/201034
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO RBS Porto Alegre
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148423
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",Globo RBS TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/201035
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO RIBEIR
+http://skylogic.site:8080/esterichannel50con/36cb6c13/81158
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO Ribeirao Preto
+http://skylogic.site:8080/esterichannel50con/36cb6c13/182186
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO RIO GRANDE DO NORTE
+http://skylogic.site:8080/esterichannel50con/36cb6c13/182175
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO RJ 2
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278369
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO RJ
+http://skylogic.site:8080/esterichannel50con/36cb6c13/30437
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",Globo RPC
+http://skylogic.site:8080/esterichannel50con/36cb6c13/151886
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO SERGIPE
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148424
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO SP EPTV RIBEIRAO
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148428
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",Globo SP
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192626
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO SP TV TRIBUNA
+http://skylogic.site:8080/esterichannel50con/36cb6c13/182170
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",Globo Tribuna Santos
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24546
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO TV BAHIA
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14598
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO TV BELEM
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14599
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO TV cambugi
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278370
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO TV LIBERAL BELEM
+http://skylogic.site:8080/esterichannel50con/36cb6c13/182183
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO TV TEM BAURU
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24549
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",Globo TV TEM SJRP
+http://skylogic.site:8080/esterichannel50con/36cb6c13/36853
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",Globo TV Tem Sorocaba
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14602
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",Globo TV Tribuna
+http://skylogic.site:8080/esterichannel50con/36cb6c13/36858
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO TV VANGUARDA S.J DOS CAMPOS
+http://skylogic.site:8080/esterichannel50con/36cb6c13/266701
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO TV VANGUARDA SJ DOS CAMPOS
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278378
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO TV Verdes Mares Fortaleza
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148290
+#EXTINF:-1 tvg-country="BR" group-title="-GLOBO",GLOBO VERDES
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278379
+
+#EXTINF:-1 tvg-country="BR" group-title="-REDE TV",REDE BRASIL
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7354
+#EXTINF:-1 tvg-country="BR" group-title="-REDE TV",REDE FAMILIA
+http://skylogic.site:8080/esterichannel50con/36cb6c13/193339
+#EXTINF:-1 tvg-country="BR" group-title="-REDE TV",REDE
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7359
+#EXTINF:-1 tvg-country="BR" group-title="-REDE TV",REDE VIDA
+http://skylogic.site:8080/esterichannel50con/36cb6c13/147286
+#EXTINF:-1 tvg-country="BR" group-title="-REDE TV",REDE VIVA
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148294
+#EXTINF:-1 tvg-country="BR" group-title="-REDE TV",REDEasil
+http://skylogic.site:8080/esterichannel50con/36cb6c13/196525
+#EXTINF:-1 tvg-country="BR" group-title="-SBT",SBT Cidade Verde
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148402
+#EXTINF:-1 tvg-country="BR" group-title="-SBT",SBT
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7367
+#EXTINF:-1 tvg-country="BR" group-title="-SBT",SBT GOIAS
+http://skylogic.site:8080/esterichannel50con/36cb6c13/193340
+#EXTINF:-1 tvg-country="BR" group-title="-SBT",SBT Interior SP
+http://skylogic.site:8080/esterichannel50con/36cb6c13/266705
+#EXTINF:-1 tvg-country="BR" group-title="-SBT",SBT NORDESTE
+http://skylogic.site:8080/esterichannel50con/36cb6c13/199630
+#EXTINF:-1 tvg-country="BR" group-title="-SBT",SBT Parana
+http://skylogic.site:8080/esterichannel50con/36cb6c13/266706
+#EXTINF:-1 tvg-country="BR" group-title="-SBT",SBT Rio Grande
+http://skylogic.site:8080/esterichannel50con/36cb6c13/24541
+#EXTINF:-1 tvg-country="BR" group-title="-SBT",SBT RJ
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148295
+#EXTINF:-1 tvg-country="BR" group-title="-SBT",SBT SP
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148409
+#EXTINF:-1 tvg-country="BR" group-title="-SBT",SBT TV CIDADE VERDE PIAUI
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197987
+
 
 #EXTINF:-1 tvg-id="FashionTVCzechSlovak.fr" tvg-name="FashionTV Czech & Slovak" tvg-country="CZ;SK" tvg-language="English" group-title="SLOVAKIA",FashionTV
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
@@ -185,4 +319,3 @@ http://radio.noizetv.ml:8000/radio2-0
 http://radio.noizetv.ml:8000/radio2-1
 #EXTINF:-1 group-title="RADIO SR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsurinameradio.com%2Fimages%2Fradio%2FNoer.png&f=1&nofb=1",Noer
 http://radio.noizetv.ml:8000/radio2-2
-
