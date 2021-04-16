@@ -34,7 +34,7 @@ http://ajstreamz.xyz:8080/Matt1/Matt2/149845
 http://ajstreamz.xyz:8080/Matt1/Matt2/149739
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://tvbix.com/images/channels/bet-her.png",BET HER
 http://ajstreamz.xyz:8080/Matt1/Matt2/149740
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://www.pngitem.com/pimgs/m/490-4901916_bet-logo-png-png-download-bet-jams-logo.png",BET JAMS
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://pbs.twimg.com/profile_images/930886148649553921/y5b4ZgGF_400x400.jpg",BET JAMS
 http://ajstreamz.xyz:8080/Matt1/Matt2/149741
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://pbs.twimg.com/profile_images/930885836173987842/g30T2-XJ_400x400.jpg",BET SOUL
 http://ajstreamz.xyz:8080/Matt1/Matt2/149742
@@ -140,7 +140,7 @@ http://ajstreamz.xyz:8080/Matt1/Matt2/149925
 http://ajstreamz.xyz:8080/Matt1/Matt2/149926
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://pbs.twimg.com/media/EdAw65JXYAEuiKh.jpg",SHOWTIME BET
 http://ajstreamz.xyz:8080/Matt1/Matt2/149928
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://www.kindpng.com/picc/m/329-3296935_showtime-extreme-logo-hd-png-download.png",SHOWTIME EXTREME
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://tvbix.com/images/channels/showtime-extreme.png",SHOWTIME EXTREME
 http://ajstreamz.xyz:8080/Matt1/Matt2/149930
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/1200px-Showtime_Family_Zone.svg.png",SHOWTIME FAMILY ZONE
 http://ajstreamz.xyz:8080/Matt1/Matt2/149932
@@ -150,31 +150,31 @@ http://ajstreamz.xyz:8080/Matt1/Matt2/149934
 http://ajstreamz.xyz:8080/Matt1/Matt2/149936
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1200px-Showtime_Women.svg.png",SHOWTIME WOMEN
 http://ajstreamz.xyz:8080/Matt1/Matt2/149940
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",STARZ
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://www.ci-portal.de/wp-content/uploads/Starz.jpg",STARZ
 http://ajstreamz.xyz:8080/Matt1/Matt2/149941
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",STARZ CINEMA
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starz_Cinema_logo.svg/1280px-Starz_Cinema_logo.svg.png",STARZ CINEMA
 http://ajstreamz.xyz:8080/Matt1/Matt2/149942
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",STARZ COMEDY
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starzcomedy.png",STARZ COMEDY
 http://ajstreamz.xyz:8080/Matt1/Matt2/149944
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",STARZ EDGE
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starzedge.png",STARZ EDGE
 http://ajstreamz.xyz:8080/Matt1/Matt2/149946
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",STARZ ENCORE
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore.png",STARZ ENCORE
 http://ajstreamz.xyz:8080/Matt1/Matt2/149948
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",STARZ ENCORE ACTION
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://tvbix.com/images/channels/starz-encore-action.png",STARZ ENCORE ACTION
 http://ajstreamz.xyz:8080/Matt1/Matt2/149949
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",STARZ ENCORE BLACK
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://tvbix.com/images/channels/starz-encore-black.png",STARZ ENCORE BLACK
 http://ajstreamz.xyz:8080/Matt1/Matt2/149951
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",STARZ ENCORE CLASSIC
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Encore_Classic.png/1200px-Encore_Classic.png",STARZ ENCORE CLASSIC
 http://ajstreamz.xyz:8080/Matt1/Matt2/149953
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",STARZ ENCORE FAMILY
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Encore_Family.png",STARZ ENCORE FAMILY
 http://ajstreamz.xyz:8080/Matt1/Matt2/149955
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",STARZ ENCORE SUSPENSE
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Encore_Suspense.png/1200px-Encore_Suspense.png",STARZ ENCORE SUSPENSE
 http://ajstreamz.xyz:8080/Matt1/Matt2/149957
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",STARZ ENCORE WESTERNS
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://tvbix.com/images/channels/starz-encore-westerns.png",STARZ ENCORE WESTERNS
 http://ajstreamz.xyz:8080/Matt1/Matt2/149959
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",STARZ IN BLACK
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Encore_Black.png",STARZ IN BLACK
 http://ajstreamz.xyz:8080/Matt1/Matt2/149962
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",STARZ KIDS & FAMILY
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz_family.png",STARZ KIDS & FAMILY
 http://ajstreamz.xyz:8080/Matt1/Matt2/149963
 ################Baywatch################
 #EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/09092020/baywatch_circle_190x190.png" tvg-url="" group-title="Baywatch",Baywatch
@@ -206,11 +206,11 @@ https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.ca" tvg-name="World Poker Tour" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/ZqB9etQ.png" group-title="CANADA",World Poker Tour
 https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 ################NL ZIGGO SPORT################
-#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT",ZIGGO SPORT SELECT
+#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg",ZIGGO SPORT SELECT
 http://tvmedia2.com:8080/andrea/andrea/167864.m3u8
-#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT",ZIGGO SPORT RACING
+#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ziggo-racing-288.png",ZIGGO SPORT RACING
 http://tvmedia2.com:8080/andrea/andrea/167865.m3u8
-#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT",Ziggo Sport Voetbal
+#EXTINF:-1 tvg-country="NL" group-title="NL ZIGGO SPORT" tvg-logo="https://img.sport-tv-guide.live/images/stations/a286.png",Ziggo Sport Voetbal
 http://tvmedia2.com:8080/andrea/andrea/167866.m3u8
 ################BRAZIL################
 #EXTINF:-1 tvg-country="BR" group-title="BRAZIL",TV Brasil
