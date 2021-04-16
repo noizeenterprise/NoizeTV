@@ -21,161 +21,149 @@ http://tvmedia2.com:8080/doreen/doreen/164336.ts
 http://tvmedia2.com:8080/doreen/doreen/164335.ts
 #EXTINF:-1 tvg-country="US" group-title="TV Media US" tvg-logo="https://tvbix.com/images/channels/thrillermax.png",CINEMAX THRILLERMAX
 http://tvmedia2.com:8080/doreen/doreen/164334.ts
-################AJSTREAM################
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",A&E
-http://ajstreamz.xyz:8080/Matt1/Matt2/149725
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1487974641/m4xu8idtom4cbfrpjeja.png",ABC
-http://ajstreamz.xyz:8080/Matt1/Matt2/149726
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/e3/05/36/e30536d6-b573-3054-4e7c-d910d7976df9/source/256x256bb.jpg",ADULT SWIM
-http://ajstreamz.xyz:8080/Matt1/Matt2/149727
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",ANIMAL PLANET
-http://ajstreamz.xyz:8080/Matt1/Matt2/149845
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://static.epg.best/us/BET.us.png",BET
-http://ajstreamz.xyz:8080/Matt1/Matt2/149739
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://tvbix.com/images/channels/bet-her.png",BET HER
-http://ajstreamz.xyz:8080/Matt1/Matt2/149740
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://pbs.twimg.com/profile_images/930886148649553921/y5b4ZgGF_400x400.jpg",BET JAMS
-http://ajstreamz.xyz:8080/Matt1/Matt2/149741
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://pbs.twimg.com/profile_images/930885836173987842/g30T2-XJ_400x400.jpg",BET SOUL
-http://ajstreamz.xyz:8080/Matt1/Matt2/149742
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://www.bravotv.com/sites/bravo/files/field_blog_image/2017/02/dish-020717-bravo-refresh.jpg",BRAVO
-http://ajstreamz.xyz:8080/Matt1/Matt2/149745
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",CARTOON NETWORK
-http://ajstreamz.xyz:8080/Matt1/Matt2/151057
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://www.dcgvisionmarketing.com/wp-content/uploads/2020/06/Logo_Cartoons_4U_Network.png",CARTOONS 4U
-http://ajstreamz.xyz:8080/Matt1/Matt2/151059
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/cbs-3215380-2673798.png",CBS
-http://ajstreamz.xyz:8080/Matt1/Matt2/149748
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",COMEDY CENTRAL
-http://ajstreamz.xyz:8080/Matt1/Matt2/149753
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://static-s.aa-cdn.net/img/ios/491730359/5f507c41e3eb1fde5dae40a856879c28?v=1",CW
-http://ajstreamz.xyz:8080/Matt1/Matt2/149759
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",CW-PIX 11 WPIX NY
-http://ajstreamz.xyz:8080/Matt1/Matt2/149760
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",E! ENTERTAINMENT
-http://ajstreamz.xyz:8080/Matt1/Matt2/149764
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://static-s.aa-cdn.net/img/ios/307544289/a91250796b03fc2b8667ff6282dde054?v=1",ET LIVE
-http://ajstreamz.xyz:8080/Matt1/Matt2/149766
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",FOOD NETWORK
-http://ajstreamz.xyz:8080/Matt1/Matt2/149769
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://archive.org/download/fusion-tv-logo-design-company-USA/fusion-tv-logo-design-company-USA.png",FUSION
-http://ajstreamz.xyz:8080/Matt1/Matt2/149775
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/fx.jpg",FX
-http://ajstreamz.xyz:8080/Matt1/Matt2/149776
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://pbs.twimg.com/profile_images/378800000290446785/bbcee77125173fe3b41b836f5749ca2c_400x400.jpeg",FXM
-http://ajstreamz.xyz:8080/Matt1/Matt2/149895
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://www.rbr.com/wp-content/uploads/FXX.jpg",FXX
-http://ajstreamz.xyz:8080/Matt1/Matt2/149778
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",LIFETIME
-http://ajstreamz.xyz:8080/Matt1/Matt2/149792
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://apprecs.org/ios/images/app-icons/256/d8/991319768.jpg",LIFETIME MOVIE NETWORK
-http://ajstreamz.xyz:8080/Matt1/Matt2/149913
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://i.pinimg.com/originals/60/1a/4d/601a4daabd9cade6a84da68e046caf77.png",MTV
-http://ajstreamz.xyz:8080/Matt1/Matt2/149795
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/1200px-MTV2_logo_2013.svg.png",MTV 2
-http://ajstreamz.xyz:8080/Matt1/Matt2/149796
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://ih1.redbubble.net/image.815971509.2693/flat,128x,075,f-pad,128x128,f8f8f8.u1.jpg",MTV Classic
-http://ajstreamz.xyz:8080/Matt1/Matt2/149798
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://static.epg.best/nl/MTVLive.nl.png",MTV LIVE
-http://ajstreamz.xyz:8080/Matt1/Matt2/149799
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",NAT GEO WILD
-http://ajstreamz.xyz:8080/Matt1/Matt2/149864
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",NATIONAL GEOGRAPHIC
-http://ajstreamz.xyz:8080/Matt1/Matt2/149865
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1039px-NBC_logo.svg.png",NBC
-http://ajstreamz.xyz:8080/Matt1/Matt2/149801
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",NICK JR
-http://ajstreamz.xyz:8080/Matt1/Matt2/151067
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://static.epg.best/dk/ParamountNetwork.dk.png",PARAMOUNT NETWORK
-http://ajstreamz.xyz:8080/Matt1/Matt2/149806
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",SYFY
-http://ajstreamz.xyz:8080/Matt1/Matt2/149822
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",TBS
-http://ajstreamz.xyz:8080/Matt1/Matt2/149824
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",TNT
-http://ajstreamz.xyz:8080/Matt1/Matt2/149828
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",TRAVEL CHANNEL
-http://ajstreamz.xyz:8080/Matt1/Matt2/149875
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1200px-USA_Network_logo_%282006%29.svg.png",USA NETWORK
-http://ajstreamz.xyz:8080/Matt1/Matt2/149836
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",CINEMAX
-http://ajstreamz.xyz:8080/Matt1/Matt2/149879
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://live-radio-channels.com/pt-data/uploads/logo/us-5-starmax-8614-300x225.jpg",CINEMAX 5STAR MAX
-http://ajstreamz.xyz:8080/Matt1/Matt2/149880
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://ia903107.us.archive.org/34/items/ActionMax/action%20max.png",CINEMAX ACTIONMAX
-http://ajstreamz.xyz:8080/Matt1/Matt2/149881
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/moremax.png",CINEMAX MOREMAX
-http://ajstreamz.xyz:8080/Matt1/Matt2/149883
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/moviemax.png",CINEMAX MOVIEMAX
-http://ajstreamz.xyz:8080/Matt1/Matt2/149885
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/outermax.png",CINEMAX OUTERMAX
-http://ajstreamz.xyz:8080/Matt1/Matt2/149886
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://tvbix.com/images/channels/thrillermax.png",CINEMAX THRILLERMAX
-http://ajstreamz.xyz:8080/Matt1/Matt2/149887
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/1200px-Epix_Logo_2009.svg.png",EPIX
-http://ajstreamz.xyz:8080/Matt1/Matt2/149890
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://logodix.com/logo/1618613.png",EPIX 2
-http://ajstreamz.xyz:8080/Matt1/Matt2/149891
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Epix_Drive-In_logo.svg/1280px-Epix_Drive-In_logo.svg.png",EPIX DRIVE-IN
-http://ajstreamz.xyz:8080/Matt1/Matt2/149892
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://logodix.com/logo/1104700.png",EPIX HITS
-http://ajstreamz.xyz:8080/Matt1/Matt2/149893
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",HBO
-http://ajstreamz.xyz:8080/Matt1/Matt2/149897
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",HBO 2
-http://ajstreamz.xyz:8080/Matt1/Matt2/149898
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",HBO COMEDY
-http://ajstreamz.xyz:8080/Matt1/Matt2/149900
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://logodix.com/logo/789245.png",HBO FAMILY
-http://ajstreamz.xyz:8080/Matt1/Matt2/149902
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="http://www.evdodepotusa.com/wp-content/uploads/2015/04/HBO_logo.jpg",HBO Low BW
-http://ajstreamz.xyz:8080/Matt1/Matt2/149904
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdPti-NBKxxTGe9AHHBUlBSfN8LRSaiU6hUEXoYD7a6M1LqAoVpBhBVKYgSCi6UW8KbN0&usqp=CAU",HBO SIGNATURE
-http://ajstreamz.xyz:8080/Matt1/Matt2/149905
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://www.plateautel.com/img/residential/optionalProgramming/HBO/hbo-zone.png",HBO ZONE
-http://ajstreamz.xyz:8080/Matt1/Matt2/149907
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png",SHOWTIME
-http://ajstreamz.xyz:8080/Matt1/Matt2/149925
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Showtime_2.svg/1200px-Showtime_2.svg.png",SHOWTIME 2
-http://ajstreamz.xyz:8080/Matt1/Matt2/149926
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://pbs.twimg.com/media/EdAw65JXYAEuiKh.jpg",SHOWTIME BET
-http://ajstreamz.xyz:8080/Matt1/Matt2/149928
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://tvbix.com/images/channels/showtime-extreme.png",SHOWTIME EXTREME
-http://ajstreamz.xyz:8080/Matt1/Matt2/149930
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/1200px-Showtime_Family_Zone.svg.png",SHOWTIME FAMILY ZONE
-http://ajstreamz.xyz:8080/Matt1/Matt2/149932
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXnJdezgl6Xs5iDdbsmyRtxZqPMeeHoGF0VF4_Ba8dpQz0F1Beemp1uuJG6PfA3RZ81g&usqp=CAU",SHOWTIME NEXT
-http://ajstreamz.xyz:8080/Matt1/Matt2/149934
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png",SHOWTIME SHOWCASE
-http://ajstreamz.xyz:8080/Matt1/Matt2/149936
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1200px-Showtime_Women.svg.png",SHOWTIME WOMEN
-http://ajstreamz.xyz:8080/Matt1/Matt2/149940
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://www.ci-portal.de/wp-content/uploads/Starz.jpg",STARZ
-http://ajstreamz.xyz:8080/Matt1/Matt2/149941
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starz_Cinema_logo.svg/1280px-Starz_Cinema_logo.svg.png",STARZ CINEMA
-http://ajstreamz.xyz:8080/Matt1/Matt2/149942
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starzcomedy.png",STARZ COMEDY
-http://ajstreamz.xyz:8080/Matt1/Matt2/149944
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starzedge.png",STARZ EDGE
-http://ajstreamz.xyz:8080/Matt1/Matt2/149946
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore.png",STARZ ENCORE
-http://ajstreamz.xyz:8080/Matt1/Matt2/149948
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://tvbix.com/images/channels/starz-encore-action.png",STARZ ENCORE ACTION
-http://ajstreamz.xyz:8080/Matt1/Matt2/149949
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://tvbix.com/images/channels/starz-encore-black.png",STARZ ENCORE BLACK
-http://ajstreamz.xyz:8080/Matt1/Matt2/149951
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Encore_Classic.png/1200px-Encore_Classic.png",STARZ ENCORE CLASSIC
-http://ajstreamz.xyz:8080/Matt1/Matt2/149953
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Encore_Family.png",STARZ ENCORE FAMILY
-http://ajstreamz.xyz:8080/Matt1/Matt2/149955
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Encore_Suspense.png/1200px-Encore_Suspense.png",STARZ ENCORE SUSPENSE
-http://ajstreamz.xyz:8080/Matt1/Matt2/149957
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://tvbix.com/images/channels/starz-encore-westerns.png",STARZ ENCORE WESTERNS
-http://ajstreamz.xyz:8080/Matt1/Matt2/149959
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Encore_Black.png",STARZ IN BLACK
-http://ajstreamz.xyz:8080/Matt1/Matt2/149962
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz_family.png",STARZ KIDS & FAMILY
-http://ajstreamz.xyz:8080/Matt1/Matt2/149963
+################Dream4K################
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Starz Encore
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142958
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Starz Edge
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142956
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Starz Kids & Family
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142955
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Starz
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142954
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Starz Comedy
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142953
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Starz Encore
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142952
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Starz Cinema
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142951
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Starz
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142950
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Showtime Women
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142949
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Showtime Extreme
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142948
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Showtime Beyond
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142947
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Showtime
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142946
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Showtime Showcase
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142945
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Showtime Next
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142944
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Showtime 2
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142943
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Showtime Extream
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142942
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Showtime
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142941
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Showtime Family Zone
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142940
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",SHOWTIME
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142939
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",HBO Zone
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142938
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",HBO
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142937
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",HBO Signature
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142936
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",HBO Family
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142935
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",HBO Family
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142934
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",HBO
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142933
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",HBO Comedy
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142932
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",HBO 2
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142931
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",HBO Latino 2
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142930
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",HBO Latino
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142929
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Epix
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142928
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",MAX
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142927
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Moremax
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142926
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Cinemax 5 Starmax
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142925
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Actionmax
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142924
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",CINEMAXX MORE MAXX
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142923
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",CINEMAX OUTER MAX
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142922
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",CINEMAX ACTION MAX
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142921
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Cinemax
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142920
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",FXX
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142916
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",FX
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142915
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",AMC
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142914
+#EXTINF:-1 tvg-country="US" group-title="Dream4K", BET JAMS
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142841
+#EXTINF:-1 tvg-country="US" group-title="Dream4K", BET SOUL
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142840
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",MTV
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142832
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",MTV
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142824
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Disney XD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142811
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Disney
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142810
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Disney Jr
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142808
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Discovery Family
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142806
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",TRAVEL CHANNEL
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142798
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",NAT GEO
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142794
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Nat Geo Wild
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142793
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",National Geographic Wild
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142792
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",LifeTime
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142791
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",E
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142785
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Bravo
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142777
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Animal Planet
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142776
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",VH1
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142774
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",TNT
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142771
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",TBS
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142770
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",SYFY
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142769
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Sundance
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142768
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",FREEFORM
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142767
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Paramount Network
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142765
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",National Geographic
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142764
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Discovery Science
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142758
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Discovery Channel
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142757
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",Comedy Central
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142755
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",BET HER
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142753
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",BET
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142752
+#EXTINF:-1 tvg-country="US" group-title="Dream4K",A E
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/142750
 ################Baywatch################
 #EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/09092020/baywatch_circle_190x190.png" tvg-url="" group-title="Baywatch",Baywatch
 http://d3mxmx98etcevi.cloudfront.net/playlist.m3u8
