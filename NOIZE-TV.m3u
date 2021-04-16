@@ -30,11 +30,11 @@ http://ajstreamz.xyz:8080/Matt1/Matt2/149726
 http://ajstreamz.xyz:8080/Matt1/Matt2/149727
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream",ANIMAL PLANET
 http://ajstreamz.xyz:8080/Matt1/Matt2/149845
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://www.logo.wine/a/logo/BET/BET-Logo.wine.svg",BET
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://static.epg.best/us/BET.us.png",BET
 http://ajstreamz.xyz:8080/Matt1/Matt2/149739
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://tvbix.com/images/channels/bet-her.png",BET HER
 http://ajstreamz.xyz:8080/Matt1/Matt2/149740
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://tuguiatv.net/wp-content/uploads/channels/logos/BETjams.us.png",BET JAMS
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://www.pngitem.com/pimgs/m/490-4901916_bet-logo-png-png-download-bet-jams-logo.png",BET JAMS
 http://ajstreamz.xyz:8080/Matt1/Matt2/149741
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://pbs.twimg.com/profile_images/930885836173987842/g30T2-XJ_400x400.jpg",BET SOUL
 http://ajstreamz.xyz:8080/Matt1/Matt2/149742
@@ -60,15 +60,15 @@ http://ajstreamz.xyz:8080/Matt1/Matt2/149766
 http://ajstreamz.xyz:8080/Matt1/Matt2/149769
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://archive.org/download/fusion-tv-logo-design-company-USA/fusion-tv-logo-design-company-USA.png",FUSION
 http://ajstreamz.xyz:8080/Matt1/Matt2/149775
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",FX
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/fx.jpg",FX
 http://ajstreamz.xyz:8080/Matt1/Matt2/149776
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",FXM
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://pbs.twimg.com/profile_images/378800000290446785/bbcee77125173fe3b41b836f5749ca2c_400x400.jpeg",FXM
 http://ajstreamz.xyz:8080/Matt1/Matt2/149895
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",FXX
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://www.rbr.com/wp-content/uploads/FXX.jpg",FXX
 http://ajstreamz.xyz:8080/Matt1/Matt2/149778
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream",LIFETIME
 http://ajstreamz.xyz:8080/Matt1/Matt2/149792
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",LIFETIME MOVIE NETWORK
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://apprecs.org/ios/images/app-icons/256/d8/991319768.jpg",LIFETIME MOVIE NETWORK
 http://ajstreamz.xyz:8080/Matt1/Matt2/149913
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://i.pinimg.com/originals/60/1a/4d/601a4daabd9cade6a84da68e046caf77.png",MTV
 http://ajstreamz.xyz:8080/Matt1/Matt2/149795
@@ -82,11 +82,11 @@ http://ajstreamz.xyz:8080/Matt1/Matt2/149799
 http://ajstreamz.xyz:8080/Matt1/Matt2/149864
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream",NATIONAL GEOGRAPHIC
 http://ajstreamz.xyz:8080/Matt1/Matt2/149865
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",NBC EAST
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1039px-NBC_logo.svg.png",NBC
 http://ajstreamz.xyz:8080/Matt1/Matt2/149801
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream",NICK JR
 http://ajstreamz.xyz:8080/Matt1/Matt2/151067
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",PARAMOUNT NETWORK
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://static.epg.best/dk/ParamountNetwork.dk.png",PARAMOUNT NETWORK
 http://ajstreamz.xyz:8080/Matt1/Matt2/149806
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream",SYFY
 http://ajstreamz.xyz:8080/Matt1/Matt2/149822
@@ -96,7 +96,7 @@ http://ajstreamz.xyz:8080/Matt1/Matt2/149824
 http://ajstreamz.xyz:8080/Matt1/Matt2/149828
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream",TRAVEL CHANNEL
 http://ajstreamz.xyz:8080/Matt1/Matt2/149875
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",USA NETWORK
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1200px-USA_Network_logo_%282006%29.svg.png",USA NETWORK
 http://ajstreamz.xyz:8080/Matt1/Matt2/149836
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream",CINEMAX
 http://ajstreamz.xyz:8080/Matt1/Matt2/149879
@@ -112,13 +112,13 @@ http://ajstreamz.xyz:8080/Matt1/Matt2/149885
 http://ajstreamz.xyz:8080/Matt1/Matt2/149886
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://tvbix.com/images/channels/thrillermax.png",CINEMAX THRILLERMAX
 http://ajstreamz.xyz:8080/Matt1/Matt2/149887
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",EPIX
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/1200px-Epix_Logo_2009.svg.png",EPIX
 http://ajstreamz.xyz:8080/Matt1/Matt2/149890
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",EPIX 2
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://logodix.com/logo/1618613.png",EPIX 2
 http://ajstreamz.xyz:8080/Matt1/Matt2/149891
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",EPIX DRIVE-IN
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Epix_Drive-In_logo.svg/1280px-Epix_Drive-In_logo.svg.png",EPIX DRIVE-IN
 http://ajstreamz.xyz:8080/Matt1/Matt2/149892
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",EPIX HITS
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://logodix.com/logo/1104700.png",EPIX HITS
 http://ajstreamz.xyz:8080/Matt1/Matt2/149893
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream",HBO
 http://ajstreamz.xyz:8080/Matt1/Matt2/149897
@@ -126,29 +126,29 @@ http://ajstreamz.xyz:8080/Matt1/Matt2/149897
 http://ajstreamz.xyz:8080/Matt1/Matt2/149898
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream",HBO COMEDY
 http://ajstreamz.xyz:8080/Matt1/Matt2/149900
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",HBO FAMILY
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://logodix.com/logo/789245.png",HBO FAMILY
 http://ajstreamz.xyz:8080/Matt1/Matt2/149902
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",HBO Low BW
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="http://www.evdodepotusa.com/wp-content/uploads/2015/04/HBO_logo.jpg",HBO Low BW
 http://ajstreamz.xyz:8080/Matt1/Matt2/149904
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",HBO SIGNATURE
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdPti-NBKxxTGe9AHHBUlBSfN8LRSaiU6hUEXoYD7a6M1LqAoVpBhBVKYgSCi6UW8KbN0&usqp=CAU",HBO SIGNATURE
 http://ajstreamz.xyz:8080/Matt1/Matt2/149905
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",HBO ZONE
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://www.plateautel.com/img/residential/optionalProgramming/HBO/hbo-zone.png",HBO ZONE
 http://ajstreamz.xyz:8080/Matt1/Matt2/149907
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",SHOWTIME
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png",SHOWTIME
 http://ajstreamz.xyz:8080/Matt1/Matt2/149925
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",SHOWTIME 2
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Showtime_2.svg/1200px-Showtime_2.svg.png",SHOWTIME 2
 http://ajstreamz.xyz:8080/Matt1/Matt2/149926
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",SHOWTIME BET
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://pbs.twimg.com/media/EdAw65JXYAEuiKh.jpg",SHOWTIME BET
 http://ajstreamz.xyz:8080/Matt1/Matt2/149928
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",SHOWTIME EXTREME
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://www.kindpng.com/picc/m/329-3296935_showtime-extreme-logo-hd-png-download.png",SHOWTIME EXTREME
 http://ajstreamz.xyz:8080/Matt1/Matt2/149930
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",SHOWTIME FAMILY ZONE
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/1200px-Showtime_Family_Zone.svg.png",SHOWTIME FAMILY ZONE
 http://ajstreamz.xyz:8080/Matt1/Matt2/149932
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",SHOWTIME NEXT
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXnJdezgl6Xs5iDdbsmyRtxZqPMeeHoGF0VF4_Ba8dpQz0F1Beemp1uuJG6PfA3RZ81g&usqp=CAU",SHOWTIME NEXT
 http://ajstreamz.xyz:8080/Matt1/Matt2/149934
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",SHOWTIME SHOWCASE
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png",SHOWTIME SHOWCASE
 http://ajstreamz.xyz:8080/Matt1/Matt2/149936
-#EXTINF:-1 tvg-country="US" group-title="AJ Stream",SHOWTIME WOMEN
+#EXTINF:-1 tvg-country="US" group-title="AJ Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1200px-Showtime_Women.svg.png",SHOWTIME WOMEN
 http://ajstreamz.xyz:8080/Matt1/Matt2/149940
 #EXTINF:-1 tvg-country="US" group-title="AJ Stream",STARZ
 http://ajstreamz.xyz:8080/Matt1/Matt2/149941
