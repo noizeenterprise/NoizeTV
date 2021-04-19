@@ -82,24 +82,6 @@ http://pn.tvott.info:80/307216011400/307216011400/81030
 http://pn.tvott.info:80/307216011400/307216011400/81027
 #EXTINF:-1 tvg-country="US" group-title="NoizeTv",PBS
 http://pn.tvott.info:80/307216011400/307216011400/81026
-#EXTINF:-1 tvg-country="US" group-title="NoizeTv",ANIMAL PLANET
-http://pn.tvott.info:80/307216011400/307216011400/81021
-#EXTINF:-1 tvg-country="US" group-title="NoizeTv",NAT GEO WILD US
-http://pn.tvott.info:80/307216011400/307216011400/81020
-#EXTINF:-1 tvg-country="US" group-title="NoizeTv",NAT GEO USA
-http://pn.tvott.info:80/307216011400/307216011400/81019
-#EXTINF:-1 tvg-country="US" group-title="NoizeTv",INVESTIGATION DISCOVERY
-http://pn.tvott.info:80/307216011400/307216011400/81018
-#EXTINF:-1 tvg-country="US" group-title="NoizeTv",HISTORY 2
-http://pn.tvott.info:80/307216011400/307216011400/81016
-#EXTINF:-1 tvg-country="US" group-title="NoizeTv",DISCOVERY SCIENCE
-http://pn.tvott.info:80/307216011400/307216011400/81015
-#EXTINF:-1 tvg-country="US" group-title="NoizeTv",DISCOVERY LIFE
-http://pn.tvott.info:80/307216011400/307216011400/81014
-#EXTINF:-1 tvg-country="US" group-title="NoizeTv",DISCOVERY FAMILY
-http://pn.tvott.info:80/307216011400/307216011400/81013
-#EXTINF:-1 tvg-country="US" group-title="NoizeTv",DISCOVERY CHANNEL
-http://pn.tvott.info:80/307216011400/307216011400/81012
 #EXTINF:-1 tvg-country="US" group-title="NoizeTv",TRAVEL CHANNEL
 http://pn.tvott.info:80/307216011400/307216011400/81010
 #EXTINF:-1 tvg-country="US" group-title="NoizeTv",MTV 2
@@ -115,14 +97,33 @@ http://pn.tvott.info:80/307216011400/307216011400/80987
 http://d3mxmx98etcevi.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d815eb889bca2ce7b746fdd/colorLogoPNG.png" tvg-url="" group-title="Baywatch",Baywatch
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+################DOCUMENTARY################
+#EXTINF:-1 tvg-country="US" group-title="-DOCUMENTARY",ANIMAL PLANET
+http://pn.tvott.info:80/307216011400/307216011400/81021
+#EXTINF:-1 tvg-country="US" group-title="-DOCUMENTARY",NAT GEO WILD US
+http://pn.tvott.info:80/307216011400/307216011400/81020
+#EXTINF:-1 tvg-country="US" group-title="-DOCUMENTARY",NAT GEO USA
+http://pn.tvott.info:80/307216011400/307216011400/81019
+#EXTINF:-1 tvg-country="US" group-title="-DOCUMENTARY",INVESTIGATION DISCOVERY
+http://pn.tvott.info:80/307216011400/307216011400/81018
+#EXTINF:-1 tvg-country="US" group-title="-DOCUMENTARY",HISTORY 2
+http://pn.tvott.info:80/307216011400/307216011400/81016
+#EXTINF:-1 tvg-country="US" group-title="-DOCUMENTARY",DISCOVERY SCIENCE
+http://pn.tvott.info:80/307216011400/307216011400/81015
+#EXTINF:-1 tvg-country="US" group-title="-DOCUMENTARY",DISCOVERY LIFE
+http://pn.tvott.info:80/307216011400/307216011400/81014
+#EXTINF:-1 tvg-country="US" group-title="-DOCUMENTARY",DISCOVERY FAMILY
+http://pn.tvott.info:80/307216011400/307216011400/81013
+#EXTINF:-1 tvg-country="US" group-title="-DOCUMENTARY",DISCOVERY CHANNEL
+http://pn.tvott.info:80/307216011400/307216011400/81012
 ################SPORTS################
-#EXTINF:-1 tvg-country="US" group-title="SPORTS",ESPN U
+#EXTINF:-1 tvg-country="US" group-title="-SPORTS",ESPN U
 http://pn.tvott.info:80/307216011400/307216011400/80946
-#EXTINF:-1 tvg-country="US" group-title="SPORTS",ESPN 2
+#EXTINF:-1 tvg-country="US" group-title="-SPORTS",ESPN 2
 http://pn.tvott.info:80/307216011400/307216011400/80945
-#EXTINF:-1 tvg-country="US" group-title="SPORTS",ESPN
+#EXTINF:-1 tvg-country="US" group-title="-SPORTS",ESPN
 http://pn.tvott.info:80/307216011400/307216011400/80944
-#EXTINF:-1 tvg-country="US" group-title="SPORTS",FOX SOCCER PLUS
+#EXTINF:-1 tvg-country="US" group-title="-SPORTS",FOX SOCCER PLUS
 http://pn.tvott.info:80/307216011400/307216011400/80949
 #EXTINF:-1 tvg-logo="https://www.worldmmaawards.com/wp-content/uploads/2019/03/MMAJunkie.jpg" group-title="-SPORTS",MMA Junkie
 http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
