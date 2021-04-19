@@ -110,27 +110,26 @@ http://pn.tvott.info:80/307216011400/307216011400/80989
 http://pn.tvott.info:80/307216011400/307216011400/80988
 #EXTINF:-1 tvg-country="US" group-title="NoizeTv",VH1
 http://pn.tvott.info:80/307216011400/307216011400/80987
-#EXTINF:-1 tvg-country="US" group-title="NoizeTv",UFC 24/7
-http://pn.tvott.info:80/307216011400/307216011400/80984
-#EXTINF:-1 tvg-country="US" group-title="NoizeTv",FOX SOCCER PLUS
-http://pn.tvott.info:80/307216011400/307216011400/80949
-#EXTINF:-1 tvg-country="US" group-title="NoizeTv",ESPN U
-http://pn.tvott.info:80/307216011400/307216011400/80946
-#EXTINF:-1 tvg-country="US" group-title="NoizeTv",ESPN 2
-http://pn.tvott.info:80/307216011400/307216011400/80945
-#EXTINF:-1 tvg-country="US" group-title="NoizeTv",ESPN
-http://pn.tvott.info:80/307216011400/307216011400/80944
 ################Baywatch################
 #EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/09092020/baywatch_circle_190x190.png" tvg-url="" group-title="Baywatch",Baywatch
 http://d3mxmx98etcevi.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d815eb889bca2ce7b746fdd/colorLogoPNG.png" tvg-url="" group-title="Baywatch",Baywatch
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 ################SPORTS################
+#EXTINF:-1 tvg-country="US" group-title="SPORTS",ESPN U
+http://pn.tvott.info:80/307216011400/307216011400/80946
+#EXTINF:-1 tvg-country="US" group-title="SPORTS",ESPN 2
+http://pn.tvott.info:80/307216011400/307216011400/80945
+#EXTINF:-1 tvg-country="US" group-title="SPORTS",ESPN
+http://pn.tvott.info:80/307216011400/307216011400/80944
+#EXTINF:-1 tvg-country="US" group-title="SPORTS",FOX SOCCER PLUS
+http://pn.tvott.info:80/307216011400/307216011400/80949
 #EXTINF:-1 tvg-logo="https://www.worldmmaawards.com/wp-content/uploads/2019/03/MMAJunkie.jpg" group-title="-SPORTS",MMA Junkie
 http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="-SPORTS",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-http://tvmedia2.com:8080/andrea/andrea/167859.m3u8
+#EXTINF:-1 tvg-country="US" group-title="SPORTS",UFC 24/7
+http://pn.tvott.info:80/307216011400/307216011400/80984
 ################CANADA################
 #EXTINF:-1 tvg-id="OutsideTV.ca" tvg-name="Outside TV" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/snuV96y.png"  group-title="CANADA",Outside TV
 https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
