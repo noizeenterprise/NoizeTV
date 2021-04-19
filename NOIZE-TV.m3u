@@ -101,12 +101,6 @@ http://ky-tv.cc:25461/tram/tram/175787
 http://ky-tv.cc:25461/tram/tram/175788
 #EXTINF:-1 tvg-country="US" group-title="NoizeTv2",AMC
 http://ky-tv.cc:25461/tram/tram/175789
-#EXTINF:-1 tvg-country="US" group-title="NoizeTv2",Animal Planet
-http://ky-tv.cc:25461/tram/tram/175791
-#EXTINF:-1 tvg-country="US" group-title="NoizeTv2",Animal Planet
-http://ky-tv.cc:25461/tram/tram/175793
-#EXTINF:-1 tvg-country="US" group-title="NoizeTv2",Animal Planet Pacific
-http://ky-tv.cc:25461/tram/tram/175794
 #EXTINF:-1 tvg-country="US" group-title="NoizeTv2",BET
 http://ky-tv.cc:25461/tram/tram/175801
 #EXTINF:-1 tvg-country="US" group-title="NoizeTv2",BET HER
@@ -401,6 +395,12 @@ http://pn.tvott.info:80/307216011400/307216011400/81014
 http://pn.tvott.info:80/307216011400/307216011400/81013
 #EXTINF:-1 tvg-country="US" group-title="-DOCUMENTARY",DISCOVERY CHANNEL
 http://pn.tvott.info:80/307216011400/307216011400/81012
+#EXTINF:-1 tvg-country="US" group-title="-DOCUMENTARY2",Animal Planet
+http://ky-tv.cc:25461/tram/tram/175791
+#EXTINF:-1 tvg-country="US" group-title="-DOCUMENTARY2",Animal Planet
+http://ky-tv.cc:25461/tram/tram/175793
+#EXTINF:-1 tvg-country="US" group-title="-DOCUMENTARY2",Animal Planet Pacific
+http://ky-tv.cc:25461/tram/tram/175794
 #EXTINF:-1 tvg-country="US" group-title="-DOCUMENTARY2",Discovery
 http://ky-tv.cc:25461/tram/tram/175826
 #EXTINF:-1 tvg-country="US" group-title="-DOCUMENTARY2",Discovery Family
