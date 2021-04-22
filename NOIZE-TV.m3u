@@ -22,7 +22,7 @@ http://rv.flysat.live:80/musa1/musa2/81209
 http://rv.flysat.live:80/musa1/musa2/81208
 #EXTINF:-1 tvg-country="US" group-title="USA",STARZ IN BLACK
 http://rv.flysat.live:80/musa1/musa2/81206
-#EXTINF:-1 tvg-country="US" group-title="USA",STARZ ENCORE WESTERNS
+#EXTINF:-1 tvg-country="US" group-title="USA",STARZ ENCORE PACIFICERNS
 http://rv.flysat.live:80/musa1/musa2/81205
 #EXTINF:-1 tvg-country="US" group-title="USA",STARZ ENCORE
 http://rv.flysat.live:80/musa1/musa2/81204
@@ -36,15 +36,15 @@ http://rv.flysat.live:80/musa1/musa2/81201
 http://rv.flysat.live:80/musa1/musa2/81200
 #EXTINF:-1 tvg-country="US" group-title="USA",EPIX 2
 http://rv.flysat.live:80/musa1/musa2/81199
-#EXTINF:-1 tvg-country="US" group-title="USA",CINEMAXX MORE MAXX
+#EXTINF:-1 tvg-country="US" group-title="USA",MOREMAX CINEMAX
 http://rv.flysat.live:80/musa1/musa2/81198
-#EXTINF:-1 tvg-country="US" group-title="USA",CINEMAX THRILLERMAX HD
+#EXTINF:-1 tvg-country="US" group-title="USA",THRILLERMAX CINEMAX
 http://rv.flysat.live:80/musa1/musa2/81197
-#EXTINF:-1 tvg-country="US" group-title="USA",CINEMAX OUTER MAX
+#EXTINF:-1 tvg-country="US" group-title="USA",OUTERMAX CINEMAX
 http://rv.flysat.live:80/musa1/musa2/81196
-#EXTINF:-1 tvg-country="US" group-title="USA",CINEMAX EAST
+#EXTINF:-1 tvg-country="US" group-title="USA",CINEMAX
 http://rv.flysat.live:80/musa1/musa2/81194
-#EXTINF:-1 tvg-country="US" group-title="USA",CINEMAX ACTION MAX EAST
+#EXTINF:-1 tvg-country="US" group-title="USA",ACTIONMAX CINEMAX
 http://rv.flysat.live:80/musa1/musa2/81193
 #EXTINF:-1 tvg-country="US" group-title="USA",WGN AMERICA
 http://rv.flysat.live:80/musa1/musa2/81192
@@ -84,9 +84,9 @@ http://rv.flysat.live:80/musa1/musa2/81176
 http://rv.flysat.live:80/musa1/musa2/81175
 #EXTINF:-1 tvg-country="US" group-title="USA",SYFY
 http://rv.flysat.live:80/musa1/musa2/81174
-#EXTINF:-1 tvg-country="US" group-title="USA",SUNDANCE
+#EXTINF:-1 tvg-country="US" group-title="USA",SUNDANCETV
 http://rv.flysat.live:80/musa1/musa2/81173
-#EXTINF:-1 tvg-country="US" group-title="USA",SPIKE/PARAMOUNT
+#EXTINF:-1 tvg-country="US" group-title="USA",SPIKETV
 http://rv.flysat.live:80/musa1/musa2/81171
 #EXTINF:-1 tvg-country="US" group-title="USA",SMITHSONIAN CHANNEL
 http://rv.flysat.live:80/musa1/musa2/81168
@@ -196,7 +196,7 @@ http://rv.flysat.live:80/musa1/musa2/81060
 http://rv.flysat.live:80/musa1/musa2/81059
 #EXTINF:-1 tvg-country="US" group-title="USA",CBS NY HD
 http://rv.flysat.live:80/musa1/musa2/81058
-#EXTINF:-1 tvg-country="US" group-title="USA",CBS EAST
+#EXTINF:-1 tvg-country="US" group-title="USA",CBS
 http://rv.flysat.live:80/musa1/musa2/81057
 #EXTINF:-1 tvg-country="US" group-title="USA",BUZZER
 http://rv.flysat.live:80/musa1/musa2/81056
@@ -222,11 +222,11 @@ http://rv.flysat.live:80/musa1/musa2/81047
 http://rv.flysat.live:80/musa1/musa2/81046
 #EXTINF:-1 tvg-country="US" group-title="USA",AMC
 http://rv.flysat.live:80/musa1/musa2/81045
-#EXTINF:-1 tvg-country="US" group-title="USA",ABC WEST
+#EXTINF:-1 tvg-country="US" group-title="USA",ABC PACIFIC
 http://rv.flysat.live:80/musa1/musa2/81044
 #EXTINF:-1 tvg-country="US" group-title="USA",ABC NY HD
 http://rv.flysat.live:80/musa1/musa2/81043
-#EXTINF:-1 tvg-country="US" group-title="USA",ABC EAST HD
+#EXTINF:-1 tvg-country="US" group-title="USA",ABC HD
 http://rv.flysat.live:80/musa1/musa2/81042
 #EXTINF:-1 tvg-country="US" group-title="USA",A&E HD
 http://rv.flysat.live:80/musa1/musa2/81041
@@ -254,7 +254,7 @@ http://rv.flysat.live:80/musa1/musa2/81030
 http://rv.flysat.live:80/musa1/musa2/81029
 #EXTINF:-1 tvg-country="US" group-title="USA",PBS WLIW 21
 http://rv.flysat.live:80/musa1/musa2/81028
-#EXTINF:-1 tvg-country="US" group-title="USA",PBS KIDS EAST
+#EXTINF:-1 tvg-country="US" group-title="USA",PBS KIDS
 http://rv.flysat.live:80/musa1/musa2/81027
 #EXTINF:-1 tvg-country="US" group-title="USA",PBS
 http://rv.flysat.live:80/musa1/musa2/81026
@@ -366,7 +366,7 @@ http://rv.flysat.live:80/musa1/musa2/80970
 http://rv.flysat.live:80/musa1/musa2/80969
 #EXTINF:-1 tvg-country="US" group-title="USA",NBC SPORTS PHILADELPHIA HD
 http://rv.flysat.live:80/musa1/musa2/80968
-#EXTINF:-1 tvg-country="US" group-title="USA",NBC SPORTS NORTHWEST HD
+#EXTINF:-1 tvg-country="US" group-title="USA",NBC SPORTS NORTHPACIFIC HD
 http://rv.flysat.live:80/musa1/musa2/80967
 #EXTINF:-1 tvg-country="US" group-title="USA",NBC SPORTS NETWORK
 http://rv.flysat.live:80/musa1/musa2/80966
@@ -380,7 +380,7 @@ http://rv.flysat.live:80/musa1/musa2/80963
 http://rv.flysat.live:80/musa1/musa2/80962
 #EXTINF:-1 tvg-country="US" group-title="USA",NBC GOLF
 http://rv.flysat.live:80/musa1/musa2/80961
-#EXTINF:-1 tvg-country="US" group-title="USA",NBC 10 EAST
+#EXTINF:-1 tvg-country="US" group-title="USA",NBC 10
 http://rv.flysat.live:80/musa1/musa2/80960
 #EXTINF:-1 tvg-country="US" group-title="USA",NBA TV HD
 http://rv.flysat.live:80/musa1/musa2/80959
