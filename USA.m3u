@@ -1,425 +1,425 @@
 #EXTM3U
-#EXTINF:-1,USA| HBO HD
+#EXTINF:-1 tvg-country="US" group-title="",HBO HD
 http://pn.tvott.info:80/1932742343/4458181593/81216
-#EXTINF:-1,USA| HBO 2 HD
+#EXTINF:-1 tvg-country="US" group-title="",HBO 2 HD
 http://pn.tvott.info:80/1932742343/4458181593/81215
-#EXTINF:-1,USA| HBO ZONE HD
+#EXTINF:-1 tvg-country="US" group-title="",HBO ZONE HD
 http://pn.tvott.info:80/1932742343/4458181593/81214
-#EXTINF:-1,USA| HBO SIGNATURE
+#EXTINF:-1 tvg-country="US" group-title="",HBO SIGNATURE
 http://pn.tvott.info:80/1932742343/4458181593/81213
-#EXTINF:-1,USA| HBO FAMILY HD
+#EXTINF:-1 tvg-country="US" group-title="",HBO FAMILY HD
 http://pn.tvott.info:80/1932742343/4458181593/81212
-#EXTINF:-1,USA| HBO COMEDY HD
+#EXTINF:-1 tvg-country="US" group-title="",HBO COMEDY HD
 http://pn.tvott.info:80/1932742343/4458181593/81211
-#EXTINF:-1,USA| HALLMARK MOVIES & MYSTERIES HD
+#EXTINF:-1 tvg-country="US" group-title="",HALLMARK MOVIES & MYSTERIES HD
 http://pn.tvott.info:80/1932742343/4458181593/81210
-#EXTINF:-1,USA| HALLMARK HD
+#EXTINF:-1 tvg-country="US" group-title="",HALLMARK HD
 http://pn.tvott.info:80/1932742343/4458181593/81209
-#EXTINF:-1,USA| HALLMARK DRAMA
+#EXTINF:-1 tvg-country="US" group-title="",HALLMARK DRAMA
 http://pn.tvott.info:80/1932742343/4458181593/81208
-#EXTINF:-1,USA| STARZ IN BLACK
+#EXTINF:-1 tvg-country="US" group-title="",STARZ IN BLACK
 http://pn.tvott.info:80/1932742343/4458181593/81206
-#EXTINF:-1,USA| STARZ ENCORE WESTERNS
+#EXTINF:-1 tvg-country="US" group-title="",STARZ ENCORE WESTERNS
 http://pn.tvott.info:80/1932742343/4458181593/81205
-#EXTINF:-1,USA| STARZ ENCORE
+#EXTINF:-1 tvg-country="US" group-title="",STARZ ENCORE
 http://pn.tvott.info:80/1932742343/4458181593/81204
-#EXTINF:-1,USA| STARZ EDGE
+#EXTINF:-1 tvg-country="US" group-title="",STARZ EDGE
 http://pn.tvott.info:80/1932742343/4458181593/81203
-#EXTINF:-1,USA| STARZ COMEDY
+#EXTINF:-1 tvg-country="US" group-title="",STARZ COMEDY
 http://pn.tvott.info:80/1932742343/4458181593/81202
-#EXTINF:-1,USA| EPIX HITS
+#EXTINF:-1 tvg-country="US" group-title="",EPIX HITS
 http://pn.tvott.info:80/1932742343/4458181593/81201
-#EXTINF:-1,USA| EPIX HD
+#EXTINF:-1 tvg-country="US" group-title="",EPIX HD
 http://pn.tvott.info:80/1932742343/4458181593/81200
-#EXTINF:-1,USA| EPIX 2
+#EXTINF:-1 tvg-country="US" group-title="",EPIX 2
 http://pn.tvott.info:80/1932742343/4458181593/81199
-#EXTINF:-1,USA| CINEMAXX MORE MAXX
+#EXTINF:-1 tvg-country="US" group-title="",CINEMAXX MORE MAXX
 http://pn.tvott.info:80/1932742343/4458181593/81198
-#EXTINF:-1,USA| CINEMAX THRILLERMAX HD
+#EXTINF:-1 tvg-country="US" group-title="",CINEMAX THRILLERMAX HD
 http://pn.tvott.info:80/1932742343/4458181593/81197
-#EXTINF:-1,USA| CINEMAX OUTER MAX
+#EXTINF:-1 tvg-country="US" group-title="",CINEMAX OUTER MAX
 http://pn.tvott.info:80/1932742343/4458181593/81196
-#EXTINF:-1,USA| CINEMAX EAST
+#EXTINF:-1 tvg-country="US" group-title="",CINEMAX EAST
 http://pn.tvott.info:80/1932742343/4458181593/81194
-#EXTINF:-1,USA| CINEMAX ACTION MAX EAST
+#EXTINF:-1 tvg-country="US" group-title="",CINEMAX ACTION MAX EAST
 http://pn.tvott.info:80/1932742343/4458181593/81193
-#EXTINF:-1,USA| WGN AMERICA
+#EXTINF:-1 tvg-country="US" group-title="",WGN AMERICA
 http://pn.tvott.info:80/1932742343/4458181593/81192
-#EXTINF:-1,USA| WE TV
+#EXTINF:-1 tvg-country="US" group-title="",WE TV
 http://pn.tvott.info:80/1932742343/4458181593/81191
-#EXTINF:-1,USA| VICELAND
+#EXTINF:-1 tvg-country="US" group-title="",VICELAND
 http://pn.tvott.info:80/1932742343/4458181593/81190
-#EXTINF:-1,USA| USA NETWORK
+#EXTINF:-1 tvg-country="US" group-title="",USA NETWORK
 http://pn.tvott.info:80/1932742343/4458181593/81189
-#EXTINF:-1,USA| UNIVISION TDN
+#EXTINF:-1 tvg-country="US" group-title="",UNIVISION TDN
 http://pn.tvott.info:80/1932742343/4458181593/81188
-#EXTINF:-1,USA| UNIVISION
+#EXTINF:-1 tvg-country="US" group-title="",UNIVISION
 http://pn.tvott.info:80/1932742343/4458181593/81187
-#EXTINF:-1,USA| UNIMAS
+#EXTINF:-1 tvg-country="US" group-title="",UNIMAS
 http://pn.tvott.info:80/1932742343/4458181593/81186
-#EXTINF:-1,USA| TVONE
+#EXTINF:-1 tvg-country="US" group-title="",TVONE
 http://pn.tvott.info:80/1932742343/4458181593/81185
-#EXTINF:-1,USA| TV LAND HD
+#EXTINF:-1 tvg-country="US" group-title="",TV LAND HD
 http://pn.tvott.info:80/1932742343/4458181593/81184
-#EXTINF:-1,USA| TRU TV
+#EXTINF:-1 tvg-country="US" group-title="",TRU TV
 http://pn.tvott.info:80/1932742343/4458181593/81183
-#EXTINF:-1,USA| TNT
+#EXTINF:-1 tvg-country="US" group-title="",TNT
 http://pn.tvott.info:80/1932742343/4458181593/81182
-#EXTINF:-1,USA| TLC CHANNEL
+#EXTINF:-1 tvg-country="US" group-title="",TLC CHANNEL
 http://pn.tvott.info:80/1932742343/4458181593/81181
-#EXTINF:-1,USA| THE CW HD CHICAGO
+#EXTINF:-1 tvg-country="US" group-title="",THE CW HD CHICAGO
 http://pn.tvott.info:80/1932742343/4458181593/81180
-#EXTINF:-1,USA| THE CW PIX 11
+#EXTINF:-1 tvg-country="US" group-title="",THE CW PIX 11
 http://pn.tvott.info:80/1932742343/4458181593/81179
-#EXTINF:-1,USA| TELEMUNDO
+#EXTINF:-1 tvg-country="US" group-title="",TELEMUNDO
 http://pn.tvott.info:80/1932742343/4458181593/81178
-#EXTINF:-1,USA| TCM
+#EXTINF:-1 tvg-country="US" group-title="",TCM
 http://pn.tvott.info:80/1932742343/4458181593/81177
-#EXTINF:-1,USA| TBS
+#EXTINF:-1 tvg-country="US" group-title="",TBS
 http://pn.tvott.info:80/1932742343/4458181593/81176
-#EXTINF:-1,USA| TBN TRINITY BROADCASTING NETWORK
+#EXTINF:-1 tvg-country="US" group-title="",TBN TRINITY BROADCASTING NETWORK
 http://pn.tvott.info:80/1932742343/4458181593/81175
-#EXTINF:-1,USA| SYFY
+#EXTINF:-1 tvg-country="US" group-title="",SYFY
 http://pn.tvott.info:80/1932742343/4458181593/81174
-#EXTINF:-1,USA| SUNDANCE
+#EXTINF:-1 tvg-country="US" group-title="",SUNDANCE
 http://pn.tvott.info:80/1932742343/4458181593/81173
-#EXTINF:-1,USA| SPIKE/PARAMOUNT
+#EXTINF:-1 tvg-country="US" group-title="",SPIKE/PARAMOUNT
 http://pn.tvott.info:80/1932742343/4458181593/81171
-#EXTINF:-1,USA| SMITHSONIAN CHANNEL
+#EXTINF:-1 tvg-country="US" group-title="",SMITHSONIAN CHANNEL
 http://pn.tvott.info:80/1932742343/4458181593/81168
-#EXTINF:-1,USA| SHOWTIME SHOWCASE
+#EXTINF:-1 tvg-country="US" group-title="",SHOWTIME SHOWCASE
 http://pn.tvott.info:80/1932742343/4458181593/81166
-#EXTINF:-1,USA| SHOWTIME HD
+#EXTINF:-1 tvg-country="US" group-title="",SHOWTIME HD
 http://pn.tvott.info:80/1932742343/4458181593/81164
-#EXTINF:-1,USA| SHOWTIME EXTREME
+#EXTINF:-1 tvg-country="US" group-title="",SHOWTIME EXTREME
 http://pn.tvott.info:80/1932742343/4458181593/81162
-#EXTINF:-1,USA| SHOWTIME 2
+#EXTINF:-1 tvg-country="US" group-title="",SHOWTIME 2
 http://pn.tvott.info:80/1932742343/4458181593/81160
-#EXTINF:-1,USA| REVOLT
+#EXTINF:-1 tvg-country="US" group-title="",REVOLT
 http://pn.tvott.info:80/1932742343/4458181593/81157
-#EXTINF:-1,USA| REELZ
+#EXTINF:-1 tvg-country="US" group-title="",REELZ
 http://pn.tvott.info:80/1932742343/4458181593/81156
-#EXTINF:-1,USA| RED BULL TV
+#EXTINF:-1 tvg-country="US" group-title="",RED BULL TV
 http://pn.tvott.info:80/1932742343/4458181593/81153
-#EXTINF:-1,USA| QVC
+#EXTINF:-1 tvg-country="US" group-title="",QVC
 http://pn.tvott.info:80/1932742343/4458181593/81151
-#EXTINF:-1,USA| PURSUIT CHANNEL
+#EXTINF:-1 tvg-country="US" group-title="",PURSUIT CHANNEL
 http://pn.tvott.info:80/1932742343/4458181593/81149
-#EXTINF:-1,USA| POP
+#EXTINF:-1 tvg-country="US" group-title="",POP
 http://pn.tvott.info:80/1932742343/4458181593/81147
-#EXTINF:-1,USA| OXYGEN
+#EXTINF:-1 tvg-country="US" group-title="",OXYGEN
 http://pn.tvott.info:80/1932742343/4458181593/81145
-#EXTINF:-1,USA| OWN NETWORK HD
+#EXTINF:-1 tvg-country="US" group-title="",OWN NETWORK HD
 http://pn.tvott.info:80/1932742343/4458181593/81143
-#EXTINF:-1,USA| OVATION
+#EXTINF:-1 tvg-country="US" group-title="",OVATION
 http://pn.tvott.info:80/1932742343/4458181593/81141
-#EXTINF:-1,USA| NBC UNIVERSO
+#EXTINF:-1 tvg-country="US" group-title="",NBC UNIVERSO
 http://pn.tvott.info:80/1932742343/4458181593/81138
-#EXTINF:-1,USA| NBC 5
+#EXTINF:-1 tvg-country="US" group-title="",NBC 5
 http://pn.tvott.info:80/1932742343/4458181593/81136
-#EXTINF:-1,USA| NBC 4 NY
+#EXTINF:-1 tvg-country="US" group-title="",NBC 4 NY
 http://pn.tvott.info:80/1932742343/4458181593/81134
-#EXTINF:-1,USA| MY 9
+#EXTINF:-1 tvg-country="US" group-title="",MY 9
 http://pn.tvott.info:80/1932742343/4458181593/81132
-#EXTINF:-1,USA| MSNBC
+#EXTINF:-1 tvg-country="US" group-title="",MSNBC
 http://pn.tvott.info:80/1932742343/4458181593/81129
-#EXTINF:-1,USA| ME TV
+#EXTINF:-1 tvg-country="US" group-title="",ME TV
 http://pn.tvott.info:80/1932742343/4458181593/81127
-#EXTINF:-1,USA| MAV TV
+#EXTINF:-1 tvg-country="US" group-title="",MAV TV
 http://pn.tvott.info:80/1932742343/4458181593/81125
-#EXTINF:-1,USA| LIFETIME MOVIES
+#EXTINF:-1 tvg-country="US" group-title="",LIFETIME MOVIES
 http://pn.tvott.info:80/1932742343/4458181593/81123
-#EXTINF:-1,USA| LIFETIME
+#EXTINF:-1 tvg-country="US" group-title="",LIFETIME
 http://pn.tvott.info:80/1932742343/4458181593/81121
-#EXTINF:-1,USA| LAFF TV
+#EXTINF:-1 tvg-country="US" group-title="",LAFF TV
 http://pn.tvott.info:80/1932742343/4458181593/81119
-#EXTINF:-1,USA| ION TV
+#EXTINF:-1 tvg-country="US" group-title="",ION TV
 http://pn.tvott.info:80/1932742343/4458181593/81117
-#EXTINF:-1,USA| INFOWARS
+#EXTINF:-1 tvg-country="US" group-title="",INFOWARS
 http://pn.tvott.info:80/1932742343/4458181593/81114
-#EXTINF:-1,USA| IFC
+#EXTINF:-1 tvg-country="US" group-title="",IFC
 http://pn.tvott.info:80/1932742343/4458181593/81112
-#EXTINF:-1,USA| HSN
+#EXTINF:-1 tvg-country="US" group-title="",HSN
 http://pn.tvott.info:80/1932742343/4458181593/81110
-#EXTINF:-1,USA| HLN
+#EXTINF:-1 tvg-country="US" group-title="",HLN
 http://pn.tvott.info:80/1932742343/4458181593/81108
-#EXTINF:-1,USA| HGTV HD
+#EXTINF:-1 tvg-country="US" group-title="",HGTV HD
 http://pn.tvott.info:80/1932742343/4458181593/81106
-#EXTINF:-1,USA| HGTV UHD
+#EXTINF:-1 tvg-country="US" group-title="",HGTV UHD
 http://pn.tvott.info:80/1932742343/4458181593/81103
-#EXTINF:-1,USA| HEROS & ICONS
+#EXTINF:-1 tvg-country="US" group-title="",HEROS & ICONS
 http://pn.tvott.info:80/1932742343/4458181593/81101
-#EXTINF:-1,USA| GRIT TV
+#EXTINF:-1 tvg-country="US" group-title="",GRIT TV
 http://pn.tvott.info:80/1932742343/4458181593/81099
-#EXTINF:-1,USA| GALAVISION
+#EXTINF:-1 tvg-country="US" group-title="",GALAVISION
 http://pn.tvott.info:80/1932742343/4458181593/81097
-#EXTINF:-1,USA| FYI NETWORK
+#EXTINF:-1 tvg-country="US" group-title="",FYI NETWORK
 http://pn.tvott.info:80/1932742343/4458181593/81095
-#EXTINF:-1,USA| FXX
+#EXTINF:-1 tvg-country="US" group-title="",FXX
 http://pn.tvott.info:80/1932742343/4458181593/81092
-#EXTINF:-1,USA| FXM
+#EXTINF:-1 tvg-country="US" group-title="",FXM
 http://pn.tvott.info:80/1932742343/4458181593/81090
-#EXTINF:-1,USA| FX HD
+#EXTINF:-1 tvg-country="US" group-title="",FX HD
 http://pn.tvott.info:80/1932742343/4458181593/81088
-#EXTINF:-1,USA| FUSE
+#EXTINF:-1 tvg-country="US" group-title="",FUSE
 http://pn.tvott.info:80/1932742343/4458181593/81086
-#EXTINF:-1,USA| FREEFORM HD
+#EXTINF:-1 tvg-country="US" group-title="",FREEFORM HD
 http://pn.tvott.info:80/1932742343/4458181593/81083
-#EXTINF:-1,USA| FOOD NETWORK
+#EXTINF:-1 tvg-country="US" group-title="",FOOD NETWORK
 http://pn.tvott.info:80/1932742343/4458181593/81081
-#EXTINF:-1,USA| EL REY NETWORK
+#EXTINF:-1 tvg-country="US" group-title="",EL REY NETWORK
 http://pn.tvott.info:80/1932742343/4458181593/81079
-#EXTINF:-1,USA| EL REY NETWORK HD
+#EXTINF:-1 tvg-country="US" group-title="",EL REY NETWORK HD
 http://pn.tvott.info:80/1932742343/4458181593/81077
-#EXTINF:-1,USA| E!
+#EXTINF:-1 tvg-country="US" group-title="",E!
 http://pn.tvott.info:80/1932742343/4458181593/81075
-#EXTINF:-1,USA| DOG TV
+#EXTINF:-1 tvg-country="US" group-title="",DOG TV
 http://pn.tvott.info:80/1932742343/4458181593/81073
-#EXTINF:-1,USA| DIY NETWORK HD
+#EXTINF:-1 tvg-country="US" group-title="",DIY NETWORK HD
 http://pn.tvott.info:80/1932742343/4458181593/81071
-#EXTINF:-1,USA| DESTINATION AMERICA
+#EXTINF:-1 tvg-country="US" group-title="",DESTINATION AMERICA
 http://pn.tvott.info:80/1932742343/4458181593/81069
-#EXTINF:-1,USA| COZI TV
+#EXTINF:-1 tvg-country="US" group-title="",COZI TV
 http://pn.tvott.info:80/1932742343/4458181593/81066
-#EXTINF:-1,USA| COUNTRY NETWORK
+#EXTINF:-1 tvg-country="US" group-title="",COUNTRY NETWORK
 http://pn.tvott.info:80/1932742343/4458181593/81064
-#EXTINF:-1,USA| COOKING CHANNEL HD
+#EXTINF:-1 tvg-country="US" group-title="",COOKING CHANNEL HD
 http://pn.tvott.info:80/1932742343/4458181593/81062
-#EXTINF:-1,USA| COMET TV
+#EXTINF:-1 tvg-country="US" group-title="",COMET TV
 http://pn.tvott.info:80/1932742343/4458181593/81061
-#EXTINF:-1,USA| COMEDY CENTRAL
+#EXTINF:-1 tvg-country="US" group-title="",COMEDY CENTRAL
 http://pn.tvott.info:80/1932742343/4458181593/81060
-#EXTINF:-1,USA| CMT HD
+#EXTINF:-1 tvg-country="US" group-title="",CMT HD
 http://pn.tvott.info:80/1932742343/4458181593/81059
-#EXTINF:-1,USA| CBS NY HD
+#EXTINF:-1 tvg-country="US" group-title="",CBS NY HD
 http://pn.tvott.info:80/1932742343/4458181593/81058
-#EXTINF:-1,USA| CBS EAST
+#EXTINF:-1 tvg-country="US" group-title="",CBS EAST
 http://pn.tvott.info:80/1932742343/4458181593/81057
-#EXTINF:-1,USA| BUZZER
+#EXTINF:-1 tvg-country="US" group-title="",BUZZER
 http://pn.tvott.info:80/1932742343/4458181593/81056
-#EXTINF:-1,USA| BRAVO
+#EXTINF:-1 tvg-country="US" group-title="",BRAVO
 http://pn.tvott.info:80/1932742343/4458181593/81055
-#EXTINF:-1,USA| BOUNCE TV
+#EXTINF:-1 tvg-country="US" group-title="",BOUNCE TV
 http://pn.tvott.info:80/1932742343/4458181593/81054
-#EXTINF:-1,USA| BLAZE TV
+#EXTINF:-1 tvg-country="US" group-title="",BLAZE TV
 http://pn.tvott.info:80/1932742343/4458181593/81053
-#EXTINF:-1,USA| BET HER
+#EXTINF:-1 tvg-country="US" group-title="",BET HER
 http://pn.tvott.info:80/1932742343/4458181593/81052
-#EXTINF:-1,USA| BET HD
+#EXTINF:-1 tvg-country="US" group-title="",BET HD
 http://pn.tvott.info:80/1932742343/4458181593/81051
-#EXTINF:-1,USA| BBC AMERICA
+#EXTINF:-1 tvg-country="US" group-title="",BBC AMERICA
 http://pn.tvott.info:80/1932742343/4458181593/81050
-#EXTINF:-1,USA| AXS TV
+#EXTINF:-1 tvg-country="US" group-title="",AXS TV
 http://pn.tvott.info:80/1932742343/4458181593/81049
-#EXTINF:-1,USA| AWE CHANNEL
+#EXTINF:-1 tvg-country="US" group-title="",AWE CHANNEL
 http://pn.tvott.info:80/1932742343/4458181593/81048
-#EXTINF:-1,USA| ANTENNA TV
+#EXTINF:-1 tvg-country="US" group-title="",ANTENNA TV
 http://pn.tvott.info:80/1932742343/4458181593/81047
-#EXTINF:-1,USA| AMERICAN HEROES CHANNEL
+#EXTINF:-1 tvg-country="US" group-title="",AMERICAN HEROES CHANNEL
 http://pn.tvott.info:80/1932742343/4458181593/81046
-#EXTINF:-1,USA| AMC
+#EXTINF:-1 tvg-country="US" group-title="",AMC
 http://pn.tvott.info:80/1932742343/4458181593/81045
-#EXTINF:-1,USA| ABC WEST
+#EXTINF:-1 tvg-country="US" group-title="",ABC WEST
 http://pn.tvott.info:80/1932742343/4458181593/81044
-#EXTINF:-1,USA| ABC NY HD
+#EXTINF:-1 tvg-country="US" group-title="",ABC NY HD
 http://pn.tvott.info:80/1932742343/4458181593/81043
-#EXTINF:-1,USA| ABC EAST HD
+#EXTINF:-1 tvg-country="US" group-title="",ABC EAST HD
 http://pn.tvott.info:80/1932742343/4458181593/81042
-#EXTINF:-1,USA| A&E HD
+#EXTINF:-1 tvg-country="US" group-title="",A&E HD
 http://pn.tvott.info:80/1932742343/4458181593/81041
-#EXTINF:-1,USA| BABY TV
+#EXTINF:-1 tvg-country="US" group-title="",BABY TV
 http://pn.tvott.info:80/1932742343/4458181593/81039
-#EXTINF:-1,USA| UNIVERSAL KIDS HD
+#EXTINF:-1 tvg-country="US" group-title="",UNIVERSAL KIDS HD
 http://pn.tvott.info:80/1932742343/4458181593/81038
-#EXTINF:-1,USA| TEEN NICK
+#EXTINF:-1 tvg-country="US" group-title="",TEEN NICK
 http://pn.tvott.info:80/1932742343/4458181593/81037
-#EXTINF:-1,USA| STARZ KIDS & FAMILY
+#EXTINF:-1 tvg-country="US" group-title="",STARZ KIDS & FAMILY
 http://pn.tvott.info:80/1932742343/4458181593/81036
-#EXTINF:-1,USA| NICKTOONS
+#EXTINF:-1 tvg-country="US" group-title="",NICKTOONS
 http://pn.tvott.info:80/1932742343/4458181593/81035
-#EXTINF:-1,USA| NICK JR. TOO
+#EXTINF:-1 tvg-country="US" group-title="",NICK JR. TOO
 http://pn.tvott.info:80/1932742343/4458181593/81034
-#EXTINF:-1,USA| NICK JR
+#EXTINF:-1 tvg-country="US" group-title="",NICK JR
 http://pn.tvott.info:80/1932742343/4458181593/81033
-#EXTINF:-1,USA| NICK HD
+#EXTINF:-1 tvg-country="US" group-title="",NICK HD
 http://pn.tvott.info:80/1932742343/4458181593/81032
-#EXTINF:-1,USA| DISNEY XD
+#EXTINF:-1 tvg-country="US" group-title="",DISNEY XD
 http://pn.tvott.info:80/1932742343/4458181593/81031
-#EXTINF:-1,USA| DISNEY JR
+#EXTINF:-1 tvg-country="US" group-title="",DISNEY JR
 http://pn.tvott.info:80/1932742343/4458181593/81030
-#EXTINF:-1,USA| DISNEY CHANNEL HD
+#EXTINF:-1 tvg-country="US" group-title="",DISNEY CHANNEL HD
 http://pn.tvott.info:80/1932742343/4458181593/81029
-#EXTINF:-1,USA| PBS WLIW 21
+#EXTINF:-1 tvg-country="US" group-title="",PBS WLIW 21
 http://pn.tvott.info:80/1932742343/4458181593/81028
-#EXTINF:-1,USA| PBS KIDS EAST
+#EXTINF:-1 tvg-country="US" group-title="",PBS KIDS EAST
 http://pn.tvott.info:80/1932742343/4458181593/81027
-#EXTINF:-1,USA| PBS
+#EXTINF:-1 tvg-country="US" group-title="",PBS
 http://pn.tvott.info:80/1932742343/4458181593/81026
-#EXTINF:-1,USA| CARTOONITO ES
+#EXTINF:-1 tvg-country="US" group-title="",CARTOONITO ES
 http://pn.tvott.info:80/1932742343/4458181593/81025
-#EXTINF:-1,USA| BOOMERANG
+#EXTINF:-1 tvg-country="US" group-title="",BOOMERANG
 http://pn.tvott.info:80/1932742343/4458181593/81023
-#EXTINF:-1,USA| ANIMAL PLANET
+#EXTINF:-1 tvg-country="US" group-title="",ANIMAL PLANET
 http://pn.tvott.info:80/1932742343/4458181593/81021
-#EXTINF:-1,USA| NAT GEO WILD HD US
+#EXTINF:-1 tvg-country="US" group-title="",NAT GEO WILD HD US
 http://pn.tvott.info:80/1932742343/4458181593/81020
-#EXTINF:-1,USA| NAT GEO USA
+#EXTINF:-1 tvg-country="US" group-title="",NAT GEO USA
 http://pn.tvott.info:80/1932742343/4458181593/81019
-#EXTINF:-1,USA| INVESTIGATION DISCOVERY HD
+#EXTINF:-1 tvg-country="US" group-title="",INVESTIGATION DISCOVERY HD
 http://pn.tvott.info:80/1932742343/4458181593/81018
-#EXTINF:-1,USA| HISTORY CHANNEL
+#EXTINF:-1 tvg-country="US" group-title="",HISTORY CHANNEL
 http://pn.tvott.info:80/1932742343/4458181593/81017
-#EXTINF:-1,USA| HISTORY 2
+#EXTINF:-1 tvg-country="US" group-title="",HISTORY 2
 http://pn.tvott.info:80/1932742343/4458181593/81016
-#EXTINF:-1,USA| DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-country="US" group-title="",DISCOVERY SCIENCE HD
 http://pn.tvott.info:80/1932742343/4458181593/81015
-#EXTINF:-1,USA| DISCOVERY LIFE
+#EXTINF:-1 tvg-country="US" group-title="",DISCOVERY LIFE
 http://pn.tvott.info:80/1932742343/4458181593/81014
-#EXTINF:-1,USA| DISCOVERY FAMILY
+#EXTINF:-1 tvg-country="US" group-title="",DISCOVERY FAMILY
 http://pn.tvott.info:80/1932742343/4458181593/81013
-#EXTINF:-1,USA| DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-country="US" group-title="",DISCOVERY CHANNEL HD
 http://pn.tvott.info:80/1932742343/4458181593/81012
-#EXTINF:-1,USA| CRIME AND INVESTIGATION
+#EXTINF:-1 tvg-country="US" group-title="",CRIME AND INVESTIGATION
 http://pn.tvott.info:80/1932742343/4458181593/81011
-#EXTINF:-1,USA| TRAVEL CHANNEL
+#EXTINF:-1 tvg-country="US" group-title="",TRAVEL CHANNEL
 http://pn.tvott.info:80/1932742343/4458181593/81010
-#EXTINF:-1,USA| WORLD FISHING NETWORK
+#EXTINF:-1 tvg-country="US" group-title="",WORLD FISHING NETWORK
 http://pn.tvott.info:80/1932742343/4458181593/81009
-#EXTINF:-1,USA| OUTSIDE TV
+#EXTINF:-1 tvg-country="US" group-title="",OUTSIDE TV
 http://pn.tvott.info:80/1932742343/4458181593/81008
-#EXTINF:-1,USA| OUTDOOR CHANNEL
+#EXTINF:-1 tvg-country="US" group-title="",OUTDOOR CHANNEL
 http://pn.tvott.info:80/1932742343/4458181593/81007
-#EXTINF:-1,USA| BLOOMBERG
+#EXTINF:-1 tvg-country="US" group-title="",BLOOMBERG
 http://pn.tvott.info:80/1932742343/4458181593/81005
-#EXTINF:-1,USA| CNN
+#EXTINF:-1 tvg-country="US" group-title="",CNN
 http://pn.tvott.info:80/1932742343/4458181593/81004
-#EXTINF:-1,USA| CNN*
+#EXTINF:-1 tvg-country="US" group-title="",CNN*
 http://pn.tvott.info:80/1932742343/4458181593/127211
-#EXTINF:-1,USA| CNBC
+#EXTINF:-1 tvg-country="US" group-title="",CNBC
 http://pn.tvott.info:80/1932742343/4458181593/81003
-#EXTINF:-1,USA| RT NEWS
+#EXTINF:-1 tvg-country="US" group-title="",RT NEWS
 http://pn.tvott.info:80/1932742343/4458181593/81002
-#EXTINF:-1,USA| ONE AMERICA NEWS
+#EXTINF:-1 tvg-country="US" group-title="",ONE AMERICA NEWS
 http://pn.tvott.info:80/1932742343/4458181593/81001
-#EXTINF:-1,USA| NEWS 12 NEW JERSEY
+#EXTINF:-1 tvg-country="US" group-title="",NEWS 12 NEW JERSEY
 http://pn.tvott.info:80/1932742343/4458181593/81000
-#EXTINF:-1,USA| NEWS 12 LONG ISLAND
+#EXTINF:-1 tvg-country="US" group-title="",NEWS 12 LONG ISLAND
 http://pn.tvott.info:80/1932742343/4458181593/80999
-#EXTINF:-1,USA| FOX NEWS
+#EXTINF:-1 tvg-country="US" group-title="",FOX NEWS
 http://pn.tvott.info:80/1932742343/4458181593/80998
-#EXTINF:-1,USA| ESPN NEWS
+#EXTINF:-1 tvg-country="US" group-title="",ESPN NEWS
 http://pn.tvott.info:80/1932742343/4458181593/80997
-#EXTINF:-1,USA| ABC NEWS HD
+#EXTINF:-1 tvg-country="US" group-title="",ABC NEWS HD
 http://pn.tvott.info:80/1932742343/4458181593/80996
-#EXTINF:-1,USA| THE WEATHER CHANNEL HD
+#EXTINF:-1 tvg-country="US" group-title="",THE WEATHER CHANNEL HD
 http://pn.tvott.info:80/1932742343/4458181593/80995
-#EXTINF:-1,USA| FOX BUSINESS HD
+#EXTINF:-1 tvg-country="US" group-title="",FOX BUSINESS HD
 http://pn.tvott.info:80/1932742343/4458181593/80994
-#EXTINF:-1,USA| FOX 50
+#EXTINF:-1 tvg-country="US" group-title="",FOX 50
 http://pn.tvott.info:80/1932742343/4458181593/80993
-#EXTINF:-1,USA| FOX 5 HD
+#EXTINF:-1 tvg-country="US" group-title="",FOX 5 HD
 http://pn.tvott.info:80/1932742343/4458181593/80992
-#EXTINF:-1,USA| MTV 2
+#EXTINF:-1 tvg-country="US" group-title="",MTV 2
 http://pn.tvott.info:80/1932742343/4458181593/80990
-#EXTINF:-1,USA| MTV LIVE
+#EXTINF:-1 tvg-country="US" group-title="",MTV LIVE
 http://pn.tvott.info:80/1932742343/4458181593/80989
-#EXTINF:-1,USA| MTV HD
+#EXTINF:-1 tvg-country="US" group-title="",MTV HD
 http://pn.tvott.info:80/1932742343/4458181593/80988
-#EXTINF:-1,USA| VH1 HD
+#EXTINF:-1 tvg-country="US" group-title="",VH1 HD
 http://pn.tvott.info:80/1932742343/4458181593/80987
-#EXTINF:-1,USA| WWE
+#EXTINF:-1 tvg-country="US" group-title="",WWE
 http://pn.tvott.info:80/1932742343/4458181593/80985
-#EXTINF:-1,USA| UFC 24/7
+#EXTINF:-1 tvg-country="US" group-title="",UFC 24/7
 http://pn.tvott.info:80/1932742343/4458181593/80984
-#EXTINF:-1,USA| TVG HORSE RACING
+#EXTINF:-1 tvg-country="US" group-title="",TVG HORSE RACING
 http://pn.tvott.info:80/1932742343/4458181593/80983
-#EXTINF:-1,USA| TENNIS HD
+#EXTINF:-1 tvg-country="US" group-title="",TENNIS HD
 http://pn.tvott.info:80/1932742343/4458181593/80982
-#EXTINF:-1,USA| SPORTSNET NY
+#EXTINF:-1 tvg-country="US" group-title="",SPORTSNET NY
 http://pn.tvott.info:80/1932742343/4458181593/80981
-#EXTINF:-1,USA| SPORTSMAN CHANNEL
+#EXTINF:-1 tvg-country="US" group-title="",SPORTSMAN CHANNEL
 http://pn.tvott.info:80/1932742343/4458181593/80980
-#EXTINF:-1,USA| SEC NETWORK
+#EXTINF:-1 tvg-country="US" group-title="",SEC NETWORK
 http://pn.tvott.info:80/1932742343/4458181593/80979
-#EXTINF:-1,USA| PAC-12 OREGON
+#EXTINF:-1 tvg-country="US" group-title="",PAC-12 OREGON
 http://pn.tvott.info:80/1932742343/4458181593/80978
-#EXTINF:-1,USA| PAC-12 MOUNTAIN
+#EXTINF:-1 tvg-country="US" group-title="",PAC-12 MOUNTAIN
 http://pn.tvott.info:80/1932742343/4458181593/80977
-#EXTINF:-1,USA| PAC-12 BAY AREA
+#EXTINF:-1 tvg-country="US" group-title="",PAC-12 BAY AREA
 http://pn.tvott.info:80/1932742343/4458181593/80976
-#EXTINF:-1,USA| PAC-12 ARIZONA
+#EXTINF:-1 tvg-country="US" group-title="",PAC-12 ARIZONA
 http://pn.tvott.info:80/1932742343/4458181593/80975
-#EXTINF:-1,USA| PAC 12 NETWORK
+#EXTINF:-1 tvg-country="US" group-title="",PAC 12 NETWORK
 http://pn.tvott.info:80/1932742343/4458181593/80974
-#EXTINF:-1,USA| PAC 12 LOS ANGELES
+#EXTINF:-1 tvg-country="US" group-title="",PAC 12 LOS ANGELES
 http://pn.tvott.info:80/1932742343/4458181593/80973
-#EXTINF:-1,USA| NHL NETWORK
+#EXTINF:-1 tvg-country="US" group-title="",NHL NETWORK
 http://pn.tvott.info:80/1932742343/4458181593/80972
-#EXTINF:-1,USA| NFL RED ZONE
+#EXTINF:-1 tvg-country="US" group-title="",NFL RED ZONE
 http://pn.tvott.info:80/1932742343/4458181593/80971
-#EXTINF:-1,USA| NFL NETWORK
+#EXTINF:-1 tvg-country="US" group-title="",NFL NETWORK
 http://pn.tvott.info:80/1932742343/4458181593/80970
-#EXTINF:-1,USA| NESN
+#EXTINF:-1 tvg-country="US" group-title="",NESN
 http://pn.tvott.info:80/1932742343/4458181593/80969
-#EXTINF:-1,USA| NBC SPORTS PHILADELPHIA HD
+#EXTINF:-1 tvg-country="US" group-title="",NBC SPORTS PHILADELPHIA HD
 http://pn.tvott.info:80/1932742343/4458181593/80968
-#EXTINF:-1,USA| NBC SPORTS NORTHWEST HD
+#EXTINF:-1 tvg-country="US" group-title="",NBC SPORTS NORTHWEST HD
 http://pn.tvott.info:80/1932742343/4458181593/80967
-#EXTINF:-1,USA| NBC SPORTS NETWORK
+#EXTINF:-1 tvg-country="US" group-title="",NBC SPORTS NETWORK
 http://pn.tvott.info:80/1932742343/4458181593/80966
-#EXTINF:-1,USA| NBC SPORTS CHICAGO HD
+#EXTINF:-1 tvg-country="US" group-title="",NBC SPORTS CHICAGO HD
 http://pn.tvott.info:80/1932742343/4458181593/80965
-#EXTINF:-1,USA| NBC SPORTS CALIFORNIA HD
+#EXTINF:-1 tvg-country="US" group-title="",NBC SPORTS CALIFORNIA HD
 http://pn.tvott.info:80/1932742343/4458181593/80964
-#EXTINF:-1,USA| NBC SPORTS BOSTON HD
+#EXTINF:-1 tvg-country="US" group-title="",NBC SPORTS BOSTON HD
 http://pn.tvott.info:80/1932742343/4458181593/80963
-#EXTINF:-1,USA| NBC SPORTS BAY AREA HD
+#EXTINF:-1 tvg-country="US" group-title="",NBC SPORTS BAY AREA HD
 http://pn.tvott.info:80/1932742343/4458181593/80962
-#EXTINF:-1,USA| NBC GOLF
+#EXTINF:-1 tvg-country="US" group-title="",NBC GOLF
 http://pn.tvott.info:80/1932742343/4458181593/80961
-#EXTINF:-1,USA| NBC 10 EAST
+#EXTINF:-1 tvg-country="US" group-title="",NBC 10 EAST
 http://pn.tvott.info:80/1932742343/4458181593/80960
-#EXTINF:-1,USA| NBA TV HD
+#EXTINF:-1 tvg-country="US" group-title="",NBA TV HD
 http://pn.tvott.info:80/1932742343/4458181593/80959
-#EXTINF:-1,USA| MSG +
+#EXTINF:-1 tvg-country="US" group-title="",MSG +
 http://pn.tvott.info:80/1932742343/4458181593/80958
-#EXTINF:-1,USA| MSG
+#EXTINF:-1 tvg-country="US" group-title="",MSG
 http://pn.tvott.info:80/1932742343/4458181593/80957
-#EXTINF:-1,USA| MOTOR TREND
+#EXTINF:-1 tvg-country="US" group-title="",MOTOR TREND
 http://pn.tvott.info:80/1932742343/4458181593/80956
-#EXTINF:-1,USA| MLB NETWORK
+#EXTINF:-1 tvg-country="US" group-title="",MLB NETWORK
 http://pn.tvott.info:80/1932742343/4458181593/80955
-#EXTINF:-1,USA| LONGHORN NETWORK
+#EXTINF:-1 tvg-country="US" group-title="",LONGHORN NETWORK
 http://pn.tvott.info:80/1932742343/4458181593/80954
-#EXTINF:-1,USA| GOLF CHANNEL
+#EXTINF:-1 tvg-country="US" group-title="",GOLF CHANNEL
 http://pn.tvott.info:80/1932742343/4458181593/80953
-#EXTINF:-1,USA| GAME SHOW NETWORK
+#EXTINF:-1 tvg-country="US" group-title="",GAME SHOW NETWORK
 http://pn.tvott.info:80/1932742343/4458181593/80952
-#EXTINF:-1,USA| FOX SPORTS 1
+#EXTINF:-1 tvg-country="US" group-title="",FOX SPORTS 1
 http://pn.tvott.info:80/1932742343/4458181593/80951
-#EXTINF:-1,USA| FOX SPORTS 2
+#EXTINF:-1 tvg-country="US" group-title="",FOX SPORTS 2
 http://pn.tvott.info:80/1932742343/4458181593/80950
-#EXTINF:-1,USA| FOX SOCCER PLUS
+#EXTINF:-1 tvg-country="US" group-title="",FOX SOCCER PLUS
 http://pn.tvott.info:80/1932742343/4458181593/80949
-#EXTINF:-1,USA| FOX DEPORTES
+#EXTINF:-1 tvg-country="US" group-title="",FOX DEPORTES
 http://pn.tvott.info:80/1932742343/4458181593/80948
-#EXTINF:-1,USA| FANTASY SPORTS NETWORK
+#EXTINF:-1 tvg-country="US" group-title="",FANTASY SPORTS NETWORK
 http://pn.tvott.info:80/1932742343/4458181593/80947
-#EXTINF:-1,USA| ESPN U
+#EXTINF:-1 tvg-country="US" group-title="",ESPN U
 http://pn.tvott.info:80/1932742343/4458181593/80946
-#EXTINF:-1,USA| ESPN 2
+#EXTINF:-1 tvg-country="US" group-title="",ESPN 2
 http://pn.tvott.info:80/1932742343/4458181593/80945
-#EXTINF:-1,USA| ESPN
+#EXTINF:-1 tvg-country="US" group-title="",ESPN
 http://pn.tvott.info:80/1932742343/4458181593/80944
-#EXTINF:-1,USA| ELEVEN SPORTS HD
+#EXTINF:-1 tvg-country="US" group-title="",ELEVEN SPORTS HD
 http://pn.tvott.info:80/1932742343/4458181593/80943
-#EXTINF:-1,USA| CBSN SPORTS NETWORK
+#EXTINF:-1 tvg-country="US" group-title="",CBSN SPORTS NETWORK
 http://pn.tvott.info:80/1932742343/4458181593/80942
-#EXTINF:-1,USA| CBS SPORTS NETWORK
+#EXTINF:-1 tvg-country="US" group-title="",CBS SPORTS NETWORK
 http://pn.tvott.info:80/1932742343/4458181593/80941
-#EXTINF:-1,USA| BIG TEN NETWORK
+#EXTINF:-1 tvg-country="US" group-title="",BIG TEN NETWORK
 http://pn.tvott.info:80/1932742343/4458181593/80940
-#EXTINF:-1,USA| BEIN SPORT USA
+#EXTINF:-1 tvg-country="US" group-title="",BEIN SPORT USA
 http://pn.tvott.info:80/1932742343/4458181593/80939
-#EXTINF:-1,USA| MARQUEE SPORTS NETWORK HD
-http://pn.tvott.info:80/1932742343/4458181593/80938
+#EXTINF:-1 tvg-country="US" group-title="",MARQUEE SPORTS NETWORK HD
+http://pn.tvott.info:80/1932742343/4458181593/80938
