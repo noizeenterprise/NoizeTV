@@ -426,18 +426,1854 @@ http://stream.noizetv.ml:80/musa1/musa2/80940
 http://stream.noizetv.ml:80/musa1/musa2/80939
 #EXTINF:-1 tvg-country="US" group-title="USA",MARQUEE SPORTS NETWORK HD
 http://stream.noizetv.ml:80/musa1/musa2/80938
-################RADIO SR################
-#EXTINF:-1 group-title="RADIO SR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdlprizi2qtumd.cloudfront.net%2Fimages%2Fstations%2Fsky-suriname-thumb.png&f=1&nofb=1",Sky Radio
+################USA Updated################
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",ABC
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9511
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",CBS
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32803
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",NBC
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32804
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",MSNBC
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22581
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",CBSN
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22582
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",CNN
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9493
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",FOX NEWS
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9477
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",ABC NEWS
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9441
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",BLOOMBERG
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22589
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",FOX SPORTS 1
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9476
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",FOX SPORTS 2
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9475
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",ESPN 1
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9484
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",ESPN 2
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9483
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",ESPN U
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32690
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",SEC NETWORK
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32783
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",TENNIS CHANNEL
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32725
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",NBC SPORTS
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32710
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",NHL NETWORK
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9451
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",NFL NETWORK
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32726
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",MLB NETWORK
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/20401
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",ELEVEN SPORTS
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32781
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",BEIN SPORT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32705
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",NBC GOLF
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9453
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",UFC FIGHT PASS
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32776
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",FX HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9473
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",FXX
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22946
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",SYFY
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9438
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",E!
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9485
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",BRAVO
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9500
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",TBS
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32712
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",A & E
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32694
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",CW
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32703
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",FREEFORM
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22788
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",TNT
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9434
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",CARTOON NETWORK
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32692
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",DISNEY CHANNEL
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32701
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",DISNEY XD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22951
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",WGN AMERICA
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32676
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",COMEDY CENTRAL
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9492
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",HISTORY
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9460
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",ANIMAL PLANET
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32693
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",DISCOVERY
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9488
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",FOOD NETWORK
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9481
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",DIY NETWORK
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32704
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",HGTV
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9461
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",IFC
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22786
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",STARZ CINEMA
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32688
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",CINEMAX ACTION
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/32722
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",HBO SIGNATURE
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9463
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",SHOWTIME
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9447
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",QVC Beauty IQ
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/22797
+#EXTINF:-1 tvg-country="US" group-title="USA Updated",MC EU SD US
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/35371
+################Canada################
+#EXTINF:-1 tvg-country="CA" group-title="Canada",A&E FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1729
+#EXTINF:-1 tvg-country="CA" group-title="Canada",ABC Buffalo HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/151835
+#EXTINF:-1 tvg-country="CA" group-title="Canada",ABC Buffalo HD (WKBW)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13235
+#EXTINF:-1 tvg-country="CA" group-title="Canada",ABC East HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/147404
+#EXTINF:-1 tvg-country="CA" group-title="Canada",ABC HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/445
+#EXTINF:-1 tvg-country="CA" group-title="Canada",ABC Spark HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13236
+#EXTINF:-1 tvg-country="CA" group-title="Canada",ADULT SWIM HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9218
+#EXTINF:-1 tvg-country="CA" group-title="Canada",AMC FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/503
+#EXTINF:-1 tvg-country="CA" group-title="Canada",American Movie Classics HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193258
+#EXTINF:-1 tvg-country="CA" group-title="Canada",AMI HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193215
+#EXTINF:-1 tvg-country="CA" group-title="Canada",AMI TÉLÉ
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/172481
+#EXTINF:-1 tvg-country="CA" group-title="Canada",ANIMAL PLANET HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9259
+#EXTINF:-1 tvg-country="CA" group-title="Canada",APTN HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9294
+#EXTINF:-1 tvg-country="CA" group-title="Canada",ARTV (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/170014
+#EXTINF:-1 tvg-country="CA" group-title="Canada",BBC CANADA HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9249
+#EXTINF:-1 tvg-country="CA" group-title="Canada",BBC NEWS HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/34757
+#EXTINF:-1 tvg-country="CA" group-title="Canada",BBC WORLD NEWS HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2585
+#EXTINF:-1 tvg-country="CA" group-title="Canada",beIN Sports HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13239
+#EXTINF:-1 tvg-country="CA" group-title="Canada",BET HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9295
+#EXTINF:-1 tvg-country="CA" group-title="Canada",BET HD (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/278130
+#EXTINF:-1 tvg-country="CA" group-title="Canada",BNN HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/28709
+#EXTINF:-1 tvg-country="CA" group-title="Canada",BOOMERANG HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/174646
+#EXTINF:-1 tvg-country="CA" group-title="Canada",BRAVO HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/20360
+#EXTINF:-1 tvg-country="CA" group-title="Canada",C-PAC
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/475
+#EXTINF:-1 tvg-country="CA" group-title="Canada",C-PAC English
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/187255
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Cable Pulse 24 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9224
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Canada One
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/147405
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Canada Star TV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/90549
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CANAL D (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/486
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CANAL SAVOIR (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/12733
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CANAL SAVOIR HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9296
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CARTOON NETWORK HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/505
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CASA
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2594
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CASA (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/487
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC CALGARY HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/11619
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC Central HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/81173
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC Eastern HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/81172
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC Federicton
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/54634
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC HALIFAX HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/425
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/506
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC MONTREAL (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/78288
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC Montreal HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/426
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC New Network HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/247458
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC NEWS HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/11611
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC NEWS TORONTO HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/34761
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC Neww Network HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13232
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC Oshawa
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/174764
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC OTTAWA HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/427
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC Regina HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/428
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC St. John s
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193446
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC Toronto (CBLT)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9247
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC TORONTO FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/429
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC VANCOUVER HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/430
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC West HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/81174
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC WINNIPEG HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/432
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBC YELLOWKNIFE HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/168529
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBS Buffalo HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/276543
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CBS HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1728
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CHCH FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9246
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CHRGD HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/172486
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CINE POP (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/488
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CITY CALGARY HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/25801
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CITY MONTREAL
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13263
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CITY TORONTO HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1727
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CITY TV HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/483
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CITY TV VANCOUVER
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/147407
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Citytv Toronto
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/69070
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CMT CANADA
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/174733
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CMT HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/482
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CNBC Canada
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/187250
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CNBC HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9221
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CNN HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/480
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CNN INTERNATIONAL HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/481
+#EXTINF:-1 tvg-country="CA" group-title="Canada",COMEDY CENTRAL
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/173692
+#EXTINF:-1 tvg-country="CA" group-title="Canada",COMEDY East
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/40623
+#EXTINF:-1 tvg-country="CA" group-title="Canada",COMEDY HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/479
+#EXTINF:-1 tvg-country="CA" group-title="Canada",COOKING Channel HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/478
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CORONA VIRUS INFO
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/196540
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Cottage Life FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/477
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CP 24 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/476
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CPAC (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9254
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CPAC French
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/199692
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CRAVE 1 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13244
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CRAVE 2 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13245
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CRAVE 3 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9283
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CRAVE 4 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13246
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Crime+ Investigation HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9308
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV 2
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/15013
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV 2 VANCOUVER HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/6143
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV CALGARY
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/40631
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV CENTRAL HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/81176
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV Comedy East HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/68580
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV COMEDY HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13229
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV DRAMA Channel
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9220
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV EASTERN HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/81181
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV HALIFAX
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9310
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9297
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV Kitchener HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/147409
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV MONTREAL (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/267508
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV MONTREAL HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9311
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV News Channel HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/474
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV NEWS NETWORK HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9312
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV OTTAWA
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9313
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV sci-fi HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/121596
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV SYFY
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/60157
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV TORONTO HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/473
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV Two Atlantic
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13228
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV VANCOUVER HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9314
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CTV2 OTTAWA
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9315
+#EXTINF:-1 tvg-country="CA" group-title="Canada",CW FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/6144
+#EXTINF:-1 tvg-country="CA" group-title="Canada",DAYSTAR TV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9316
+#EXTINF:-1 tvg-country="CA" group-title="Canada",DEJAVIEW HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/472
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Discovery CANADA
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/72569
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Discovery Channel FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1726
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Discovery Science HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2583
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Discovery Velocity HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/36720
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Disney (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/78229
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Disney Channel HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/6146
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Disney FRENCH
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/200241
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Disney JR HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/471
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Disney Junior (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/264457
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Disney La Chaine (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/54675
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Disney LA CHAÎNE
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/81135
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Disney XD HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/470
+#EXTINF:-1 tvg-country="CA" group-title="Canada",DIY
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/29635
+#EXTINF:-1 tvg-country="CA" group-title="Canada",DIY Network FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/469
+#EXTINF:-1 tvg-country="CA" group-title="Canada",DOCUMENTARY Channel HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1725
+#EXTINF:-1 tvg-country="CA" group-title="Canada",DTour HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9238
+#EXTINF:-1 tvg-country="CA" group-title="Canada",E! FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/468
+#EXTINF:-1 tvg-country="CA" group-title="Canada",EMCI TV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/165426
+#EXTINF:-1 tvg-country="CA" group-title="Canada",EVASION
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2589
+#EXTINF:-1 tvg-country="CA" group-title="Canada",EVASION (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/489
+#EXTINF:-1 tvg-country="CA" group-title="Canada",EWTN TV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193449
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Family HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/168956
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Family Jr HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9236
+#EXTINF:-1 tvg-country="CA" group-title="Canada",FIGHT NETWORK FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9235
+#EXTINF:-1 tvg-country="CA" group-title="Canada",FOOD NETWORK FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1724
+#EXTINF:-1 tvg-country="CA" group-title="Canada",FOX Buffalo HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/172489
+#EXTINF:-1 tvg-country="CA" group-title="Canada",FOX FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/467
+#EXTINF:-1 tvg-country="CA" group-title="Canada",FOX NEWS CANADA
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/83891
+#EXTINF:-1 tvg-country="CA" group-title="Canada",FOX News HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13272
+#EXTINF:-1 tvg-country="CA" group-title="Canada",FOX SPORTS Racing
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13207
+#EXTINF:-1 tvg-country="CA" group-title="Canada",FOXNADA
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/200242
+#EXTINF:-1 tvg-country="CA" group-title="Canada",FX CANADA HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/72590
+#EXTINF:-1 tvg-country="CA" group-title="Canada",FX FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/11616
+#EXTINF:-1 tvg-country="CA" group-title="Canada",FXX HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/6148
+#EXTINF:-1 tvg-country="CA" group-title="Canada",FXX HD (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/60186
+#EXTINF:-1 tvg-country="CA" group-title="Canada",GAME HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9233
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Game Show HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/32449
+#EXTINF:-1 tvg-country="CA" group-title="Canada",GLOBAL BC
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/168555
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Global FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/464
+#EXTINF:-1 tvg-country="CA" group-title="Canada",GLOBAL HALIFAX
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9317
+#EXTINF:-1 tvg-country="CA" group-title="Canada",GLOBAL TORONTO HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/465
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Global Toronto HD [CIII]
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13224
+#EXTINF:-1 tvg-country="CA" group-title="Canada",GLOBAL VANCOUVER HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/11620
+#EXTINF:-1 tvg-country="CA" group-title="Canada",GOLF Channel HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9232
+#EXTINF:-1 tvg-country="CA" group-title="Canada",GSN FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/466
+#EXTINF:-1 tvg-country="CA" group-title="Canada",GUSTO
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9318
+#EXTINF:-1 tvg-country="CA" group-title="Canada",H2 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13275
+#EXTINF:-1 tvg-country="CA" group-title="Canada",HBO 1 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9285
+#EXTINF:-1 tvg-country="CA" group-title="Canada",HBO 2 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9284
+#EXTINF:-1 tvg-country="CA" group-title="Canada",HBO HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/463
+#EXTINF:-1 tvg-country="CA" group-title="Canada",HG HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9231
+#EXTINF:-1 tvg-country="CA" group-title="Canada",HGTV Canada
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/276547
+#EXTINF:-1 tvg-country="CA" group-title="Canada",HISTORIA
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/462
+#EXTINF:-1 tvg-country="CA" group-title="Canada",HISTORIO (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/192829
+#EXTINF:-1 tvg-country="CA" group-title="Canada",History (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/11625
+#EXTINF:-1 tvg-country="CA" group-title="Canada",History 2
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/32450
+#EXTINF:-1 tvg-country="CA" group-title="Canada",History Television
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193246
+#EXTINF:-1 tvg-country="CA" group-title="Canada",HLN FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13223
+#EXTINF:-1 tvg-country="CA" group-title="Canada",ICI MONTREAL (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/490
+#EXTINF:-1 tvg-country="CA" group-title="Canada",ICI MONTREAL HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2595
+#EXTINF:-1 tvg-country="CA" group-title="Canada",ICI Radio-Canada Télé
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/276550
+#EXTINF:-1 tvg-country="CA" group-title="Canada",ICI RDI HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9257
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Ici TV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/166064
+#EXTINF:-1 tvg-country="CA" group-title="Canada",ICI Télévision
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/165424
+#EXTINF:-1 tvg-country="CA" group-title="Canada",ICI VANCOUVER (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2596
+#EXTINF:-1 tvg-country="CA" group-title="Canada",IFC HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/40652
+#EXTINF:-1 tvg-country="CA" group-title="Canada",IIPC TV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193436
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Investigation Discovery HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9319
+#EXTINF:-1 tvg-country="CA" group-title="Canada",KNOWLEDGE KIDS
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13276
+#EXTINF:-1 tvg-country="CA" group-title="Canada",LCN (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9300
+#EXTINF:-1 tvg-country="CA" group-title="Canada",LCN HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/173116
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Lifetime FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/460
+#EXTINF:-1 tvg-country="CA" group-title="Canada",LIFETIME MOVIE NETWORK HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/34751
+#EXTINF:-1 tvg-country="CA" group-title="Canada",LOVE NATURE HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1723
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Makeful
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9228
+#EXTINF:-1 tvg-country="CA" group-title="Canada",MAV TV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9320
+#EXTINF:-1 tvg-country="CA" group-title="Canada",MAX HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9321
+#EXTINF:-1 tvg-country="CA" group-title="Canada",MEDIASET ITALIA
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/196441
+#EXTINF:-1 tvg-country="CA" group-title="Canada",METEO (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/492
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Meteo Media
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/196481
+#EXTINF:-1 tvg-country="CA" group-title="Canada",MII TFO (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/278441
+#EXTINF:-1 tvg-country="CA" group-title="Canada",MLB Network HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9256
+#EXTINF:-1 tvg-country="CA" group-title="Canada",MLB TV HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/81194
+#EXTINF:-1 tvg-country="CA" group-title="Canada",MOI & CIE (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/493
+#EXTINF:-1 tvg-country="CA" group-title="Canada",MOVIETIME HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9204
+#EXTINF:-1 tvg-country="CA" group-title="Canada",MSNBC HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/14961
+#EXTINF:-1 tvg-country="CA" group-title="Canada",MTIME
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/62620
+#EXTINF:-1 tvg-country="CA" group-title="Canada",MTV 2 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/459
+#EXTINF:-1 tvg-country="CA" group-title="Canada",MTV HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2584
+#EXTINF:-1 tvg-country="CA" group-title="Canada",MUCH HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/458
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Much Music HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9226
+#EXTINF:-1 tvg-country="CA" group-title="Canada",MuchMusicHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/187220
+#EXTINF:-1 tvg-country="CA" group-title="Canada",MUSIQUE PLUS (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/12739
+#EXTINF:-1 tvg-country="CA" group-title="Canada",NAT GEO HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/456
+#EXTINF:-1 tvg-country="CA" group-title="Canada",NAT GEO Wild HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/457
+#EXTINF:-1 tvg-country="CA" group-title="Canada",NBA HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13222
+#EXTINF:-1 tvg-country="CA" group-title="Canada",NBC Buffalo HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/172490
+#EXTINF:-1 tvg-country="CA" group-title="Canada",NFL NETWORK HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9211
+#EXTINF:-1 tvg-country="CA" group-title="Canada",NHL Network HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/81198
+#EXTINF:-1 tvg-country="CA" group-title="Canada",nickelodeon HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9202
+#EXTINF:-1 tvg-country="CA" group-title="Canada",NICKTOONS HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/455
+#EXTINF:-1 tvg-country="CA" group-title="Canada",NTV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9325
+#EXTINF:-1 tvg-country="CA" group-title="Canada",OLN HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/454
+#EXTINF:-1 tvg-country="CA" group-title="Canada",OMNI 1 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/453
+#EXTINF:-1 tvg-country="CA" group-title="Canada",OMNI.2 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/452
+#EXTINF:-1 tvg-country="CA" group-title="Canada",OWN HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13219
+#EXTINF:-1 tvg-country="CA" group-title="Canada",PARAMOUNT
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/173694
+#EXTINF:-1 tvg-country="CA" group-title="Canada",PARAMOUNT NETWORK HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/451
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Pardesi TV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193437
+#EXTINF:-1 tvg-country="CA" group-title="Canada",PBS Buffalo HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/74877
+#EXTINF:-1 tvg-country="CA" group-title="Canada",PBS HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/14959
+#EXTINF:-1 tvg-country="CA" group-title="Canada",PEACH TREE HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/484
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Prime Canada TV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193448
+#EXTINF:-1 tvg-country="CA" group-title="Canada",PRISE
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2590
+#EXTINF:-1 tvg-country="CA" group-title="Canada",PRISE (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/494
+#EXTINF:-1 tvg-country="CA" group-title="Canada",RDI
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/174759
+#EXTINF:-1 tvg-country="CA" group-title="Canada",RDI (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/12740
+#EXTINF:-1 tvg-country="CA" group-title="Canada",RDS
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/264458
+#EXTINF:-1 tvg-country="CA" group-title="Canada",RDS 2 (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/495
+#EXTINF:-1 tvg-country="CA" group-title="Canada",RDS INFO
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/267759
+#EXTINF:-1 tvg-country="CA" group-title="Canada",RDS INFO (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/496
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Salt & Light TV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/165432
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Series (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/267509
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Series Plus
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13277
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SERIS (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/26036
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SHOPPING
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9327
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Showcase HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9210
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SILVER SCREEN CLASSICS
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9328
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Slice HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13215
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SMITHSONIAN Channel HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/34738
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SNW West
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/201177
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SPACE
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/28717
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SPIKE TV / PARAMOUNT
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/266838
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SPIKE TV / PARAMOUNT CANADA
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/35240
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SPIKE TV / PARAMOUNTNADA
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/147225
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Sportnet Ontario HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/7808
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Sports Net 360
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/173404
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Sports Net One HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/54657
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Sports Net Pacific HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/40670
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Sports NET West HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/72575
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SportsNet 360 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/3377
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SportsNet East HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/3379
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SportsNet HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/78271
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SportsNet New York HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/150621
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SportsNet NY
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/168583
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SportsNet ONE HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/3378
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SportsNet Ontario (Premier League)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/199697
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SportsNet Ontario HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1721
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SportsNet Pacific FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/5511
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SportsNet West FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/3380
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SportsNet WORLD HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1720
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SSP Promotion Channel HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193251
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SUPER Channel FUSE
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/62633
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SUPER Channel VAULT
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/62634
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SUPER ECRAN 1
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2603
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SUPER ECRAN 1 (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/12731
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SUPER ECRAN 2
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2604
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SUPER ECRAN 2 (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/11630
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SUPER ECRAN 3
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/25103
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Super Ecran 3 (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9333
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SUPER ECRAN 4
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2605
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Super Ecran 4 (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9334
+#EXTINF:-1 tvg-country="CA" group-title="Canada",SYFY HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/198240
+#EXTINF:-1 tvg-country="CA" group-title="Canada",T + E
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/269076
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Tamil Vision
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/166067
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TCTV2
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13213
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TELE QUEBEC (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/497
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TELE QUEBEC HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2606
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TELE TOON (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9252
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TELE TOON FRENCH
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/197089
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TELETOON HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/15019
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TFO (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/498
+#EXTINF:-1 tvg-country="CA" group-title="Canada",THE SHOPPING NETWORK
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/198765
+#EXTINF:-1 tvg-country="CA" group-title="Canada",THE WEATHER Channel HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/174531
+#EXTINF:-1 tvg-country="CA" group-title="Canada",THE WEATHER NETWORK HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13209
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TLC HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9255
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TMN 1
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/40685
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TMN 1 (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/46804
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TMN 2
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/40681
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TMN CRAVE 1 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/198764
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Toronto 360 TV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/147413
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Travel ESCAPE
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9329
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TREEHOUSE HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/449
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TSC HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13214
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TSN 1 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/770
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TSN 2 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/771
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TSN 3 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/772
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TSN 4 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/773
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TSN 5 FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/774
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TSN Sport 4
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/158509
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TSNET 360
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/14962
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TSNET Pacific HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/14963
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Turner Classic Movies HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/28712
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TV Francophonie
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/165427
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TV Ontario HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9258
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TV5 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/187236
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TV5 Quebec (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9303
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TV5 QUEBEC HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/40688
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TVA GATINEUA (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/267510
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TVA MONTREAL
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2608
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TVA Montreal (CFTM)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9250
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TVA SPORTS (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/500
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TVA SPORTS 1 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/72581
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TVA Sports 2
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/13243
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TVA SPORTS 2 (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/260437
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TVA SPORTS HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1719
+#EXTINF:-1 tvg-country="CA" group-title="Canada",TVO HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/448
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Télé Culturelle médias Inc
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/275882
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Unis TV HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/81136
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Uvagut TV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/276053
+#EXTINF:-1 tvg-country="CA" group-title="Canada",VIE (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/501
+#EXTINF:-1 tvg-country="CA" group-title="Canada",VISION TV HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1718
+#EXTINF:-1 tvg-country="CA" group-title="Canada",W
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/30841
+#EXTINF:-1 tvg-country="CA" group-title="Canada",W Network HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9200
+#EXTINF:-1 tvg-country="CA" group-title="Canada",WEATHER NETWORK HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/447
+#EXTINF:-1 tvg-country="CA" group-title="Canada",WFN
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9330
+#EXTINF:-1 tvg-country="CA" group-title="Canada",WGN
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9331
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Wild TV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9332
+#EXTINF:-1 tvg-country="CA" group-title="Canada",WNLO Buffalo
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/276548
+#EXTINF:-1 tvg-country="CA" group-title="Canada",WNYO Buffalo
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/276549
+#EXTINF:-1 tvg-country="CA" group-title="Canada",World Fishing TV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/79495
+#EXTINF:-1 tvg-country="CA" group-title="Canada",YES HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/446
+#EXTINF:-1 tvg-country="CA" group-title="Canada",YES TV (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/60183
+#EXTINF:-1 tvg-country="CA" group-title="Canada",YES TV East
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/269075
+#EXTINF:-1 tvg-country="CA" group-title="Canada",YOOPA (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/12743
+#EXTINF:-1 tvg-country="CA" group-title="Canada",YTV HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/9199
+#EXTINF:-1 tvg-country="CA" group-title="Canada",YTV HD (East)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/78298
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Z TELE (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/11626
+#EXTINF:-1 tvg-country="CA" group-title="Canada",Z TELE HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/78280
+#EXTINF:-1 tvg-country="CA" group-title="Canada",ZESTE (FR)
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/502
+################Nederland################
+#EXTINF:-1 tvg-country="NL" group-title="NL",NPO 1 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1349
+#EXTINF:-1 tvg-country="NL" group-title="NL",NPO 2 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1350
+#EXTINF:-1 tvg-country="NL" group-title="NL",NPO 3 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1351
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTL 4 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/272
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTL 5 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/273
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTL 7 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1530
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTL 8 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1372
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTL Z HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/17336
+#EXTINF:-1 tvg-country="NL" group-title="NL",NET 5 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1375
+#EXTINF:-1 tvg-country="NL" group-title="NL",AT 5 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/19664
+#EXTINF:-1 tvg-country="NL" group-title="NL",FOX HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7181
+#EXTINF:-1 tvg-country="NL" group-title="NL",MENT PRIME RETRO HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7183
+#EXTINF:-1 tvg-country="NL" group-title="NL",SBS 9 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1371
+#EXTINF:-1 tvg-country="NL" group-title="NL",Omroep West HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/77975
+#EXTINF:-1 tvg-country="NL" group-title="NL",Omroep Tilburg HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/77974
+#EXTINF:-1 tvg-country="NL" group-title="NL",Omroep Gelderland HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/77973
+#EXTINF:-1 tvg-country="NL" group-title="NL",Omroep Ede HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/77972
+#EXTINF:-1 tvg-country="NL" group-title="NL",ZIGGO SPORT VOETBAL HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/74088
+#EXTINF:-1 tvg-country="NL" group-title="NL",ZIGGO SPORT SELECT HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/74087
+#EXTINF:-1 tvg-country="NL" group-title="NL",ZIGGO SPORT HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/74086
+#EXTINF:-1 tvg-country="NL" group-title="NL",ZIGGO SPORT GOLF HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/74085
+#EXTINF:-1 tvg-country="NL" group-title="NL",ZIGGO SPORT EXTRA 2 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/74084
+#EXTINF:-1 tvg-country="NL" group-title="NL",ZIGGO SPORT EXTRA 1 HD 
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/74083
+#EXTINF:-1 tvg-country="NL" group-title="NL",Veronica / Disney XD FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1136
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTV DRENTHE HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1388
+#EXTINF:-1 tvg-country="NL" group-title="NL",Comedy Central Extra HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/37037
+#EXTINF:-1 tvg-country="NL" group-title="NL",Comedy Central HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/37036
+#EXTINF:-1 tvg-country="NL" group-title="NL",OMROEP Flevoland HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/34055
+#EXTINF:-1 tvg-country="NL" group-title="NL",OMROEP Fryslân  HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/34052
+#EXTINF:-1 tvg-country="NL" group-title="NL",NICK Jr HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1374
+#EXTINF:-1 tvg-country="NL" group-title="NL",DISNEY CHANNEL HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1376
+#EXTINF:-1 tvg-country="NL" group-title="NL",CARTOON NETWORK HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4589
+#EXTINF:-1 tvg-country="NL" group-title="NL",KETNET HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4588
+#EXTINF:-1 tvg-country="NL" group-title="NL",NICK TOONS HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4584
+#EXTINF:-1 tvg-country="NL" group-title="NL",NICKELODEON HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4586
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTL TELEKIDS HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4587
+#EXTINF:-1 tvg-country="NL" group-title="NL",OMROEP Brabant HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/34051
+#EXTINF:-1 tvg-country="NL" group-title="NL",Discovery Science HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7182
+#EXTINF:-1 tvg-country="NL" group-title="NL",HISTORY HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4512
+#EXTINF:-1 tvg-country="NL" group-title="NL",NAT Geographic FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/261
+#EXTINF:-1 tvg-country="NL" group-title="NL",Nat Geo Wild FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1531
+#EXTINF:-1 tvg-country="NL" group-title="NL",DISCOVERY CHANNEL HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/262
+#EXTINF:-1 tvg-country="NL" group-title="NL",FILM1 ACTION HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/283
+#EXTINF:-1 tvg-country="NL" group-title="NL",Eurosports 1 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/34049
+#EXTINF:-1 tvg-country="NL" group-title="NL",192 TV HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/45441
+#EXTINF:-1 tvg-country="NL" group-title="NL",192TV HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/38908
+#EXTINF:-1 tvg-country="NL" group-title="NL",24 Kitchen HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/38909
+#EXTINF:-1 tvg-country="NL" group-title="NL",BOOMERANG HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/38911
+#EXTINF:-1 tvg-country="NL" group-title="NL",CANVAS FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/38913
+#EXTINF:-1 tvg-country="NL" group-title="NL",VTM 4 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/38912
+#EXTINF:-1 tvg-country="NL" group-title="NL",Discovery Showcase FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/38914
+#EXTINF:-1 tvg-country="NL" group-title="NL",ECLIPS HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/38916
+#EXTINF:-1 tvg-country="NL" group-title="NL",EUROSPORT 2 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/38918
+#EXTINF:-1 tvg-country="NL" group-title="NL",FILM1 DRAMA HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/38923
+#EXTINF:-1 tvg-country="NL" group-title="NL",FILM1 FAMILY HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/38924
+#EXTINF:-1 tvg-country="NL" group-title="NL",FILM1 PREMIERE FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/38925
+#EXTINF:-1 tvg-country="NL" group-title="NL",FOX SPORTS 1 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/38919
+#EXTINF:-1 tvg-country="NL" group-title="NL",FOX SPORTS 2 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/38920
+#EXTINF:-1 tvg-country="NL" group-title="NL",FOX SPORTS 4 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/38921
+#EXTINF:-1 tvg-country="NL" group-title="NL",KetOp 12 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/45443
+#EXTINF:-1 tvg-country="NL" group-title="NL",MTV HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/45444
+#EXTINF:-1 tvg-country="NL" group-title="NL",NPO 1 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/45446
+#EXTINF:-1 tvg-country="NL" group-title="NL",NPO 2 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/45447
+#EXTINF:-1 tvg-country="NL" group-title="NL",NPO 3 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/45448
+#EXTINF:-1 tvg-country="NL" group-title="NL",NPO Politiek HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/45445
+#EXTINF:-1 tvg-country="NL" group-title="NL",ONS HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/45450
+#EXTINF:-1 tvg-country="NL" group-title="NL",Q2 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/45451
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTL 4 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/45452
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTL 5 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/45453
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTL 7 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/45454
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTL 8 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/45455
+#EXTINF:-1 tvg-country="NL" group-title="NL",SBS 6 FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/45456
+#EXTINF:-1 tvg-country="NL" group-title="NL",Spike 24 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/45457
+#EXTINF:-1 tvg-country="NL" group-title="NL",Spike HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/45449
+#EXTINF:-1 tvg-country="NL" group-title="NL",TV Noord HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/45459
+#EXTINF:-1 tvg-country="NL" group-title="NL",TV Oost HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/45460
+#EXTINF:-1 tvg-country="NL" group-title="NL",Ziggo Sport Voetbal HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1138
+#EXTINF:-1 tvg-country="NL" group-title="NL",Ziggo Sport Golf HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4328
+#EXTINF:-1 tvg-country="NL" group-title="NL",Ziggo Sport Racing HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4327
+#EXTINF:-1 tvg-country="NL" group-title="NL",Ziggo Sport Select FHD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4326
+#EXTINF:-1 tvg-country="NL" group-title="NL",Ziggo Sport eXtra 1 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4330
+#EXTINF:-1 tvg-country="NL" group-title="NL",Ziggo Sport eXtra 2 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4329
+#EXTINF:-1 tvg-country="NL" group-title="NL",FOX SPORTS 1 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/264
+#EXTINF:-1 tvg-country="NL" group-title="NL",FOX SPORTS 2 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/265
+#EXTINF:-1 tvg-country="NL" group-title="NL",FOX SPORTS 3 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/266
+#EXTINF:-1 tvg-country="NL" group-title="NL",FOX SPORTS 4 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/267
+#EXTINF:-1 tvg-country="NL" group-title="NL",FOX SPORTS 5 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/268
+#EXTINF:-1 tvg-country="NL" group-title="NL",Fox Sports 6 HD
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/4331
+#EXTINF:-1 tvg-country="NL" group-title="NL",ZIGGO SPORT SELECT FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104419
+#EXTINF:-1 tvg-country="NL" group-title="NL",ZIGGO SPORT RACING FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104418
+#EXTINF:-1 tvg-country="NL" group-title="NL",ZIGGO SPORT GOLF FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104417
+#EXTINF:-1 tvg-country="NL" group-title="NL",ZIGGO SPORT EXTRA 2 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104416
+#EXTINF:-1 tvg-country="NL" group-title="NL",ZIGGO SPORT EXTRA 1 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104415
+#EXTINF:-1 tvg-country="NL" group-title="NL",ZIGGO SPORT FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104414
+#EXTINF:-1 tvg-country="NL" group-title="NL",VH1 CLASSIC [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104412
+#EXTINF:-1 tvg-country="NL" group-title="NL",TV WEST [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104411
+#EXTINF:-1 tvg-country="NL" group-title="NL",TV RIJNMOND [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104410
+#EXTINF:-1 tvg-country="NL" group-title="NL",TV ORANJE [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104409
+#EXTINF:-1 tvg-country="NL" group-title="NL",TV OOST [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104408
+#EXTINF:-1 tvg-country="NL" group-title="NL",TV NOORD [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104407
+#EXTINF:-1 tvg-country="NL" group-title="NL",TV GELDERLAND [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104406
+#EXTINF:-1 tvg-country="NL" group-title="NL",TV DRENTHE [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104405
+#EXTINF:-1 tvg-country="NL" group-title="NL",TV 538 [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104404
+#EXTINF:-1 tvg-country="NL" group-title="NL",SLAM! TV [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104403
+#EXTINF:-1 tvg-country="NL" group-title="NL",PEBBLE TV [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104402
+#EXTINF:-1 tvg-country="NL" group-title="NL",OUT TV FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104401
+#EXTINF:-1 tvg-country="NL" group-title="NL",ONS [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104400
+#EXTINF:-1 tvg-country="NL" group-title="NL",OMROEP ZEELAND [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104399
+#EXTINF:-1 tvg-country="NL" group-title="NL",OMROEP FRYSLAND [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104398
+#EXTINF:-1 tvg-country="NL" group-title="NL",OMROEP FLEVOLAND [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104397
+#EXTINF:-1 tvg-country="NL" group-title="NL",OMROEP BRABANT [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104396
+#EXTINF:-1 tvg-country="NL" group-title="NL",NPO ZAP/EXTRA [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104395
+#EXTINF:-1 tvg-country="NL" group-title="NL",NPO POLITIEK [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104394
+#EXTINF:-1 tvg-country="NL" group-title="NL",NPO NIEUWS [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104393
+#EXTINF:-1 tvg-country="NL" group-title="NL",NPO EXTRA 2 [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104392
+#EXTINF:-1 tvg-country="NL" group-title="NL",NPO EXTRA 1 [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104391
+#EXTINF:-1 tvg-country="NL" group-title="NL",NPO 3 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104390
+#EXTINF:-1 tvg-country="NL" group-title="NL",NPO 2 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104389
+#EXTINF:-1 tvg-country="NL" group-title="NL",NPO 1 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104388
+#EXTINF:-1 tvg-country="NL" group-title="NL",NICK MUSIC [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104387
+#EXTINF:-1 tvg-country="NL" group-title="NL",NGC WILD FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104386
+#EXTINF:-1 tvg-country="NL" group-title="NL",NGC FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104385
+#EXTINF:-1 tvg-country="NL" group-title="NL",MTV MUSIC24 [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104384
+#EXTINF:-1 tvg-country="NL" group-title="NL",MTV LIVE FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104383
+#EXTINF:-1 tvg-country="NL" group-title="NL",MTV FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104382
+#EXTINF:-1 tvg-country="NL" group-title="NL",MTV BRANDNEW FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104381
+#EXTINF:-1 tvg-country="NL" group-title="NL",MEZZO FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104380
+#EXTINF:-1 tvg-country="NL" group-title="NL",HORSE COUNTRY TV FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104379
+#EXTINF:-1 tvg-country="NL" group-title="NL",HISTORY FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104378
+#EXTINF:-1 tvg-country="NL" group-title="NL",FOX SPORTS 6 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104377
+#EXTINF:-1 tvg-country="NL" group-title="NL",FOX SPORTS 5 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104376
+#EXTINF:-1 tvg-country="NL" group-title="NL",FOX SPORTS 4 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104375
+#EXTINF:-1 tvg-country="NL" group-title="NL",FOX SPORTS 3 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104374
+#EXTINF:-1 tvg-country="NL" group-title="NL",FOX SPORTS 2 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104373
+#EXTINF:-1 tvg-country="NL" group-title="NL",FOX SPORTS 1 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104372
+#EXTINF:-1 tvg-country="NL" group-title="NL",FILM1 PREMIERE FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104371
+#EXTINF:-1 tvg-country="NL" group-title="NL",FILM1 FAMILY FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104370
+#EXTINF:-1 tvg-country="NL" group-title="NL",FILM1 DRAMA FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104369
+#EXTINF:-1 tvg-country="NL" group-title="NL",FILM1 ACTION FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104368
+#EXTINF:-1 tvg-country="NL" group-title="NL",FILM 1 EUROPE FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104367
+#EXTINF:-1 tvg-country="NL" group-title="NL",FASHION TV FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104365
+#EXTINF:-1 tvg-country="NL" group-title="NL",EXTREME SPORTS [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104364
+#EXTINF:-1 tvg-country="NL" group-title="NL",EUROSPORT 2 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104363
+#EXTINF:-1 tvg-country="NL" group-title="NL",EUROSPORT 1 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104362
+#EXTINF:-1 tvg-country="NL" group-title="NL",DISCOVERY WORLD [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104361
+#EXTINF:-1 tvg-country="NL" group-title="NL",DISCOVERY SCIENCE FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104360
+#EXTINF:-1 tvg-country="NL" group-title="NL",DISCOVERY ID FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104359
+#EXTINF:-1 tvg-country="NL" group-title="NL",DISCOVERY FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104358
+#EXTINF:-1 tvg-country="NL" group-title="NL",DANCE TRIPPIN FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104357
+#EXTINF:-1 tvg-country="NL" group-title="NL",CRIME INVESTIGATION FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104356
+#EXTINF:-1 tvg-country="NL" group-title="NL",FAMILY 7 KIDS FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104355
+#EXTINF:-1 tvg-country="NL" group-title="NL",CARTOON NETWORK FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104354
+#EXTINF:-1 tvg-country="NL" group-title="NL",BOOMERANG FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104353
+#EXTINF:-1 tvg-country="NL" group-title="NL",NICK TOONS FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104352
+#EXTINF:-1 tvg-country="NL" group-title="NL",NICK JUNIOR FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104351
+#EXTINF:-1 tvg-country="NL" group-title="NL",NICKELODEON FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104350
+#EXTINF:-1 tvg-country="NL" group-title="NL",DISNEY XD FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104349
+#EXTINF:-1 tvg-country="NL" group-title="NL",DISNEY CHANNEL FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104348
+#EXTINF:-1 tvg-country="NL" group-title="NL",BABY TV FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104347
+#EXTINF:-1 tvg-country="NL" group-title="NL",BBC FIRST FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104346
+#EXTINF:-1 tvg-country="NL" group-title="NL",24 KITCHEN FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104344
+#EXTINF:-1 tvg-country="NL" group-title="NL",COMEDY CENTRAL EXTRA [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104343
+#EXTINF:-1 tvg-country="NL" group-title="NL",COMEDY CENTRAL FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104342
+#EXTINF:-1 tvg-country="NL" group-title="NL",FOX FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104341
+#EXTINF:-1 tvg-country="NL" group-title="NL",TLC FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104340
+#EXTINF:-1 tvg-country="NL" group-title="NL",E! FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104339
+#EXTINF:-1 tvg-country="NL" group-title="NL",ARD FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104338
+#EXTINF:-1 tvg-country="NL" group-title="NL",ZDF FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104337
+#EXTINF:-1 tvg-country="NL" group-title="NL",BBC ONE FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104336
+#EXTINF:-1 tvg-country="NL" group-title="NL",L1 LIMBURG TV FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104335
+#EXTINF:-1 tvg-country="NL" group-title="NL",KETNET FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104334
+#EXTINF:-1 tvg-country="NL" group-title="NL",AT 5 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104333
+#EXTINF:-1 tvg-country="NL" group-title="NL",192 TV FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104332
+#EXTINF:-1 tvg-country="NL" group-title="NL",100%TV [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104331
+#EXTINF:-1 tvg-country="NL" group-title="NL",VERONICA FHD/ DISNEY XD [H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104330
+#EXTINF:-1 tvg-country="NL" group-title="NL",XITE FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104329
+#EXTINF:-1 tvg-country="NL" group-title="NL",SPIKE FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104328
+#EXTINF:-1 tvg-country="NL" group-title="NL",SBS 9 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104327
+#EXTINF:-1 tvg-country="NL" group-title="NL",SBS 6 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104326
+#EXTINF:-1 tvg-country="NL" group-title="NL",NET 5 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104325
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTV-7 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104324
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTV UTRECHT FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104323
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTL TELEKIDS FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104322
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTL LOUNGE FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104321
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTL CRIME FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104320
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTL Z FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104319
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTL 8 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104318
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTL 7 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104317
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTL 5 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104316
+#EXTINF:-1 tvg-country="NL" group-title="NL",RTL 4 FHD[H265]
+http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104315
+################Latin America################
+#EXTINF:-1 group-title="Latin America",A&E HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514318
+#EXTINF:-1 group-title="Latin America",ACTION MAX
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514320
+#EXTINF:-1 group-title="Latin America",ADN 40
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514321
+#EXTINF:-1 group-title="Latin America",AMC FHD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514322
+#EXTINF:-1 group-title="Latin America",ANIMAL PLANET FHD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514324
+#EXTINF:-1 group-title="Latin America",Aruba - TELEARUBA
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514327
+#EXTINF:-1 group-title="Latin America",AXN FHD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514328
+#EXTINF:-1 group-title="Latin America",BABY FIRST
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514330
+#EXTINF:-1 group-title="Latin America",BBC ENTERTAINMENT
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514332
+#EXTINF:-1 group-title="Latin America",BBC WORLD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514333
+#EXTINF:-1 group-title="Latin America",BBC World News
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514334
+#EXTINF:-1 group-title="Latin America",BENFICA FC
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514335
+#EXTINF:-1 group-title="Latin America",Boomerang
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514336
+#EXTINF:-1 group-title="Latin America",C5N
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514337
+#EXTINF:-1 group-title="Latin America",CABLENOTICIAS HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514338
+#EXTINF:-1 group-title="Latin America",CANAL 2
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514340
+#EXTINF:-1 group-title="Latin America",CANAL 4
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514341
+#EXTINF:-1 group-title="Latin America",Canal 5 HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514342
+#EXTINF:-1 group-title="Latin America",CANAL 6
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514343
+#EXTINF:-1 group-title="Latin America",CANAL 10
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514344
+#EXTINF:-1 group-title="Latin America",CANAL 12
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514346
+#EXTINF:-1 group-title="Latin America",CANAL 13 Chile HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514347
+#EXTINF:-1 group-title="Latin America",Canal 13 HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514348
+#EXTINF:-1 group-title="Latin America",Canal 21
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514350
+#EXTINF:-1 group-title="Latin America",Canal 26
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514351
+#EXTINF:-1 group-title="Latin America",CANAL A+V
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514352
+#EXTINF:-1 group-title="Latin America",Canal De Las Estrellas HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514353
+#EXTINF:-1 group-title="Latin America",Canal Once
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514355
+#EXTINF:-1 group-title="Latin America",CARACOL
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514356
+#EXTINF:-1 group-title="Latin America",CARTOON NETWORK HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514358
+#EXTINF:-1 group-title="Latin America",CDF Premium
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514360
+#EXTINF:-1 group-title="Latin America",CHAPULIN COLORADO ANIMADO SERIE COMPLETA HD 24
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514362
+#EXTINF:-1 group-title="Latin America",Cine Accion HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514363
+#EXTINF:-1 group-title="Latin America",Cine Infantil Sagas
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514369
+#EXTINF:-1 group-title="Latin America",CINE LATINO
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514370
+#EXTINF:-1 group-title="Latin America",Cine Marvel HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514371
+#EXTINF:-1 group-title="Latin America",Cinema 01 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514373
+#EXTINF:-1 group-title="Latin America",Cinema 03 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514374
+#EXTINF:-1 group-title="Latin America",Cinema 04 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514375
+#EXTINF:-1 group-title="Latin America",Cinema 05 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514376
+#EXTINF:-1 group-title="Latin America",Cinema 08 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514377
+#EXTINF:-1 group-title="Latin America",Cinema 09 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514378
+#EXTINF:-1 group-title="Latin America",Cinema 10 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514379
+#EXTINF:-1 group-title="Latin America",Cinema 13 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514380
+#EXTINF:-1 group-title="Latin America",Cinema 14 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514381
+#EXTINF:-1 group-title="Latin America",Cinema 17 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514383
+#EXTINF:-1 group-title="Latin America",Cinema 18 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514384
+#EXTINF:-1 group-title="Latin America",Cinema 19 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514385
+#EXTINF:-1 group-title="Latin America",Cinema 20 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514386
+#EXTINF:-1 group-title="Latin America",Cinema 21 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514387
+#EXTINF:-1 group-title="Latin America",Cinema 27 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514388
+#EXTINF:-1 group-title="Latin America",Cinema 28 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514389
+#EXTINF:-1 group-title="Latin America",Cinema 30 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514390
+#EXTINF:-1 group-title="Latin America",Cinema 33 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514391
+#EXTINF:-1 group-title="Latin America",Cinema 34 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514392
+#EXTINF:-1 group-title="Latin America",Cinema 35 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514393
+#EXTINF:-1 group-title="Latin America",Cinema 36 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514394
+#EXTINF:-1 group-title="Latin America",Cinema 37 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514395
+#EXTINF:-1 group-title="Latin America",Cinema 38 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514396
+#EXTINF:-1 group-title="Latin America",Cinema 39 PPV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514397
+#EXTINF:-1 group-title="Latin America",Cinemax Action HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514398
+#EXTINF:-1 group-title="Latin America",Cinemax East HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514399
+#EXTINF:-1 group-title="Latin America",Cinemax HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514400
+#EXTINF:-1 group-title="Latin America",Cinemax West
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514401
+#EXTINF:-1 group-title="Latin America",Claro Sports HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514403
+#EXTINF:-1 group-title="Latin America",CNN Espanol
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514404
+#EXTINF:-1 group-title="Latin America",CNN INT
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514405
+#EXTINF:-1 group-title="Latin America",Comedy Central FHD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514406
+#EXTINF:-1 group-title="Latin America",Concert Channel FHD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514407
+#EXTINF:-1 group-title="Latin America",COST TELE RED
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514408
+#EXTINF:-1 group-title="Latin America",COST TELE SISTEMA
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514409
+#EXTINF:-1 group-title="Latin America",Costa Rica - FUTV GRITALO
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514413
+#EXTINF:-1 group-title="Latin America",Costa Rica - Repretel 4
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514414
+#EXTINF:-1 group-title="Latin America",Costa Rica - TELETICA 7
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514416
+#EXTINF:-1 group-title="Latin America",Curacao TV Direct 13
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514419
+#EXTINF:-1 group-title="Latin America",DAZN 1
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514420
+#EXTINF:-1 group-title="Latin America",De Pelicula Plus
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514422
+#EXTINF:-1 group-title="Latin America",DIRECTV SPORTS
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514424
+#EXTINF:-1 group-title="Latin America",DIRECTV SPORTS 2
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514425
+#EXTINF:-1 group-title="Latin America",DirectvSP 1
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514426
+#EXTINF:-1 group-title="Latin America",Discovery Channel HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514428
+#EXTINF:-1 group-title="Latin America",Discovery CIVILIZATION
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514430
+#EXTINF:-1 group-title="Latin America",Discovery H&H
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514433
+#EXTINF:-1 group-title="Latin America",Discovery KIDS HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514435
+#EXTINF:-1 group-title="Latin America",Discovery Science
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514437
+#EXTINF:-1 group-title="Latin America",Discovery THEATER HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514439
+#EXTINF:-1 group-title="Latin America",Discovery TLC
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514441
+#EXTINF:-1 group-title="Latin America",Discovery TURBO
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514443
+#EXTINF:-1 group-title="Latin America",Discovery World
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514445
+#EXTINF:-1 group-title="Latin America",Disney Channel
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514447
+#EXTINF:-1 group-title="Latin America",Disney XD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514449
+#EXTINF:-1 group-title="Latin America",Disney JR
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514450
+#EXTINF:-1 group-title="Latin America",EC DIRECTV SPORT
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514455
+#EXTINF:-1 group-title="Latin America",El Gourmet HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514457
+#EXTINF:-1 group-title="Latin America",ESPN 2
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514463
+#EXTINF:-1 group-title="Latin America",ESPN 3 HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514465
+#EXTINF:-1 group-title="Latin America",Estrella TV HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514470
+#EXTINF:-1 group-title="Latin America",Eurochannel
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514472
+#EXTINF:-1 group-title="Latin America",EXTRA TV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514474
+#EXTINF:-1 group-title="Latin America",FILM & ART
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514475
+#EXTINF:-1 group-title="Latin America",Foro TV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514477
+#EXTINF:-1 group-title="Latin America",Fox Action
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514478
+#EXTINF:-1 group-title="Latin America",FOX COMEDY HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514479
+#EXTINF:-1 group-title="Latin America",FOX Premium Family
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514480
+#EXTINF:-1 group-title="Latin America",Fox FHD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514481
+#EXTINF:-1 group-title="Latin America",Fox Life HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514482
+#EXTINF:-1 group-title="Latin America",Fox News
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514485
+#EXTINF:-1 group-title="Latin America",FOX PREMIUM ACTION
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514486
+#EXTINF:-1 group-title="Latin America",FOX PREMIUM COMEDY
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514487
+#EXTINF:-1 group-title="Latin America",FOX PREMIUM Movies
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514489
+#EXTINF:-1 group-title="Latin America",FOX PREMIUM Series
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514490
+#EXTINF:-1 group-title="Latin America",FOX SPORTS
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514492
+#EXTINF:-1 group-title="Latin America",FOX SPORTS 2 HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514493
+#EXTINF:-1 group-title="Latin America",FOX SPORTS 3 HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514494
+#EXTINF:-1 group-title="Latin America",FX
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514495
+#EXTINF:-1 group-title="Latin America",FXM
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514496
+#EXTINF:-1 group-title="Latin America",Galavision East HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514503
+#EXTINF:-1 group-title="Latin America",Galavision La HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514506
+#EXTINF:-1 group-title="Latin America",GLITZ HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514512
+#EXTINF:-1 group-title="Latin America",GOLDEN EDGE
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514513
+#EXTINF:-1 group-title="Latin America",GOLDEN PLUS HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514514
+#EXTINF:-1 group-title="Latin America",GOLTV LATIN
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514516
+#EXTINF:-1 group-title="Latin America",Guatemala - Canal 7
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514518
+#EXTINF:-1 group-title="Latin America",Guatemala - Canal Antigua
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514521
+#EXTINF:-1 group-title="Latin America",Guatemala - Guatevision
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514522
+#EXTINF:-1 group-title="Latin America",Guatemala - TN23
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514523
+#EXTINF:-1 group-title="Latin America",H2
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514524
+#EXTINF:-1 group-title="Latin America",HBO 2 West HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514526
+#EXTINF:-1 group-title="Latin America",HBO East HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514527
+#EXTINF:-1 group-title="Latin America",HBO FAMILY HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514528
+#EXTINF:-1 group-title="Latin America",HBO HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514529
+#EXTINF:-1 group-title="Latin America",HBO Plus FHD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514530
+#EXTINF:-1 group-title="Latin America",HBO POP
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514532
+#EXTINF:-1 group-title="Latin America",HBO Signature FHD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514533
+#EXTINF:-1 group-title="Latin America",HBO West HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514534
+#EXTINF:-1 group-title="Latin America",HECHOS
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514536
+#EXTINF:-1 group-title="Latin America",History Channel HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514539
+#EXTINF:-1 group-title="Latin America",HOLA TV HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514542
+#EXTINF:-1 group-title="Latin America",HTV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514543
+#EXTINF:-1 group-title="Latin America",I-SAT
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514544
+#EXTINF:-1 group-title="Latin America",IndiePlex HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514546
+#EXTINF:-1 group-title="Latin America",Investigation Discovery
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514547
+#EXTINF:-1 group-title="Latin America",LA VOZ DE MARIA
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514549
+#EXTINF:-1 group-title="Latin America",LAS ESTRELLAS
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514551
+#EXTINF:-1 group-title="Latin America",Las Estrellas Europa
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514552
+#EXTINF:-1 group-title="Latin America",LIFETIME
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514555
+#EXTINF:-1 group-title="Latin America",M Channel
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514557
+#EXTINF:-1 group-title="Latin America",Mas Chic
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514559
+#EXTINF:-1 group-title="Latin America",MEXIQUICE
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514561
+#EXTINF:-1 group-title="Latin America",MILENIO TELEVISION
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514563
+#EXTINF:-1 group-title="Latin America",MoreMax HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514564
+#EXTINF:-1 group-title="Latin America",Movie Plex HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514565
+#EXTINF:-1 group-title="Latin America",MovieMax HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514566
+#EXTINF:-1 group-title="Latin America",MTV Hits HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514567
+#EXTINF:-1 group-title="Latin America",MULTIMEDIOS
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514569
+#EXTINF:-1 group-title="Latin America",NAT GEO
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514571
+#EXTINF:-1 group-title="Latin America",NAT GEO KIDS HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514573
+#EXTINF:-1 group-title="Latin America",NAT GEO Wild
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514575
+#EXTINF:-1 group-title="Latin America",NBCNIVERSO
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514577
+#EXTINF:-1 group-title="Latin America",NICK 2 HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514578
+#EXTINF:-1 group-title="Latin America",Nick Junior
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514580
+#EXTINF:-1 group-title="Latin America",nickelodeon FHD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514582
+#EXTINF:-1 group-title="Latin America",NickToons
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514584
+#EXTINF:-1 group-title="Latin America",NIVERSAL Channel
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514586
+#EXTINF:-1 group-title="Latin America",Nuestra Tele
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514587
+#EXTINF:-1 group-title="Latin America",OuterMax HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514589
+#EXTINF:-1 group-title="Latin America",PAN RPC 4
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514590
+#EXTINF:-1 group-title="Latin America",PAN TV MAX 9
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514593
+#EXTINF:-1 group-title="Latin America",PANAMA - MAS TV 23
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514595
+#EXTINF:-1 group-title="Latin America",Panama - Nex Canal 21
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514596
+#EXTINF:-1 group-title="Latin America",Panama - RPC CANAL 4 HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514598
+#EXTINF:-1 group-title="Latin America",PANAMA - TELEMETRO 13
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514600
+#EXTINF:-1 group-title="Latin America",PANAMA - TVN 2
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514601
+#EXTINF:-1 group-title="Latin America",Paraguay - SNT
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514602
+#EXTINF:-1 group-title="Latin America",Paraguay - Telefuturo
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514603
+#EXTINF:-1 group-title="Latin America",PARAMOUNT Channel HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514604
+#EXTINF:-1 group-title="Latin America",Pasiones FHD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514605
+#EXTINF:-1 group-title="Latin America",PE LATINA
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514606
+#EXTINF:-1 group-title="Latin America",RCN
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514608
+#EXTINF:-1 group-title="Latin America",RD Telefuturo
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514609
+#EXTINF:-1 group-title="Latin America",REPRETEL 4
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514611
+#EXTINF:-1 group-title="Latin America",REPRETEL 11
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514613
+#EXTINF:-1 group-title="Latin America",RetroPlex HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514614
+#EXTINF:-1 group-title="Latin America",RNN
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514615
+#EXTINF:-1 group-title="Latin America",Romana TV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514616
+#EXTINF:-1 group-title="Latin America",RTP INTERNACIONAL
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514617
+#EXTINF:-1 group-title="Latin America",SAL CANAL 2
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514619
+#EXTINF:-1 group-title="Latin America",Showtime Beyond HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514622
+#EXTINF:-1 group-title="Latin America",Showtime East HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514623
+#EXTINF:-1 group-title="Latin America",Showtime HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514624
+#EXTINF:-1 group-title="Latin America",Showtime West HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514625
+#EXTINF:-1 group-title="Latin America",Sony Channel
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514626
+#EXTINF:-1 group-title="Latin America",Space HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514627
+#EXTINF:-1 group-title="Latin America",SPORTS RED BULL
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514629
+#EXTINF:-1 group-title="Latin America",Starz Black HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514630
+#EXTINF:-1 group-title="Latin America",Starz Cinema East HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514631
+#EXTINF:-1 group-title="Latin America",Starz Cinema HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514632
+#EXTINF:-1 group-title="Latin America",Starz Cinema West
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514633
+#EXTINF:-1 group-title="Latin America",Starz Comedy HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514634
+#EXTINF:-1 group-title="Latin America",Starz East HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514635
+#EXTINF:-1 group-title="Latin America",Starz Edge West HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514637
+#EXTINF:-1 group-title="Latin America",Starz Encore Action HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514638
+#EXTINF:-1 group-title="Latin America",Starz Encore Black HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514639
+#EXTINF:-1 group-title="Latin America",Starz Encore HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514640
+#EXTINF:-1 group-title="Latin America",Starz Encore Suspense HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514641
+#EXTINF:-1 group-title="Latin America",Starz Encore Western HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514642
+#EXTINF:-1 group-title="Latin America",Starz Family HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514643
+#EXTINF:-1 group-title="Latin America",Starz HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514644
+#EXTINF:-1 group-title="Latin America",Starz Kids & Family HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514645
+#EXTINF:-1 group-title="Latin America",Starz West HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514646
+#EXTINF:-1 group-title="Latin America",STUDIO UNIVERSAL
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514647
+#EXTINF:-1 group-title="Latin America",STUDIONIVERSAL
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514648
+#EXTINF:-1 group-title="Latin America",SuperTV 55
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514650
+#EXTINF:-1 group-title="Latin America",SV Canal 4 HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514652
+#EXTINF:-1 group-title="Latin America",SV Canal 6
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514653
+#EXTINF:-1 group-title="Latin America",SV TCS PLUS
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514654
+#EXTINF:-1 group-title="Latin America",SYFY
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514655
+#EXTINF:-1 group-title="Latin America",TBS
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514656
+#EXTINF:-1 group-title="Latin America",TCM
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514657
+#EXTINF:-1 group-title="Latin America",Telecaribe HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514659
+#EXTINF:-1 group-title="Latin America",TELECENTRO
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514660
+#EXTINF:-1 group-title="Latin America",TELEHIT
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514661
+#EXTINF:-1 group-title="Latin America",Telemicro
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514663
+#EXTINF:-1 group-title="Latin America",TELEMUNDO
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514664
+#EXTINF:-1 group-title="Latin America",TELEMUNDO 7 (San Diego) HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514665
+#EXTINF:-1 group-title="Latin America",TELEMUNDO 40 (Tucson) HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514667
+#EXTINF:-1 group-title="Latin America",Telemundo Boston HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514670
+#EXTINF:-1 group-title="Latin America",Telemundo Fresno
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514673
+#EXTINF:-1 group-title="Latin America",Telemundo Los Angeles
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514678
+#EXTINF:-1 group-title="Latin America",Telemundo Philadelphia
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514681
+#EXTINF:-1 group-title="Latin America",Teletica 7 HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514687
+#EXTINF:-1 group-title="Latin America",TIGO SPORTS 1 HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514691
+#EXTINF:-1 group-title="Latin America",TIGO SPORTS 3 HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514692
+#EXTINF:-1 group-title="Latin America",TLnovelas
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514693
+#EXTINF:-1 group-title="Latin America",TNT HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514694
+#EXTINF:-1 group-title="Latin America",TNT SPORTS
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514695
+#EXTINF:-1 group-title="Latin America",TOONCAST
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514696
+#EXTINF:-1 group-title="Latin America",TruTV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514697
+#EXTINF:-1 group-title="Latin America",TUDN X1
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514698
+#EXTINF:-1 group-title="Latin America",TUDN X10
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514699
+#EXTINF:-1 group-title="Latin America",TUDN X2
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514700
+#EXTINF:-1 group-title="Latin America",TUDN X4
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514701
+#EXTINF:-1 group-title="Latin America",TUDN X5
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514702
+#EXTINF:-1 group-title="Latin America",TUDN X6
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514703
+#EXTINF:-1 group-title="Latin America",TUDN X8
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514704
+#EXTINF:-1 group-title="Latin America",TUDN XTRA 11
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514705
+#EXTINF:-1 group-title="Latin America",TV MAS
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514707
+#EXTINF:-1 group-title="Latin America",TV MAX 9
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514708
+#EXTINF:-1 group-title="Latin America",TVE
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514709
+#EXTINF:-1 group-title="Latin America",TX Telemundo Dallas
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514710
+#EXTINF:-1 group-title="Latin America",UFC
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514712
+#EXTINF:-1 group-title="Latin America",Unicable
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514714
+#EXTINF:-1 group-title="Latin America",UNIMAS HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514715
+#EXTINF:-1 group-title="Latin America",Unimas Albuquerque Santa Fe HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514717
+#EXTINF:-1 group-title="Latin America",Unimas East HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514720
+#EXTINF:-1 group-title="Latin America",Unimas Fresno HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514722
+#EXTINF:-1 group-title="Latin America",Unimas Houston HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514724
+#EXTINF:-1 group-title="Latin America",Unimas Sacramento HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514727
+#EXTINF:-1 group-title="Latin America",Unimas San Antonio HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514729
+#EXTINF:-1 group-title="Latin America",Unimas West HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514730
+#EXTINF:-1 group-title="Latin America",UNIVERSAL Channel
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514731
+#EXTINF:-1 group-title="Latin America",UNIVERSO
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514732
+#EXTINF:-1 group-title="Latin America",Univision Cleveland HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514736
+#EXTINF:-1 group-title="Latin America",Univision East HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514737
+#EXTINF:-1 group-title="Latin America",Univision Houston HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514740
+#EXTINF:-1 group-title="Latin America",Univision Los Angeles HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514741
+#EXTINF:-1 group-title="Latin America",Univision Phoenix HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514744
+#EXTINF:-1 group-title="Latin America",Univision San Antonio HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514746
+#EXTINF:-1 group-title="Latin America",Univision Telenovelas HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514747
+#EXTINF:-1 group-title="Latin America",UNIVISION TLNOVELAS
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514748
+#EXTINF:-1 group-title="Latin America",UR La Red
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514750
+#EXTINF:-1 group-title="Latin America",VTV Canal 35
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514753
+#EXTINF:-1 group-title="Latin America",Warner Bros
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514754
+#EXTINF:-1 group-title="Latin America",WIN SPORTS HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514756
+#EXTINF:-1 group-title="Latin America",Telemundo Puerto Rico
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/515739
+#EXTINF:-1 group-title="Latin America",Univision Albuquerque Santa Fe HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514735
+#EXTINF:-1 group-title="Latin America",SEMBRADOR
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514620
+#EXTINF:-1 group-title="Latin America",ESPN
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514461
+#EXTINF:-1 group-title="Latin America",AMERICATEVE
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/769923
+#EXTINF:-1 group-title="Latin America",Costa Rica - 88 Stereo
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514410
+#EXTINF:-1 group-title="Latin America",Canal 19
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514349
+#EXTINF:-1 group-title="Latin America",Mega TV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/772524
+#EXTINF:-1 group-title="Latin America",Unimas Georgia HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514723
+#EXTINF:-1 group-title="Latin America",Discovery FAMILIA
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514432
+#EXTINF:-1 group-title="Latin America",ESPN DEPORTES
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514467
+#EXTINF:-1 group-title="Latin America",Costa Rica - Extrema TV HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514412
+#EXTINF:-1 group-title="Latin America",Cine Ficcion/Fantasia 1
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514368
+#EXTINF:-1 group-title="Latin America",Food Network
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514476
+#EXTINF:-1 group-title="Latin America",Costa Rica - Teleuno
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514417
+#EXTINF:-1 group-title="Latin America",Costa Rica - TicaVision Canal 52
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514418
+#EXTINF:-1 group-title="Latin America",Guatemala - Canal 13
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514517
+#EXTINF:-1 group-title="Latin America",Cine Comedia 1
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514366
+#EXTINF:-1 group-title="Latin America",Cine Comedia 2
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514367
+#EXTINF:-1 group-title="Latin America",Castle Temp 1 27/7
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/511089
+#EXTINF:-1 group-title="Latin America",Univision Philadelphia HD*
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/389716
+#EXTINF:-1 group-title="Latin America",ESPN 
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/384852
+#EXTINF:-1 group-title="Latin America",Unimas Atlanta
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/389696
+#EXTINF:-1 group-title="Latin America",Galavision Sacramento HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/389029
+#EXTINF:-1 group-title="Latin America",Galavision Sat Lake HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/389030
+#EXTINF:-1 group-title="Latin America",Galavision San Antonio HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/389031
+#EXTINF:-1 group-title="Latin America",Galavision San Francisco HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/389032
+#EXTINF:-1 group-title="Latin America",Unimas Cleveland HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514719
+#EXTINF:-1 group-title="Latin America",Unimas Phoenix HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514725
+#EXTINF:-1 group-title="Latin America",Unimas Raleigh HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514726
+#EXTINF:-1 group-title="Latin America",Unimas Salt Lake HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514728
+#EXTINF:-1 group-title="Latin America",Univision Salt Lake HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514745
+#EXTINF:-1 group-title="Latin America",Galavision Albuquerque Santa Fe HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514498
+#EXTINF:-1 group-title="Latin America",Galavision Dallas HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514502
+#EXTINF:-1 group-title="Latin America",Galavision Las Vegas HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514507
+#EXTINF:-1 group-title="Latin America",Galavision Miami HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514508
+#EXTINF:-1 group-title="Latin America",Galavision Houston HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514505
+#EXTINF:-1 group-title="Latin America",Galavision Fresno HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514504
+#EXTINF:-1 group-title="Latin America",Galavision Atlanta HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514499
+#EXTINF:-1 group-title="Latin America",Galavision Cleveland HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514501
+#EXTINF:-1 group-title="Latin America",HBO 2 HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514525
+#EXTINF:-1 group-title="Latin America",Galavision Philadelphia HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514510
+#EXTINF:-1 group-title="Latin America",Guatemala - Canal 3
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/1116712
+#EXTINF:-1 group-title="Latin America",Guatemala - Retro Tv
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/1116760
+#EXTINF:-1 group-title="Latin America",Guatemala - Canal 11
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/1116761
+#EXTINF:-1 group-title="Latin America",HBO Plus
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/1041237
+#EXTINF:-1 group-title="Latin America",Univision Raleigh HD*
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/389718
+#EXTINF:-1 group-title="Latin America",Galavision NY HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514509
+#EXTINF:-1 group-title="Latin America",Peppa Pig HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/227177
+#EXTINF:-1 group-title="Latin America",TELEMUNDO 47 (LINDEN)
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514668
+#EXTINF:-1 group-title="Latin America",TELEMUNDO SAN ANTONIO
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/512068
+#EXTINF:-1 group-title="Latin America",Unimas ESTE HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514690
+#EXTINF:-1 group-title="Latin America",Unimas Las Vegas HD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/389704
+#EXTINF:-1 group-title="Latin America",Onda TV 10
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514588
+#EXTINF:-1 group-title="Latin America",TELEMUNDO INTERNACIONAL FHD
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/512055
+#EXTINF:-1 group-title="Latin America",Repretel 6
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514612
+#EXTINF:-1 group-title="Latin America",ENLACE TV
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/514460
+#EXTINF:-1 group-title="Latin America",DHE
+http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/1188474
+################Suriname Radio################
+#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdlprizi2qtumd.cloudfront.net%2Fimages%2Fstations%2Fsky-suriname-thumb.png&f=1&nofb=1",Sky Radio
 http://radio.noizetv.ml:8000/radio1-0
-#EXTINF:-1 group-title="RADIO SR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn-profiles.tunein.com%2Fs100650%2Fimages%2Flogog.jpg%3Ft%3D153876&f=1&nofb=1",ACME
+#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn-profiles.tunein.com%2Fs100650%2Fimages%2Flogog.jpg%3Ft%3D153876&f=1&nofb=1",ACME
 http://radio.noizetv.ml:8000/radio1-1
-#EXTINF:-1 group-title="RADIO SR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-radiotime-logos.tunein.com%2Fs85876d.png&f=1&nofb=1",Radio 10
+#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-radiotime-logos.tunein.com%2Fs85876d.png&f=1&nofb=1",Radio 10
 http://radio.noizetv.ml:8000/radio1-2
-#EXTINF:-1 group-title="RADIO SR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fhindoestaanseradio.com%2Fwordpress%2Fwp-content%2Fuploads%2F2015%2F10%2FRapar.jpg&f=1&nofb=1",Rapar
+#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fhindoestaanseradio.com%2Fwordpress%2Fwp-content%2Fuploads%2F2015%2F10%2FRapar.jpg&f=1&nofb=1",Rapar
 http://radio.noizetv.ml:8000/radio1-3
-#EXTINF:-1 group-title="RADIO SR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-radiotime-logos.tunein.com%2Fs98690d.png&f=1&nofb=1",SRS
+#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-radiotime-logos.tunein.com%2Fs98690d.png&f=1&nofb=1",SRS
 http://radio.noizetv.ml:8000/radio2-0
-#EXTINF:-1 group-title="RADIO SR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmytuner.global.ssl.fastly.net%2Fmedia%2Ftvos_radios%2F28bxkraxgjaz.jpg&f=1&nofb=1",Boskopu
+#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmytuner.global.ssl.fastly.net%2Fmedia%2Ftvos_radios%2F28bxkraxgjaz.jpg&f=1&nofb=1",Boskopu
 http://radio.noizetv.ml:8000/radio2-1
-#EXTINF:-1 group-title="RADIO SR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsurinameradio.com%2Fimages%2Fradio%2FNoer.png&f=1&nofb=1",Noer
+#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsurinameradio.com%2Fimages%2Fradio%2FNoer.png&f=1&nofb=1",Noer
 http://radio.noizetv.ml:8000/radio2-2
