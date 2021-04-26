@@ -2862,3 +2862,9 @@ http://radio.noizetv.ml:8000/radio2-2
 ################Apintie TV################
 #EXTINF:-1 group-title="ApintieTV VOD",Nep nieuws zorgt voor heel wat naarigheid
 https://cdn.apintie.sr/ap_idb210426nep.mp4
+#EXTINF:-1 group-title="ApintieTV VOD",Binnenkort landbouwpraktijkschool te Saramacca
+https://cdn.apintie.sr/ap_idb210426bin.mp4
+#EXTINF:-1 group-title="ApintieTV VOD",Nog niet alle dienstvoertuigen achterhaald
+https://cdn.apintie.sr/ap_idb210424dan.mp4
+#EXTINF:-1 group-title="ApintieTV VOD",Apintie altijd en overal
+https://cdn.apintie.sr/ap_kerk48.mp4
