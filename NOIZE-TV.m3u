@@ -564,6 +564,10 @@ http://radio.noizetv.ml:8000/radio1-0
 http://radio.noizetv.ml:8000/radio1-1
 #EXTINF:-1 group-title="Suriname Radio" tvg-logo="",SCCN B104
 http://sccn104.serverroom.us:5600/;stream.mp3
+#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://static-media.streema.com/media/cache/46/1f/461f9491f4f70fe9fbc7b1c3257f2a62.jpg",Radio Garuda
+http://162.244.80.245:8012/stream/;
+#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://static-media.streema.com/media/cache/46/1f/461f9491f4f70fe9fbc7b1c3257f2a62.jpg",NIO FM
+http://bombelman.com:3062/random/;
 #EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-radiotime-logos.tunein.com%2Fs85876d.png&f=1&nofb=1",Radio 10
 http://radio.noizetv.ml:8000/radio1-2
 #EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fhindoestaanseradio.com%2Fwordpress%2Fwp-content%2Fuploads%2F2015%2F10%2FRapar.jpg&f=1&nofb=1",Rapar
@@ -574,6 +578,8 @@ http://radio.noizetv.ml:8000/radio2-0
 http://radio.noizetv.ml:8000/radio2-1
 #EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsurinameradio.com%2Fimages%2Fradio%2FNoer.png&f=1&nofb=1",Noer
 http://radio.noizetv.ml:8000/radio2-2
+#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://static-media.streema.com/media/cache/10/08/1008244ccd3f877b1d0fff23259d6349.jpg",Neutralradio
+https://larry.torontocast.com:1795/stream
 ################Apintie TV################
 #EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_stnd20210427.jpg",Servant leaders 
 https://cdn.apintie.sr/ap_stnd20210427.mp4
