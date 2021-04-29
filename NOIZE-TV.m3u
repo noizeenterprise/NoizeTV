@@ -568,6 +568,28 @@ http://radio.noizetv.ml:8000/radio2-1
 #EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsurinameradio.com%2Fimages%2Fradio%2FNoer.png&f=1&nofb=1",Noer
 http://radio.noizetv.ml:8000/radio2-2
 ################Apintie TV################
+#EXTINF:-1 group-title="ApintieTV VOD",Servant leaders 
+https://cdn.apintie.sr/ap_stnd20210427.mp4
+#EXTINF:-1 group-title="ApintieTV VOD",Defensie zet alvast 308 militairen in ter ondersteuning controle covid 19
+https://cdn.apintie.sr/ap_idb210428def.mp4
+#EXTINF:-1 group-title="ApintieTV VOD",Foute berichtgeving omtrent kinderen op de ICU terstond verbeterd zegt minister Ramadhin
+https://cdn.apintie.sr/ap_idb210428ama.mp4
+#EXTINF:-1 group-title="ApintieTV VOD",Effecten en verspreiding covid 19 tegen gaan maar snellere vaccinaties voor Suriname zegt Gregory Rusland
+https://cdn.apintie.sr/ap_idb210427cov.mp4
+#EXTINF:-1 group-title="ApintieTV VOD",We moeten richting strategiewijziging mbt covid 19 zegt Rachel Deekman
+https://cdn.apintie.sr/ap_idb210427rac.mp4
+#EXTINF:-1 group-title="ApintieTV VOD",Opschonen Bazobestand zal miljoenen besparen zegt minister Somohardjo
+https://cdn.apintie.sr/ap_idb210427som.mp4
+#EXTINF:-1 group-title="ApintieTV VOD",A dream come true zegt reshma mangre bij launch free data voor afstands onderwijs
+https://cdn.apintie.sr/ap_idb210427com.mp4
+#EXTINF:-1 group-title="ApintieTV VOD",Free data voor het onderwijs gisteravond gelaunched
+https://cdn.apintie.sr/ap_idb210427fre.mp4
+#EXTINF:-1 group-title="ApintieTV VOD",Pakket van maatregelen is cruciaal zegt miister Ramadhin
+https://cdn.apintie.sr/ap_idb210426ram.mp4
+#EXTINF:-1 group-title="ApintieTV VOD",Nickerie moet niet afhankelijk zijn van 2 oogsten per jaar
+https://cdn.apintie.sr/ap_idb210426nic.mp4
+#EXTINF:-1 group-title="ApintieTV VOD",To The Point: Minister Amoksi (Justitie en Politie)
+https://cdn.apintie.sr/ap_ttp20210426.mp4
 #EXTINF:-1 group-title="ApintieTV VOD",Nep nieuws zorgt voor heel wat naarigheid
 https://cdn.apintie.sr/ap_idb210426nep.mp4
 #EXTINF:-1 group-title="ApintieTV VOD",Binnenkort landbouwpraktijkschool te Saramacca
