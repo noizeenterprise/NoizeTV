@@ -562,9 +562,9 @@ https://video1.getstreamhosting.com:1936/8979/8979/playlist.m3u8
 http://radio.noizetv.ml:8000/radio1-0
 #EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn-profiles.tunein.com%2Fs100650%2Fimages%2Flogog.jpg%3Ft%3D153876&f=1&nofb=1",ACME
 http://radio.noizetv.ml:8000/radio1-1
-#EXTINF:-1 group-title="Suriname Radio" tvg-logo="",SCCN B104
+#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://static-media.streema.com/media/cache/c7/cf/c7cfbcc26f5dc407eb54ac372726edc9.jpg",SCCN B104
 http://sccn104.serverroom.us:5600/;stream.mp3
-#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://static-media.streema.com/media/cache/46/1f/461f9491f4f70fe9fbc7b1c3257f2a62.jpg",Radio Garuda
+#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://static-media.streema.com/media/cache/b8/2b/b82b89578482e6f2fda82a41851ea9b6.jpg",Radio Garuda
 http://162.244.80.245:8012/stream/;
 #EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://static-media.streema.com/media/cache/46/1f/461f9491f4f70fe9fbc7b1c3257f2a62.jpg",NIO FM
 http://bombelman.com:3062/random/;
