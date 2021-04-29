@@ -552,11 +552,18 @@ http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104317
 http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104316
 #EXTINF:-1 tvg-country="NL" group-title="Nederland",RTL 4 FHD[H265]
 http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104315
+################Suriname TV################
+#EXTINF:-1 group-title="Suriname TV" tvg-logo="https://cdn-radiotime-logos.tunein.com/s197042g.png",SCCN CH1
+https://video1.getstreamhosting.com:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 group-title="Suriname TV" tvg-logo="https://cdn-radiotime-logos.tunein.com/s197042g.png",SCCN CH2
+https://video1.getstreamhosting.com:1936/8979/8979/playlist.m3u8
 ################Suriname Radio################
 #EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdlprizi2qtumd.cloudfront.net%2Fimages%2Fstations%2Fsky-suriname-thumb.png&f=1&nofb=1",Sky Radio
 http://radio.noizetv.ml:8000/radio1-0
 #EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn-profiles.tunein.com%2Fs100650%2Fimages%2Flogog.jpg%3Ft%3D153876&f=1&nofb=1",ACME
 http://radio.noizetv.ml:8000/radio1-1
+#EXTINF:-1 group-title="Suriname Radio" tvg-logo="",SCCN B104
+http://sccn104.serverroom.us:5600/;stream.mp3
 #EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-radiotime-logos.tunein.com%2Fs85876d.png&f=1&nofb=1",Radio 10
 http://radio.noizetv.ml:8000/radio1-2
 #EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fhindoestaanseradio.com%2Fwordpress%2Fwp-content%2Fuploads%2F2015%2F10%2FRapar.jpg&f=1&nofb=1",Rapar
