@@ -151,6 +151,20 @@ http://radio.noizetv.ml:8000/radio2-2
 #EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://static-media.streema.com/media/cache/10/08/1008244ccd3f877b1d0fff23259d6349.jpg",Neutralradio
 https://larry.torontocast.com:1795/stream
 ################Apintie TV################
+#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210429pro.jpg",Protestmars 1 mei afgelast zegt Hooghart
+https://cdn.apintie.sr/ap_idb210429pro.mp4
+#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210429sao.jpg",SAO schenkt zitbanken aan SO Maretraite
+https://cdn.apintie.sr/ap_idb210429sao.mp4
+#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_ttp20210428.jpg",To The Point: Maureen van Dijk, Dinesh Gokoel, Lycke Woittiez
+https://cdn.apintie.sr/ap_ttp20210428.mp4
+#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210428alf.jpg",Steven Alfaisie stelt goed immigratiebeleid voor voor Suriname
+https://cdn.apintie.sr/ap_idb210428alf.mp4
+#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210428min.jpg",Minister Pokie wil frisse wind op Grondbeleid en Bosbeheer
+https://cdn.apintie.sr/ap_idb210428min.mp4
+#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210428pol.jpg",Politie academie moet geherstructureerd worden
+https://cdn.apintie.sr/ap_idb210428pol.mp4
+#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210428ros.jpg",Werknemers Rosebel Goldmines weigeren op de plant te blijven slapen
+https://cdn.apintie.sr/ap_idb210428ros.mp4
 #EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_stnd20210427.jpg",Servant leaders 
 https://cdn.apintie.sr/ap_stnd20210427.mp4
 #EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210428def.jpg",Defensie zet alvast 308 militairen in ter ondersteuning controle covid 19
