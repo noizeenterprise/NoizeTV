@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="m3u4u" generator-info-url="https://m3u4u.com/">
 <channel id="5StarMAX.us(m3u4u)">
-<display-name>Cinemax 5 StarMax</display-name>
+<display-name>5 StarMax</display-name>
 </channel>
 <channel id="AandE.us(m3u4u)">
 <display-name>A&amp;E</display-name>
 </channel>
 <channel id="ActionMAX(Pacific).us(m3u4u)">
-<display-name>Cinemax ActionMax pacific</display-name>
+<display-name>ActionMax pacific</display-name>
 </channel>
 <channel id="ActionMAX.us(m3u4u)">
-<display-name>CINEMAX ACTION MAX</display-name>
+<display-name>ActionMax</display-name>
 </channel>
 <channel id="AnimalPlanet(Pacific).us(m3u4u)">
 <display-name>Animal Planet pacific</display-name>
@@ -165,17 +165,17 @@
 <display-name>Lifetime Movie Network SD</display-name>
 </channel>
 <channel id="MoreMax(Pacific).us(m3u4u)">
-<display-name>Cinemax MoreMax pacific</display-name>
+<display-name>MoreMax pacific</display-name>
 </channel>
 <channel id="MoreMAX.us(m3u4u)">
-<display-name>CINEMAX MOREMAX</display-name>
+<display-name>MoreMax</display-name>
 </channel>
 <channel id="MOTORTREND.us(m3u4u)">
 <display-name>Motor Trend</display-name>
 </channel>
 <channel id="MovieMax.us(m3u4u)">
-<display-name>CINEMAX MOVIEMAX</display-name>
-<display-name>CINEMAX MOVIEMAX SD</display-name>
+<display-name>MovieMAX</display-name>
+<display-name>MovieMAX SD</display-name>
 </channel>
 <channel id="MTV.us(m3u4u)">
 <display-name>MTV</display-name>
@@ -208,7 +208,7 @@
 <display-name>Nick Toon</display-name>
 </channel>
 <channel id="OuterMAX.us(m3u4u)">
-<display-name>CINEMAX OUTER MAX</display-name>
+<display-name>OuterMax</display-name>
 </channel>
 <channel id="ParamountNetwork.us(m3u4u)">
 <display-name>Paramount</display-name>
@@ -309,10 +309,10 @@
 <display-name>Teen Nick</display-name>
 </channel>
 <channel id="ThrillerMAX(Pacific).us(m3u4u)">
-<display-name>Cinemax ThrillerMax pacific</display-name>
+<display-name>ThrillerMax pacific</display-name>
 </channel>
 <channel id="ThrillerMAX.us(m3u4u)">
-<display-name>CINEMAX THRILLERMAX</display-name>
+<display-name>ThrillerMax</display-name>
 </channel>
 <channel id="TNT(Pacific).us(m3u4u)">
 <display-name>TNT pacific</display-name>
