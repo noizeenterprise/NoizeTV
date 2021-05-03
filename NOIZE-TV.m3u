@@ -88,29 +88,29 @@ http://ky-tv.cc:25461/cde123/cde123/175954
 http://ky-tv.cc:25461/cde123/cde123/175960
 #EXTINF:-1 tvg-country="US" group-title="US",truTV pacific
 http://ky-tv.cc:25461/cde123/cde123/175962
-#EXTINF:-1 tvg-country="US" group-title="US",Cinemax 5 StarMax
+#EXTINF:-1 tvg-country="US" group-title="US",5 StarMax
 http://ky-tv.cc:25461/cde123/cde123/176010
-#EXTINF:-1 tvg-country="US" group-title="US",CINEMAX ACTION MAX
+#EXTINF:-1 tvg-country="US" group-title="US",ActionMax
 http://ky-tv.cc:25461/cde123/cde123/176011
-#EXTINF:-1 tvg-country="US" group-title="US",Cinemax ActionMax pacific
+#EXTINF:-1 tvg-country="US" group-title="US",ActionMax pacific
 http://ky-tv.cc:25461/cde123/cde123/176012
 #EXTINF:-1 tvg-country="US" group-title="US",Cinemax
 http://ky-tv.cc:25461/cde123/cde123/176013
 #EXTINF:-1 tvg-country="US" group-title="US",Cinemax
 http://ky-tv.cc:25461/cde123/cde123/176015
-#EXTINF:-1 tvg-country="US" group-title="US",CINEMAX MOREMAX
+#EXTINF:-1 tvg-country="US" group-title="US",MoreMax
 http://ky-tv.cc:25461/cde123/cde123/176016
-#EXTINF:-1 tvg-country="US" group-title="US",Cinemax MoreMax pacific
+#EXTINF:-1 tvg-country="US" group-title="US",MoreMax pacific
 http://ky-tv.cc:25461/cde123/cde123/176017
-#EXTINF:-1 tvg-country="US" group-title="US",CINEMAX MOVIEMAX
+#EXTINF:-1 tvg-country="US" group-title="US",MovieMAX
 http://ky-tv.cc:25461/cde123/cde123/176018
-#EXTINF:-1 tvg-country="US" group-title="US",CINEMAX MOVIEMAX SD
+#EXTINF:-1 tvg-country="US" group-title="US",MovieMAX SD
 http://ky-tv.cc:25461/cde123/cde123/176019
-#EXTINF:-1 tvg-country="US" group-title="US",CINEMAX OUTER MAX
+#EXTINF:-1 tvg-country="US" group-title="US",OuterMax
 http://ky-tv.cc:25461/cde123/cde123/176020
-#EXTINF:-1 tvg-country="US" group-title="US",CINEMAX THRILLERMAX
+#EXTINF:-1 tvg-country="US" group-title="US",ThrillerMax
 http://ky-tv.cc:25461/cde123/cde123/176021
-#EXTINF:-1 tvg-country="US" group-title="US",Cinemax ThrillerMax pacific
+#EXTINF:-1 tvg-country="US" group-title="US",ThrillerMax pacific
 http://ky-tv.cc:25461/cde123/cde123/176023
 #EXTINF:-1 tvg-country="US" group-title="US",Cinemax pacific
 http://ky-tv.cc:25461/cde123/cde123/176024
@@ -154,7 +154,7 @@ http://ky-tv.cc:25461/cde123/cde123/176054
 http://ky-tv.cc:25461/cde123/cde123/176056
 #EXTINF:-1 tvg-country="US" group-title="US",Showtime Extreme
 http://ky-tv.cc:25461/cde123/cde123/176059
-#EXTINF:-1 tvg-country="US" group-title="US",Showtime Family Zone (East)
+#EXTINF:-1 tvg-country="US" group-title="US",Showtime Family Zone
 http://ky-tv.cc:25461/cde123/cde123/176060
 #EXTINF:-1 tvg-country="US" group-title="US",Showtime Next
 http://ky-tv.cc:25461/cde123/cde123/176061
@@ -192,11 +192,11 @@ http://ky-tv.cc:25461/cde123/cde123/176078
 http://ky-tv.cc:25461/cde123/cde123/176079
 #EXTINF:-1 tvg-country="US" group-title="US",Starz Encore pacific
 http://ky-tv.cc:25461/cde123/cde123/176080
-#EXTINF:-1 tvg-country="US" group-title="US",Starz Encore pacificerns
+#EXTINF:-1 tvg-country="US" group-title="US",Starz Encore pacific
 http://ky-tv.cc:25461/cde123/cde123/176081
 #EXTINF:-1 tvg-country="US" group-title="US",Starz in Black
 http://ky-tv.cc:25461/cde123/cde123/176082
-#EXTINF:-1 tvg-country="US" group-title="US",Starz Kids & Family
+#EXTINF:-1 tvg-country="US" group-title="US",Starz Kidz
 http://ky-tv.cc:25461/cde123/cde123/176083
 #EXTINF:-1 tvg-country="US" group-title="US",Starz pacific
 http://ky-tv.cc:25461/cde123/cde123/176084
