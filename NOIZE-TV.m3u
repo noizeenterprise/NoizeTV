@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="Miami TV" tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
+#EXTINF:-1 group-title="Miami TV" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png",Latino
+https://5ee7c2b857b7f.streamlock.net/latino/smil:WEB/playlist.m3u8
+#EXTINF:-1 group-title="Miami TV" tvg-logo="https://miamitvhd.com/assets/Jennylive-20d0592904692fc4a548f22667bdab44f98e36b153efb13719b66be478de186b.png",Live
+https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
 ################Suriname TV################
 #EXTINF:-1 group-title="Suriname TV" tvg-logo="https://cdn-radiotime-logos.tunein.com/s197042g.png",SCCN CH1
 https://video1.getstreamhosting.com:1936/8040/8040/playlist.m3u8
