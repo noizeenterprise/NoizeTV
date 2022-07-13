@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cvnniFH.png" group-title="US",Adult Swim Aqua Teen Hunger Force
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_de.m3u8
+#EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X2qhBpO.png" group-title="US",Adult Swim Off The Air
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
+#EXTINF:-1 tvg-id="AdultSwimRickandMorty.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JvLSIAO.png" group-title="US",Adult Swim Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
+#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UOZ4VTH.png" group-title="US",Adult Swim Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
+#EXTINF:-1 tvg-id="ComedyChannel.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="US",Comedy Channel
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="Miami TV" tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 #EXTINF:-1 group-title="Miami TV" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png",Latino
