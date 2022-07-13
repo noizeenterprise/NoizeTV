@@ -1833,9 +1833,9 @@ http://cccamiptv11com.com:8080/live/AHMET1979/1979ahmet/157781.ts
 #EXTINF:-1 group-title="Suriname TV" tvg-logo="https://cdn-radiotime-logos.tunein.com/s197042g.png",SCCN CH1
 https://video1.getstreamhosting.com:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 group-title="Suriname TV" tvg-logo="https://cdn-radiotime-logos.tunein.com/s197042g.png",SCCN CH2
+https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
+#EXTINF:-1 group-title="Suriname TV" tvg-logo="https://cdn-radiotime-logos.tunein.com/s197042g.png",SCCN CH3
 https://video1.getstreamhosting.com:1936/8979/8979/playlist.m3u8
-#EXTINF:-1 group-title="Suriname TV" tvg-logo="",ATV Live Broadcast
-https://www.tikilive.com/embed?scheme=embedChannel&channelId=34967&pwidth=1920&pheight=1080&autoplay=yes&showChat=no
 ################Suriname Radio################
 #EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdlprizi2qtumd.cloudfront.net%2Fimages%2Fstations%2Fsky-suriname-thumb.png&f=1&nofb=1",Sky Radio
 http://radio.noizetv.ml:8000/radio1-0
