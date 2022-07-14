@@ -1,4 +1,5 @@
 #EXTM3U
+################BR################
 #EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-country="BR" tvg-language="Korean" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="BR",KpopTV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeCNTCuritiba.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/79365P2.png" group-title="BR",Rede CNT (Curitiba)
@@ -21,7 +22,7 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMAX.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="BR",TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
-
+################USA################
 #EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cvnniFH.png" group-title="US",Adult Swim Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_de.m3u8
 #EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X2qhBpO.png" group-title="US",Adult Swim Off The Air
@@ -32,9 +33,7 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
 #EXTINF:-1 tvg-id="ComedyChannel.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="US",Comedy Channel
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
-
-
-
+################Miami TV################
 #EXTINF:-1 group-title="Miami TV" tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 #EXTINF:-1 group-title="Miami TV" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png",Latino
@@ -71,56 +70,3 @@ http://radio.noizetv.ml:8000/radio2-1
 http://radio.noizetv.ml:8000/radio2-2
 #EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://static-media.streema.com/media/cache/10/08/1008244ccd3f877b1d0fff23259d6349.jpg",Neutralradio
 https://larry.torontocast.com:1795/stream
-################Apintie TV################
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210429pro.jpg",Protestmars 1 mei afgelast zegt Hooghart
-https://cdn.apintie.sr/ap_idb210429pro.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210429sao.jpg",SAO schenkt zitbanken aan SO Maretraite
-https://cdn.apintie.sr/ap_idb210429sao.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_ttp20210428.jpg",To The Point: Maureen van Dijk, Dinesh Gokoel, Lycke Woittiez
-https://cdn.apintie.sr/ap_ttp20210428.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210428alf.jpg",Steven Alfaisie stelt goed immigratiebeleid voor voor Suriname
-https://cdn.apintie.sr/ap_idb210428alf.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210428min.jpg",Minister Pokie wil frisse wind op Grondbeleid en Bosbeheer
-https://cdn.apintie.sr/ap_idb210428min.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210428pol.jpg",Politie academie moet geherstructureerd worden
-https://cdn.apintie.sr/ap_idb210428pol.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210428ros.jpg",Werknemers Rosebel Goldmines weigeren op de plant te blijven slapen
-https://cdn.apintie.sr/ap_idb210428ros.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_stnd20210427.jpg",Servant leaders 
-https://cdn.apintie.sr/ap_stnd20210427.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210428def.jpg",Defensie zet alvast 308 militairen in ter ondersteuning controle covid 19
-https://cdn.apintie.sr/ap_idb210428def.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210428ama.jpg",Foute berichtgeving omtrent kinderen op de ICU terstond verbeterd zegt minister Ramadhin
-https://cdn.apintie.sr/ap_idb210428ama.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210427cov.jpg",Effecten en verspreiding covid 19 tegen gaan maar snellere vaccinaties voor Suriname zegt Gregory Rusland
-https://cdn.apintie.sr/ap_idb210427cov.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210427rac.jpg",We moeten richting strategiewijziging mbt covid 19 zegt Rachel Deekman
-https://cdn.apintie.sr/ap_idb210427rac.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210427som.jpg",Opschonen Bazobestand zal miljoenen besparen zegt minister Somohardjo
-https://cdn.apintie.sr/ap_idb210427som.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210427com.jpg",A dream come true zegt reshma mangre bij launch free data voor afstands onderwijs
-https://cdn.apintie.sr/ap_idb210427com.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210427fre.jpg",Free data voor het onderwijs gisteravond gelaunched
-https://cdn.apintie.sr/ap_idb210427fre.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210426ram.jpg",Pakket van maatregelen is cruciaal zegt miister Ramadhin
-https://cdn.apintie.sr/ap_idb210426ram.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210426nic.jpg",Nickerie moet niet afhankelijk zijn van 2 oogsten per jaar
-https://cdn.apintie.sr/ap_idb210426nic.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_ttp20210426.jpg",To The Point: Minister Amoksi (Justitie en Politie)
-https://cdn.apintie.sr/ap_ttp20210426.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210426nep.jpg",Nep nieuws zorgt voor heel wat naarigheid
-https://cdn.apintie.sr/ap_idb210426nep.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210426bin.jpg",Binnenkort landbouwpraktijkschool te Saramacca
-https://cdn.apintie.sr/ap_idb210426bin.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210424dan.jpg",Nog niet alle dienstvoertuigen achterhaald
-https://cdn.apintie.sr/ap_idb210424dan.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_kerk48.jpg",R.K. Bisdom Online Kerkdienst
-https://cdn.apintie.sr/ap_kerk48.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210424sur.jpg",New Surfin formeel nooit ingeschreven zegt oud bestuurslid Max Man A Hing
-https://cdn.apintie.sr/ap_idb210424sur.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210424gie.jpg",Bewoners Giebelstraat uit het donker gehaald
-https://cdn.apintie.sr/ap_idb210424gie.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210424c47.jpg",C47 maakt zich zorgen over continuiteit van staatsbedrijven
-https://cdn.apintie.sr/ap_idb210424c47.mp4
-#EXTINF:-1 group-title="ApintieTV VOD" tvg-logo="https://www.apintie.sr/uploads/thumbs/ap_idb210423hul.jpg",Hulpbehoeftigen krijgen voedsel pakket ter ondersteuning
-https://cdn.apintie.sr/ap_idb210423hul.mp4
