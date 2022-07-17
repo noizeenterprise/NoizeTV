@@ -48,7 +48,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961
                                 Documentary
 
 #######################################################################################
-
+#EXTINF:-1 group-title="US",Animal Planet
+https://list.iptvcat.com/my_list/s/a74aa30a8c401828d19a0790fd7fc6af.m3u8
 #######################################################################################
 
                                 Entertainment
