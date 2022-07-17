@@ -31,13 +31,13 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
                                 USA
 
 #######################################################################################
-#EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-logo="https://i.imgur.com/cvnniFH.png" group-title="US",Adult Swim Aqua Teen Hunger Force
+#EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-logo="https://m.media-amazon.com/images/I/61SWEs4IPYL._AC_SX466_.jpg" group-title="US",Adult Swim Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_de.m3u8
-#EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-logo="https://i.imgur.com/X2qhBpO.png" group-title="US",Adult Swim Off The Air
+#EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Off_the_Air_poster.jpeg" group-title="US",Adult Swim Off The Air
 https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
 #EXTINF:-1 tvg-id="AdultSwimRickandMorty.us" tvg-logo="https://i.imgur.com/JvLSIAO.png" group-title="US",Adult Swim Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
-#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://i.imgur.com/UOZ4VTH.png" group-title="US",Adult Swim Samurai Jack
+#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://cdna.artstation.com/p/assets/covers/images/033/876/718/large/marcos-ramos-marcos-ramos-samurai-jack-marcos-ramos-character-design-jack-01.jpg?1610800082" group-title="US",Adult Swim Samurai Jack
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
 #EXTINF:-1 tvg-id="ComedyChannel.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="US",Comedy Channel
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
