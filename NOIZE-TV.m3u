@@ -47,17 +47,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961
 https://list.iptvcat.com/my_list/s/c804bd401706abc7ef008b7c9b49aff5.m3u8
 #######################################################################################
 
-                                Entertainment
+                                Documentary
 
 #######################################################################################
-#EXTINF:-1 group-title="Documentary",Animal PLanet
-https://list.iptvcat.com/my_list/s/a74aa30a8c401828d19a0790fd7fc6af.m3u8
-#EXTINF:-1 group-title="Documentary",Discovery Channel
-https://list.iptvcat.com/my_list/s/7d88292504d40fd8cc5f8888e6d1521f.m3u8
-#EXTINF:-1 group-title="Documentary",Discovery Science
-https://list.iptvcat.com/my_list/s/b43e4121feec2991d0e0fb6af2e1bbc7.m3u8
-#EXTINF:-1 group-title="Documentary",National Geographic
-https://list.iptvcat.com/my_list/s/e2826009ead93bf4c70ce4e80cee0eaf.m3u8
+
 #######################################################################################
 
                                 Entertainment
@@ -71,8 +64,6 @@ https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PopstarTV.us" tvg-logo="https://i.imgur.com/mWrqBaS.png" group-title="Entertainment",Popstar! TV
 https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/06/bet-logo.png" group-title="Entertainment",BET
-https://list.iptvcat.com/my_list/s/9957e9ebec9f34a1267367e168cc76a2.m3u8
 #######################################################################################
 
                                 Miami TV
