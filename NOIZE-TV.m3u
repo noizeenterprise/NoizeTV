@@ -45,60 +45,6 @@ https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bravo-logo-07CB28CA27-seeklogo.com.png" group-title="US",Bravo
 https://list.iptvcat.com/my_list/s/c804bd401706abc7ef008b7c9b49aff5.m3u8
-#EXTINF:-1 group-title="US",CineMax 5Star
-https://list.iptvcat.com/my_list/s/2cdd044076f3cabc07ce8cc0ef120d3f.m3u8
-#EXTINF:-1 tvg-logo="https://vpnpick.com/wp-content/uploads/2020/10/cinemax-vpn.png" group-title="US",CineMax
-https://list.iptvcat.com/my_list/s/3008c90843a77f23edf06710b1097ea3.m3u8
-#EXTINF:-1 tvg-logo="https://www.wtcks.com/images/channels/logos/actionmax.png" group-title="US",CineMax ActionMax
-https://list.iptvcat.com/my_list/s/e1c1b1231073a22505e8a13570eeef18.m3u8
-#EXTINF:-1 tvg-logo="https://www.pickcinema.com/images/tv/logos/momax.png" group-title="US",CineMax MoreMax
-https://list.iptvcat.com/my_list/s/ef7bc53e21a7f3547862defb47d4b923.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/thrillermax" group-title="US",CineMax ThrillerMax
-https://list.iptvcat.com/my_list/s/aa36fc3bd7688957670908c5ea48415d.m3u8
-#EXTINF:-1 group-title="US",Comedy Central
-https://list.iptvcat.com/my_list/s/503d81fdd1419a19fd6412f316ad6aa8.m3u8
-#EXTINF:-1 tvg-logo="https://3.imimg.com/data3/XN/NJ/MY-21083087/comedy-tv-africa-500x500.png" group-title="US",Comedy TV
-https://list.iptvcat.com/my_list/s/16254180d25b20ef720060f73b22f010.m3u8
-#EXTINF:-1 group-title="US",Empire Cinema Fantasy
-https://list.iptvcat.com/my_list/s/18335429577e2dab562bb1e564e959a0.m3u8
-#EXTINF:-1 group-title="US",FX
-https://list.iptvcat.com/my_list/s/51f5e33e15ddbf8fa86733bd7558cb96.m3u8
-#EXTINF:-1 group-title="US",FXM
-https://list.iptvcat.com/my_list/s/9b2a313bdd380b0d28451f798f4647a4.m3u8
-#EXTINF:-1 group-title="US",FXX
-https://list.iptvcat.com/my_list/s/a203916419b385aa1d0dbd5e3734d3a9.m3u8
-#EXTINF:-1 group-title="US",Fox
-https://list.iptvcat.com/my_list/s/9d52ba9c4e672c62dc3ca490e5ae1c2e.m3u8
-#EXTINF:-1 group-title="US",HBO
-https://list.iptvcat.com/my_list/s/f9dc1efa27e594196c1558c3a856626e.m3u8
-#EXTINF:-1 group-title="US",HBO 2
-https://list.iptvcat.com/my_list/s/021f85587d86fbeea6727fe5ff49b8fe.m3u8
-#EXTINF:-1 group-title="US",HBO Comedy
-https://list.iptvcat.com/my_list/s/201fd7c3943c0166379e5d0aeef0a165.m3u8
-#EXTINF:-1 group-title="US",MovieMax
-https://list.iptvcat.com/my_list/s/acbf5ab7a8a1324cece9a00ec7f85012.m3u8
-#EXTINF:-1 group-title="US",Nickelodeon
-https://list.iptvcat.com/my_list/s/f82b2f4c61a46d57df17c1edf161bfaa.m3u8
-#EXTINF:-1 group-title="US",Paramount Network
-https://list.iptvcat.com/my_list/s/57e6d81736f3a05bd13531416feb1a4e.m3u8
-#EXTINF:-1 group-title="US",Showtime
-https://list.iptvcat.com/my_list/s/1219288ebb51279e6541ddccf91a0cac.m3u8
-#EXTINF:-1 group-title="US",Showtime 2
-https://list.iptvcat.com/my_list/s/532bead4a44e05a1dad5bc0e7b619e66.m3u8
-#EXTINF:-1 group-title="US",Showtime Extreme
-https://list.iptvcat.com/my_list/s/bb34f16f6e7959f725b11a686021d664.m3u8
-#EXTINF:-1 group-title="US",Showtime Family Zone
-https://list.iptvcat.com/my_list/s/475a79c085b50ac9e4b3fc178360e94f.m3u8
-#EXTINF:-1 group-title="US",Sony Movies
-https://list.iptvcat.com/my_list/s/03b59646331eb42427b9b06a3b8ecb37.m3u8
-#EXTINF:-1 group-title="US",Starz Comedy
-https://list.iptvcat.com/my_list/s/656b7163f934cfddff8558957b361ffe.m3u8
-#EXTINF:-1 group-title="US",SyFy
-https://list.iptvcat.com/my_list/s/dab5b27d2142cebbc66ab79b9fa54bc4.m3u8
-#EXTINF:-1 group-title="US",TBS
-https://list.iptvcat.com/my_list/s/61a686d39a1557aadfb04e64ec00ce14.m3u8
-#EXTINF:-1 group-title="US",The CW
-https://list.iptvcat.com/my_list/s/8b3c00185a9eb1892df2b655868a445c.m3u8
 #######################################################################################
 
                                 Entertainment
@@ -127,24 +73,6 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/06/bet-logo.png" group-title="Entertainment",BET
 https://list.iptvcat.com/my_list/s/9957e9ebec9f34a1267367e168cc76a2.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.forg2-1.fna.fbcdn.net/v/t1.18169-1/16640857_1532381676791547_5822459040127165708_n.jpg?stp=dst-jpg_p148x148&_nc_cat=109&ccb=1-7&_nc_sid=1eb0c7&_nc_ohc=BXb1SXieKm0AX8ZfIuX&_nc_ht=scontent.forg2-1.fna&oh=00_AT-QDFzsQxA6okoSlREDl7ua9fPvm_GtZSoz8h_IReXI7g&oe=62F61D0F" group-title="Entertainment",Bounce TV
-https://list.iptvcat.com/my_list/s/1be07f588e4a2de70159e7bbd2ac9983.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Entertainment",Disney XD
-https://list.iptvcat.com/my_list/s/6a86ad0801b43bef3af4faa7f5993bc5.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQyGMf78ir3SnhhlQjuM3fnyt61e_4e4q70X-Lomw=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",E! Entertainment
-https://list.iptvcat.com/my_list/s/218e72f4d8d1fa204e2773af91663cdb.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xCZwmM3mbLVwdmUfzeTQKZ2fhv-O3J-fK6CjGBT6O5lsIfAJ-eovd0ZixemWUBd77ryg" group-title="Entertainment",ET Live
-https://list.iptvcat.com/my_list/s/63974d0571326daac658011b30d6f29f.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/8dmkFX1UcqiTQSTi2pbgNEHi-MPij0Ad6C0ENRbqm3wiZpBo8RYzXiQqyZNViC17JJEiEdTDH8o=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",MTV
-https://list.iptvcat.com/my_list/s/43b4175a7f89c1077fc8c00e5bfc21d2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/MTV_Live.svg" group-title="Entertainment",MTV Live
-https://list.iptvcat.com/my_list/s/5482d748fdc1b9d5d9c14edb4e18a31d.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/e9/f7/5ae9f7101c2dbf30de23441e5d8f4a21.png" group-title="Entertainment",POP TV
-https://list.iptvcat.com/my_list/s/0f61e7c219dfb92b6f86d2232944dbce.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ro41u9Dyw01-j-6Ea9V3_dAZYx16DvFaaMqTGfi4s5nf_sL8LbOGpwyuq3ibXl3zHw" group-title="Entertainment",Popstar! TV
-https://list.iptvcat.com/my_list/s/af31ca2e466a59ae7f84e113e29322e6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/1200px-VH1_2020.svg.png" group-title="Entertainment",VH1
-https://list.iptvcat.com/my_list/s/0885b74fe5c688cb79f9d2f68ee303a0.m3u8
 #######################################################################################
 
                                 Miami TV
