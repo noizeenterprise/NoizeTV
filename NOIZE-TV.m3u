@@ -41,8 +41,8 @@ https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
 #EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://cdna.artstation.com/p/assets/covers/images/033/876/718/large/marcos-ramos-marcos-ramos-samurai-jack-marcos-ramos-character-design-jack-01.jpg?1610800082" group-title="US",Adult Swim Samurai Jack
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d4947590ba40f75dc29c26b/colorLogoPNG.png" group-title="US",Comedy Central
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4947590ba40f75dc29c26b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d4947590ba40f75dc29c26b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5ca4fefb-0728-11eb-a18c-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="US",Comedy Central
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca671f215a62078d2ec0abf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=465&terminate=false&userId=
 #EXTINF:-1 tvg-id="ComedyChannel.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="US",Comedy Channel
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HauntTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jCaWSFK.png" group-title="US",Haunt TV
