@@ -31,6 +31,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
                                 USA
 
 #######################################################################################
+#EXTINF:-1 tvg-id="PlutoTVAnimeAllAges.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="US",Pluto TV Anime All Ages
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 #EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-logo="https://m.media-amazon.com/images/I/61SWEs4IPYL._AC_SX466_.jpg" group-title="US",Adult Swim Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_de.m3u8
 #EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Off_the_Air_poster.jpeg" group-title="US",Adult Swim Off The Air
@@ -43,7 +45,7 @@ https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HauntTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jCaWSFK.png" group-title="US",Haunt TV
 https://haunttv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="MoUSvies",MovieSphere
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="US",MovieSphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="US",Paramount Plus Picks
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
@@ -60,21 +62,21 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961
                                 Entertainment
 
 #######################################################################################
-#EXTINF:-1 tvg-id="Buzzr.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png" group-title="US",Buzzr
+#EXTINF:-1 tvg-id="Buzzr.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png" group-title="Entertainment",Buzzr
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BounceXL.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="US",Bounce XL
+#EXTINF:-1 tvg-id="BounceXL.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="Entertainment",Bounce XL
 https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/playlist.m3u8	
-#EXTINF:-1 tvg-id="EntertainmentTonight.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/TXamgdB.png" group-title="US",Entertainment Tonight
+#EXTINF:-1 tvg-id="EntertainmentTonight.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/TXamgdB.png" group-title="Entertainment",Entertainment Tonight
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-#EXTINF:-1 tvg-id="FunnyorDie.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/PMMsywm.png" group-title="US",Funny or Die
+#EXTINF:-1 tvg-id="FunnyorDie.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/PMMsywm.png" group-title="Entertainment",Funny or Die
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OiMMkP3.jpg" group-title="US",Just for Laughs Gags
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OiMMkP3.jpg" group-title="Entertainment",Just for Laughs Gags
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="PopstarTV.us" tvg-logo="https://i.imgur.com/mWrqBaS.png" group-title="US",Popstar! TV
+#EXTINF:-1 tvg-id="PopstarTV.us" tvg-logo="https://i.imgur.com/mWrqBaS.png" group-title="EntertainmentUS",Popstar! TV
 https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="YoungHollywood.us" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="US",Young Hollywood
+#EXTINF:-1 tvg-id="YoungHollywood.us" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Entertainment",Young Hollywood
 https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Xplore.us" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="US",Xplore
+#EXTINF:-1 tvg-id="Xplore.us" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="Entertainment",Xplore
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #######################################################################################
 
