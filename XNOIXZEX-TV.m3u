@@ -19,9 +19,9 @@ https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
 https://allanf181.github.io/adaptive-streams/streams/kr/Viki.m3u8
 #EXTINF:-1,XXX Live Cams
 http://cdn.redtraffic.net/livecams.m3u8
-#EXTINF:-1,XXX MILF
+#EXTINF:-1 group-title="XXX",XXX MILF
 http://cdn.redtraffic.net/milf.m3u8
-#EXTINF:-1,XXX Big Dick
+#EXTINF:-1 group-title="XXX",XXX Big Dick
 http://cdn.redtraffic.net/bigdick.m3u8
 #EXTINF:-1,XXX Big Tits
 http://cdn.redtraffic.net/bigtits.m3u8
