@@ -130,7 +130,7 @@ https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
                                 Suriname TV
 
 ########################################################################################
-EXTINF:-1 group-title="Suriname TV" tvg-logo="https://cdn-radiotime-logos.tunein.com/s197042g.png",SCCN CH1
+#EXTINF:-1 group-title="Suriname TV" tvg-logo="https://cdn-radiotime-logos.tunein.com/s197042g.png",SCCN CH1
 https://video1.getstreamhosting.com:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 group-title="Suriname TV" tvg-logo="https://cdn-radiotime-logos.tunein.com/s197042g.png",SCCN CH2
 https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
@@ -141,7 +141,7 @@ https://video1.getstreamhosting.com:1936/8979/8979/playlist.m3u8
                                 Suriname Radio
 
 ########################################################################################
-EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdlprizi2qtumd.cloudfront.net%2Fimages%2Fstations%2Fsky-suriname-thumb.png&f=1&nofb=1",Sky Radio
+#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdlprizi2qtumd.cloudfront.net%2Fimages%2Fstations%2Fsky-suriname-thumb.png&f=1&nofb=1",Sky Radio
 http://radio.noizetv.ml:8000/radio1-0
 #EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn-profiles.tunein.com%2Fs100650%2Fimages%2Flogog.jpg%3Ft%3D153876&f=1&nofb=1",ACME
 http://radio.noizetv.ml:8000/radio1-1
