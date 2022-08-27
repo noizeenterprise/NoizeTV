@@ -121,9 +121,9 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #######################################################################################
 #EXTINF:-1 group-title="Miami TV" tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
-#EXTINF:-1 group-title="Miami TV" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png",Latino
+#EXTINF:-1 group-title="Miami TV" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png",Miami Latino
 https://5ee7c2b857b7f.streamlock.net/latino/smil:WEB/playlist.m3u8
-#EXTINF:-1 group-title="Miami TV" tvg-logo="https://miamitvhd.com/assets/Jennylive-20d0592904692fc4a548f22667bdab44f98e36b153efb13719b66be478de186b.png",Live
+#EXTINF:-1 group-title="Miami TV" tvg-logo="https://miamitvhd.com/assets/Jennylive-20d0592904692fc4a548f22667bdab44f98e36b153efb13719b66be478de186b.png",Miami Live
 https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
 #######################################################################################
 
@@ -141,25 +141,28 @@ https://video1.getstreamhosting.com:1936/8979/8979/playlist.m3u8
                                 Suriname Radio
 
 ########################################################################################
-#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdlprizi2qtumd.cloudfront.net%2Fimages%2Fstations%2Fsky-suriname-thumb.png&f=1&nofb=1",Sky Radio
-http://radio.noizetv.ml:8000/radio1-0
-#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn-profiles.tunein.com%2Fs100650%2Fimages%2Flogog.jpg%3Ft%3D153876&f=1&nofb=1",ACME
-http://radio.noizetv.ml:8000/radio1-1
+#EXTINF:-1 group-title="Suriname Radio" ,Apintie Radio
+https://surilive.com:8000/;
+#EXTINF:-1 group-title="Suriname Radio" ,ABC The Love Station
+httpS://surilive.com:8020/;stream.nsv
+#EXTINF:-1 group-title="Suriname Radio" ,Color Radio
+https://surilive.com:8070/;stream.nsv
+#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdlprizi2qtumd.cloudfront.net%2Fimages%2Fstations%2Fsky-suriname-thumb.png&f=1&nofb=1",Sky
+https://25323.live.streamtheworld.com/SKYRADIO.mp3?dist=skyradio_web&ttag=talpa_consent:0&gdpr=1&gdpr_consent=CPeXbEAPeXbEAADABBNLCdCsAP_AAEJAAAAAGgQGAAKgAXABAADIAIkATABNACeAGIANwAfgBAACMAHeAQgAi0BHAEdAJcATsArICKQF5gL2AYIA0ADBICYAFQALgAgABkAEQAJoATwAxAB-AEAAIwAd4BCACLQEcAR0AnYCKQF5gMEAKCQCQAKgAgABkAEQAJgATwB3gEcAXmKgBgBMAI4AvMZADACYARwBeY6AWABUAEAAMgAiABMACeAGIAd4BFgCOALzHAAgALgEIIQBAAmABiAHeARwkABAAuSgDABEACYAGIAd4BHAF5lIBYAFQAQAAyACIAEwAJ4AYgB3gEWAI4AvMoABAAuA.e8AAAAAAA7AA
 #EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://static-media.streema.com/media/cache/c7/cf/c7cfbcc26f5dc407eb54ac372726edc9.jpg",SCCN B104
-http://sccn104.serverroom.us:5600/;stream.mp3
+https://video1.getstreamhosting.com:2000/tunein/8340/stream/pls
 #EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://static-media.streema.com/media/cache/b8/2b/b82b89578482e6f2fda82a41851ea9b6.jpg",Radio Garuda
 http://162.244.80.245:8012/stream/;
 #EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://static-media.streema.com/media/cache/46/1f/461f9491f4f70fe9fbc7b1c3257f2a62.jpg",NIO FM
-http://bombelman.com:3062/random/;
-#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-radiotime-logos.tunein.com%2Fs85876d.png&f=1&nofb=1",Radio 10
-http://radio.noizetv.ml:8000/radio1-2
-#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fhindoestaanseradio.com%2Fwordpress%2Fwp-content%2Fuploads%2F2015%2F10%2FRapar.jpg&f=1&nofb=1",RP The Hot One
-http://radio.noizetv.ml:8000/radio1-3
-#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-radiotime-logos.tunein.com%2Fs98690d.png&f=1&nofb=1",SRS
-http://radio.noizetv.ml:8000/radio2-0
-#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmytuner.global.ssl.fastly.net%2Fmedia%2Ftvos_radios%2F28bxkraxgjaz.jpg&f=1&nofb=1",Boskopu
-http://radio.noizetv.ml:8000/radio2-1
-#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsurinameradio.com%2Fimages%2Fradio%2FNoer.png&f=1&nofb=1",Noer
-http://radio.noizetv.ml:8000/radio2-2
-#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://static-media.streema.com/media/cache/10/08/1008244ccd3f877b1d0fff23259d6349.jpg",Neutralradio
-https://larry.torontocast.com:1795/stream
+https://surilive.com:8010/;stream.nsv
+#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-radiotime-logos.tunein.com%2Fs85876d.png&f=1&nofb=1",Radio 10 Magic FM
+https://s5.radio.co/s85a633f73/listen
+#EXTINF:-1 group-title="Suriname Radio" ,PIPEL FM
+https://rs.suricloud.com/radio/8010/radio.mp3
+#EXTINF:-1 group-title="Suriname Radio" ,Radio Koyeba
+http://162.244.80.245:8020/;
+#EXTINF:-1 group-title="Suriname Radio" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-radiotime-logos.tunein.com%2Fs98690d.png&f=1&nofb=1",Radio SRS
+https://surilive.com:8060/;stream.nsv
+#EXTINF:-1 group-title="Suriname Radio" ,Radio Trishul
+https://rs.suricloud.com/radio/8050/radio.mp3
+
