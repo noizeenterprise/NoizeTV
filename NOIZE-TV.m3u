@@ -40,7 +40,7 @@ https://allanf181.github.io/adaptive-streams/streams/kr/ChannelChina.m3u8
 https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 #EXTINF:-1 tvg-country="Nederland" tvg-logo="https://dbs.radioline.fr/pictures/radio_0552dccaa472c680eb63ad470e2d2c01/logo200.jpg?size=600" group-title="NL",NL - GO-RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1 tvg-country="Nederland" tvg-logo="https://www.jenz-tv.nl/img/logo.svg" group-title="NL",NL - JenZ 
+#EXTINF:-1 tvg-country="Nederland" tvg-logo="https://www.jenz-tv.nl/public/img/no-image/thumb-1400-1400/no-image.jpg" group-title="NL",NL - JenZ 
 https://ms2.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="Nederland" tvg-logo="https://vod.salto.nl/data/media/logo/brasa-music" group-title="NL",NL - Salto Brasa Music
 https://salto-streams.nl/hls/sotv1.m3u8
