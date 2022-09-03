@@ -68,6 +68,10 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662beb
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="US",Freebie TV
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://seeklogo.com/images/F/Family_Guy-logo-D070CB897C-seeklogo.com.png" group-title="US",Family Guy Live Stream
+https://www.youtube.com/watch?v=QOTEX7knSE4
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://w7.pngwing.com/pngs/748/698/png-transparent-super-dragonball-z-illustration-dragon-ball-heroes-goku-beerus-majin-buu-videl-dragon-ball-super-hd-computer-wallpaper-fictional-character-cartoon.png" group-title="US",Super Dragon Ball Heroes 
+https://www.youtube.com/watch?v=uyE-ZdV5AHw
 #EXTINF:-1 tvg-id="HauntTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jCaWSFK.png" group-title="US",Haunt TV
 https://haunttv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="US",MyTime Movie Network
