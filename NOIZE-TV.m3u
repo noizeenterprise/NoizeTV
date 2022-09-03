@@ -27,8 +27,25 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
                                 China
 
 #######################################################################################
-#EXTINF:-1 tvg-country="China" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu__drCnHehoCxZKiLNO9sbKWYPJvnx4I1IV5KQQ=s900-c-k-c0x00ffffff-no-rj"group-title="CN",Channel China
+#EXTINF:-1 tvg-country="China" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu__drCnHehoCxZKiLNO9sbKWYPJvnx4I1IV5KQQ=s900-c-k-c0x00ffffff-no-rj" group-title="CN",Channel China
 https://allanf181.github.io/adaptive-streams/streams/kr/ChannelChina.m3u8
+
+
+#######################################################################################
+
+                                Netherlands
+
+#######################################################################################
+#EXTINF:-1 tvg-country="Nederland" tvg-logo="https://www.radio.net/images/broadcasts/12/44/4504/c300.png" group-title="NL",NL - City Music TV
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:-1 tvg-country="Nederland" tvg-logo="https://dbs.radioline.fr/pictures/radio_0552dccaa472c680eb63ad470e2d2c01/logo200.jpg?size=600" group-title="NL",NL - GO-RTV
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:-1 tvg-country="Nederland" tvg-logo="https://www.jenz-tv.nl/img/logo.svg" group-title="NL",NL - JenZ 
+https://ms2.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="Nederland" tvg-logo="https://vod.salto.nl/data/media/logo/brasa-music" group-title="NL",NL - Salto Brasa Music
+https://salto-streams.nl/hls/sotv1.m3u8
+#EXTINF:-1 tvg-country="Nederland" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9QMZoF3ooMI1-ffKnmYYisUHR9Ftf75-zmBSHAiQ=s900-c-k-c0x00ffffff-no-rj" group-title="NL",NL - XITE
+https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 #######################################################################################
 
                                 USA
