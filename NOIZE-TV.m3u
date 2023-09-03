@@ -1,19 +1,160 @@
 #EXTM3U
 #######################################################################################
-
-                                BR
-
+################################BR#####################################################
 #######################################################################################
-#EXTINF:-1 tvg-id="FashionBoxHD.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/9bH6PBu.png" group-title="BR",BR - Fashionbox
+#EXTINF:-1 tvg-id="FashionBoxHD.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/9bH6PBu.png"  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | Fashionbox
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-country="BR" tvg-language="Korean" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="BR",BR - KpopTV Play
+#EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-country="BR" tvg-language="Korean" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png"  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | BR - KpopTV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeMinas.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Tgov03S.jpg" group-title="BR",BR - Rede Minas
+#EXTINF:-1 tvg-id="RedeMinas.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Tgov03S.jpg"  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
-#EXTINF:-1 tvg-id="RedeRC.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="BR",BR - Rede RC
-http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
-#EXTINF:-1 tvg-id="TVPampa.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Cnc1Mqo.png" group-title="BR",BR - Rede TV! Pampa
+#EXTINF:-1 tvg-id="TVPampa.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Cnc1Mqo.png"  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | Rede TV! Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
+
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png",BR | A&E
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98604
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Logo_of_Rede_Record.png",BR | Record
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98605
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://seeklogo.com/images/R/record-news-logo-5B8E6EACF4-seeklogo.com.png",BR | Record News
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98606
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/2110px-Globo_logo_%282020-%29.svg.png",BR | Globo
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98607
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://images.squarespace-cdn.com/content/v1/561903c1e4b076f7054b9c34/1481744785666-003IFQ3N4BQ7FWY25L4Z/GLOBO+MINAS.jpg?format=1000w",BR | Globo Minas
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98608
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7019-1071_import.png",BR | Globo News
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98609
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png",BR | Combate
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98610
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/3103/brand.gif?itok=8x9EKnHX",BR | Premiere 2
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98611
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",BR | ESPN
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98612
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png?20160127215859",BR | ESPN 2
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98613
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png",BR | ESPN Plus
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98614
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png",BR | Telecine Premium
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98615
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://www.nicepng.com/png/detail/233-2333069_hbo-signature-logo-png.png",BR | HBO Signature
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98616
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png",BR | HBO
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98617
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png?20210312152930",BR | HBO Family
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98618
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png",BR | HBO 2
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98619
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png",BR | Space
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98620
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sony_Channel_Logo_2019.svg/1200px-Sony_Channel_Logo_2019.svg.png",BR | Sony
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98621
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest?cb=20190430121503",BR | Paramount
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98622
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fsyfy.jpg&q=60",BR | SYFY
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98623
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/640px-TNT_%28TV_Channel%29.svg.png",BR | TNT
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98624
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",BR | TNT Series
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98625
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg",BR | FOX
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98626
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png",BR | HBO Xtreme
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98627
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png",BR | Discovery Kids
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98628
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-1.png",BR | Discovery HH
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98629
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png?v=638133714690000000",BR | Discovery Channel
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98630
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://logowik.com/content/uploads/images/multishow-20124940.logowik.com.webp",BR | Multishow
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98631
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",BR | Natgeo Wild
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98632
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://b606234.smushcdn.com/606234/wp-content/uploads/2020/01/National-Geographic-logo.jpg?lossy=1&strip=1&webp=1",BR | National Geographic
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98633
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png",BR | History
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98634
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://ia803201.us.archive.org/0/items/viva-tv_202008/viva-tv.png",BR | Viva
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98635
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",BR | Boomerang
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98636
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png",BR | Disney Channel
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98637
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png",BR | Tooncast
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98638
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Nick_Jr._2023_Logo_%28Outline%29.webp/630px-Nick_Jr._2023_Logo_%28Outline%29.webp.png",BR | Nick Jr
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98639
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://i.natgeofe.com/n/9809eae8-2750-4ecf-9d48-1de552cf0f78/kids.png",BR | Natgeo Kids
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98640
+#EXTINF:-1 tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png",BR | SportTV 1
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98641
+#EXTINF:-1 tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-2-451.png",BR | SportTV 2
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98642
+#EXTINF:-1 tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png",BR | SportTV 3
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98643
+#EXTINF:-1 tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",BR | Premier Sports 1
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98644
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Sky_Cinema_1.svg/revision/latest?cb=20100531210954",BR | Cine Sky 1
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98645
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | Cine Sky 2
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98646
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | Cine Sky 3
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98647
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | Cine Sky 5
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98648
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | Cine Sky 6
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98649
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | Cine Sky 7
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98650
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | Cine Sky 8
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98651
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | Cine Sky 10
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98652
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | Premiere 3
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98653
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | Premiere 4
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98654
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | Premiere 5
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98655
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | Premiere 6
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98656
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | Premiere 8
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98657
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://content.mlb.com/assets/images/0/6/6/97343066/cuts/1280x720_FoxSports1_jyfnmle3_nr0skid9.jpg",BR | FOX Sports 1
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98658
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_236.png?itok=YNJX_tQu",BR | Animal Planet
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98659
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://www.logotypes101.com/logos/312/97BBF5AE04BB637CECB452EB5C0259CD/discoveryworld.png",BR | Discovery World
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98660
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",BR | Discovery Turbo
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98661
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://brandslogo.net/wp-content/uploads/2013/08/discovery-hd-theater-vector-logo.png",BR | Discovery Theater
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98662
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | H2
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98663
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | History
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98664
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | HGTV
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98665
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | Bands Sports
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98666
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | AMC
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98667
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | AXN
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98668
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | Warner Channel
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98669
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="",BR | Lifetime
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98670
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://www.nicepng.com/png/detail/223-2235574_1-hbo-http-hbo-plus-logo-png.png",BR | HBO Plus
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98671
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://proflix.pro/upload/images/h%20(6).jpg",BR | HBO Pop
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98672
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png?20180106212012",BR | FX
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98673
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png",BR | Cinemax
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98674
+#EXTINF:-1  tvg-country="BR" tvg-language="Portuguese" group-title="BR" tvg-logo="https://www.seekpng.com/png/full/52-523157_fox-sports-2-logo-png-logo-fox-sports.png",BR | FOX Sports 2
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/98675
 #######################################################################################
 
                                 Netherlands
@@ -23,131 +164,136 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
 https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 #EXTINF:-1 tvg-country="Nederland" tvg-logo="https://dbs.radioline.fr/pictures/radio_0552dccaa472c680eb63ad470e2d2c01/logo200.jpg?size=600" group-title="NL",NL - GO-RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1 tvg-country="Nederland" tvg-logo="https://www.jenz-tv.nl/public/img/no-image/thumb-1400-1400/no-image.jpg" group-title="NL",NL - JenZ 
-https://ms2.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="Nederland" tvg-logo="https://vod.salto.nl/data/media/logo/brasa-music" group-title="NL",NL - Salto Brasa Music
-https://salto-streams.nl/hls/sotv1.m3u8
-#EXTINF:-1 tvg-country="Nederland" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9QMZoF3ooMI1-ffKnmYYisUHR9Ftf75-zmBSHAiQ=s900-c-k-c0x00ffffff-no-rj" group-title="NL",NL - XITE
-https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 #######################################################################################
-
-                                USA
-
+################################USA
 #######################################################################################
-#EXTINF:-1 tvg-id="PlutoTVAnimeAllAges.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="US",Anime All Ages
+#EXTINF:-1 tvg-id="PlutoTVAnimeAllAges.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png"  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Anime All Ages
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-logo="https://m.media-amazon.com/images/I/61SWEs4IPYL._AC_SX466_.jpg" group-title="US",Adult Swim Aqua Teen Hunger Force
+#EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-logo="https://m.media-amazon.com/images/I/61SWEs4IPYL._AC_SX466_.jpg"  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Adult Swim Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_de.m3u8
-#EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Off_the_Air_poster.jpeg" group-title="US",Adult Swim Off The Air
+#EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Off_the_Air_poster.jpeg"  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Adult Swim Off The Air
 https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
-#EXTINF:-1 tvg-id="AdultSwimRickandMorty.us" tvg-logo="https://i.imgur.com/JvLSIAO.png" group-title="US",Adult Swim Rick and Morty
+#EXTINF:-1 tvg-id="AdultSwimRickandMorty.us" tvg-logo="https://i.imgur.com/JvLSIAO.png"  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Adult Swim Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
-#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://cdna.artstation.com/p/assets/covers/images/033/876/718/large/marcos-ramos-marcos-ramos-samurai-jack-marcos-ramos-character-design-jack-01.jpg?1610800082" group-title="US",Adult Swim Samurai Jack
+#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://cdna.artstation.com/p/assets/covers/images/033/876/718/large/marcos-ramos-marcos-ramos-samurai-jack-marcos-ramos-character-design-jack-01.jpg?1610800082"  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Adult Swim Samurai Jack
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" group-title="US",Action
+#EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png"  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Action
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="CineLife.us" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="US",CineLife
-https://magselect-stirr.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="US",Comedy Central
+
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Bravo
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/149
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Cartoon Network
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/150
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Cinemax
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/156
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Comedy Central
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/158
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Disney XD
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/164
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | FOX Life
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/177
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Fuse
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/206
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | FX
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/207
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | FXM
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/208
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | FXX
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/209
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png",US | HBO
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/214
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png",US | HBO 2
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/215
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | HBO Comedy
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/216
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="" tvg-logo="hhttps://www.nicepng.com/png/detail/233-2333069_hbo-signature-logo-png.png",US | HBO Signature
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/217
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Lifetime
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/221
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | PBS
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/251
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Pop
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/252
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Showtime
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/253
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Showtime 2
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/254
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Showtime Showcase
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/255
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Starz Cinema
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/258
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Starz East
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/259
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fsyfy.jpg&q=60",US | SyFy
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/260
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | TBS
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/261
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | VH1
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/268
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo=""  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Comedy Central
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca671f215a62078d2ec0abf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=465&terminate=false&userId=
-#EXTINF:-1 tvg-id="ComedyCentralAnimation.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" group-title="US",Comedy Central Animation
+#EXTINF:-1 tvg-id="ComedyCentralAnimation.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png"  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Comedy Central Animation
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVComedy.us" tvg-logo="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG.png" group-title="US",Pluto TV Comedy
+#EXTINF:-1 tvg-id="PlutoTVComedy.us" tvg-logo="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG.png"  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Pluto TV Comedy
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d3a00ad95e4718ae8d8db&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=57&terminate=false&userId=
-#EXTINF:-1 tvg-id="DoctorWho.us" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" group-title="US",Doctor Who
+#EXTINF:-1 tvg-id="DoctorWho.us" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png"  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Doctor Who
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnNuZWlnLmxpdmVkcmFtYV9pY29uXzE1OTQxMDk4NTVfMDc3/icon.png?w=170&fakeurl=1"group-title="US",Drama Life
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnNuZWlnLmxpdmVkcmFtYV9pY29uXzE1OTQxMDk4NTVfMDc3/icon.png?w=170&fakeurl=1"group-title="US" tvg-logo="",US | Drama Life
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1 tvg-id="PlutoTVFantastic.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="US",Fantastic
+#EXTINF:-1 tvg-id="PlutoTVFantastic.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png"  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Fantastic
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="US",Freebie TV
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo=""  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Freebie TV
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
-#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="US",MyTime Movie Network
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png"  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | MyTime Movie Network
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="US",Movie Sphere
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png"  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="STIRRMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ec3yTaI.png" group-title="US",STIRR Movies
+#EXTINF:-1 tvg-id="STIRRMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ec3yTaI.png"  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | STIRR Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-#EXTINF:-1 tvg-id="RedboxSpotlight.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="US",Redbox 1: Spotlight
+#EXTINF:-1 tvg-id="RedboxSpotlight.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OrGCnPg.jpg"  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Redbox 1: Spotlight
 https://spotlight-redbox.amagi.tv/playlist.m3u8
-EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2019/05/Screenshot-2019-05-07-at-19.00.36.png" group-title="US",Pluto TV Crime Movies
+EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2019/05/Screenshot-2019-05-07-at-19.00.36.png"  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Pluto TV Crime Movies
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="StarTrek.us" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="US",Pluto TV Star Trek
+#EXTINF:-1 tvg-id="StarTrek.us" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png"  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Pluto TV Star Trek
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="US",Paramount Plus Picks
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo=""  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Paramount Plus Picks
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
-#EXTINF:-1 tvg-id="SundanceTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png" group-title="US",Sundance East
-https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/playlist.m3u8
 #######################################################################################
-
-                                Documentary
-
+################################Documentary
 #######################################################################################
 #EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="Documentary",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="Documentary",Love Nature
-http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimalsUK.uk" tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/colorLogoPNG.png" group-title="Documentary",Pluto TV Animals (England)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
+
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Animal Planet
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/142
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Discovery Channel
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/160
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Nat Geo
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/224
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Nat Geo Mundo
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/225
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | Nat Geo Wild
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/226
+#EXTINF:-1  tvg-country="US" tvg-language="English" group-title="US" tvg-logo="",US | National Geographic
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/227
 #######################################################################################
-
-                                Entertainment
-
+################################Entertainment
 #######################################################################################
 #EXTINF:-1 tvg-id="BETEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/y7OFjgP.png" group-title="Entertainment",BET
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca670f6593a5d78f0e85aed&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=174&terminate=false&userId=
-#EXTINF:-1 tvg-id="BounceXL.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="Entertainment",Bounce XL
-https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/playlist.m3u8
-#EXTINF:-1 tvg-id="ChiveTV.us" tvg-logo="https://yt3.ggpht.com/a-/AN66SAz6Ssqjkt5Zn__8q2-hhZEPzoma1h3_IshrpQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="Entertainment",Chive TV
-http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="EntertainmentTonight.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/TXamgdB.png" group-title="Entertainment",Entertainment Tonight
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFashionTV.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/60c882460ea4a200076a2a37/colorLogoPNG.png" group-title="Entertainment",Fashion TV
-https://siloh.pluto.tv/lilo/production/FashionTV/master.m3u8
 #EXTINF:-1 tvg-id="Fight.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="Entertainment",Fight
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9bda9fd87eb3a2717cce0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c2fb668-242f-4e7f-a025-087099fd0aca&terminate=false&userId=
 #EXTINF:-1 tvg-id="MTVPlutoTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="Entertainment",MTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=
-#EXTINF:-1 tvg-id="PeopleTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7SarjaU.png" group-title="Entertainment",People TV
-https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="PopstarTV.us" tvg-logo="https://i.imgur.com/mWrqBaS.png" group-title="Entertainment",Popstar! TV
-https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="PopTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XSFB7nz.png" group-title="Entertainment",Pop TV
-http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SparkTV.uk" tvg-logo="https://i.imgur.com/vTGknv3.png" group-title="Entertainment",Spark Tv
-https://sparktv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TheEdgeTV.nz" tvg-logo="https://i.imgur.com/ZHJVvOj.png" group-title="Entertainment",The Edge
-https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 #EXTINF:-1 tvg-id="LoveHipHop.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d51ddf0369acdb278dfb05e/colorLogoPNG.png" group-title="Entertainment",Love & Hip Hop
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d51ddf0369acdb278dfb05e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=283&terminate=false&userId=
-#EXTINF:-1 tvg-id="WildNOut.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/Wild%20N%20Out_190x190.png?raw=true" group-title="Entertainment",Wild 'N Out
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1 tvg-id="Vevo70s.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Entertainment",VEVO 70's
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="Vevo80s.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="Entertainment",VEVO 80's
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="Vevo90s.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Entertainment",VEVO 90's
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="Vevo2K.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Entertainment",VEVO 2K
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="VevoCountry.us" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="Entertainment",VEVO Country
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="VevoRB.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Entertainment",VEVO R&B
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="VevoReggaetonTrap.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" group-title="Entertainment",VEVO Reggeaton & Trap
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="VevoPop.us" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Entertainment",Vevo Pop Europe
-https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-#EXTINF:-1 tvg-id="USAToday.us" tvg-logo="https://i.imgur.com/K9OdCIV.png" group-title="Entertainment",USA Today
-https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
 #EXTINF:-1 tvg-id="YoungHollywood.us" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Entertainment",Young Hollywood
 https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Xplore.us" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="Entertainment",Xplore
-http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #######################################################################################
-
-                                Miami TV
-
+################################Miami TV
 #######################################################################################
 #EXTINF:-1 group-title="Miami TV" tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
@@ -156,20 +302,16 @@ https://5ee7c2b857b7f.streamlock.net/latino/smil:WEB/playlist.m3u8
 #EXTINF:-1 group-title="Miami TV" tvg-logo="https://miamitvhd.com/assets/Jennylive-20d0592904692fc4a548f22667bdab44f98e36b153efb13719b66be478de186b.png",Miami Live
 https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
 #######################################################################################
-
-                                Suriname TV
-
+################################Suriname TV
 ########################################################################################
 #EXTINF:-1 group-title="Suriname TV" tvg-logo="https://cdn-radiotime-logos.tunein.com/s197042g.png",SCCN CH1
 https://video1.getstreamhosting.com:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 group-title="Suriname TV" tvg-logo="https://cdn-radiotime-logos.tunein.com/s197042g.png",SCCN CH2
-https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
-#EXTINF:-1 group-title="Suriname TV" tvg-logo="https://cdn-radiotime-logos.tunein.com/s197042g.png",SCCN CH3
 https://video1.getstreamhosting.com:1936/8979/8979/playlist.m3u8
+#EXTINF:-1 group-title="Suriname TV" tvg-logo="https://cdn-radiotime-logos.tunein.com/s197042g.png",SCCN CH3
+https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
 #######################################################################################
-
-                                Suriname Radio
-
+################################Suriname Radio
 ########################################################################################
 #EXTINF:-1 group-title="Suriname Radio" ,Apintie Radio
 https://surilive.com:8000/;
